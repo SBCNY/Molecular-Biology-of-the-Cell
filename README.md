@@ -31,7 +31,7 @@ The script will generate a data instance ("data") that contains experimental dat
   
 3) Optional: Modify enrichment options<br>
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
-   - General options (for standard and dynamic enrichment analysis)<br>
+   <b>General options (for standard and dynamic enrichment analysis)</b><br>
    Data_value_signs_of_interest:<br>
    Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.<br>
    Upregulated: All symbols of each sampleName that have a positive value will be analyzed as one group.<br>
@@ -40,10 +40,10 @@ The script will generate a data instance ("data") that contains experimental dat
    Maximum_pvalue_for_standardDynamicEnrichment:<br>
    All predicted SCPs or SCP-unions with a p-value above the indicated value will be removed.<br>
    <br>                                                 
-   - Options for standard enrichment analysis only<br>
+   <b>Options for standard enrichment analysis only</b><br>
    Kept_top_predictions_standardEnrichment_per_level:<br>
    All SCPs that were predicted based on standard enrichment analysis will be ranked                                                       for each level. The indicated top predictions will finally be kept. Default is: Level 1: 5, Level2: 5, Level 3: 10, Level 4: 5.<br>
-   - Options for dynamic enrichment analysis only<br>
+   <b>Options for dynamic enrichment analysis only</b><br>
     Consider_interactions_between_signalingSCPs_for_dyanmicEnrichment: Specifies, if SCP-SCP interactions between 2 signaling SCPs should be considered. Default is false.<br>
    Kept_top_predictions_dynamicEnrichment_per_level:<br>
 All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment analysis will be ranked by significance. The indicated top predictions will be kept. Default is 5.<br>
