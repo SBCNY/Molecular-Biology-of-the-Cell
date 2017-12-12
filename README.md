@@ -8,14 +8,14 @@ Specify the const mbco_major_directory (including hard drive letter). This is th
 Run the function create all directories.
 Copy paste the MBCO files "Supplementary Table S1B.txt","Supplementary Table S32 - gene-SCP associations" and "Supplementary Table S35 - inferred SCP relationships" into the directory MBCO_datasets.
 
-1) <b>Specify data for enrichment analysis</b><br>
+<b>Specify data for enrichment analysis</b><br>
 The script will generate a data instance ("data") that contains experimental data that shall be subjected to enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al.) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.
 <br>
-- <b>Analyze example data</b><br>
+- <i>Analyze example data</i><br>
    Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
    the other regions and the regions labeled with Custom data.<br>
    <br>
-- <b>Analyze own data</b><br>
+- <i>Analyze own data</i><br>
    Go to the function "Get_custom_data_by_copy_paste". Copy paste the gene list into the quotation marks after
    ncbi_official_gene_symbol (one gene per row as indicated). Uncomment the command line within the region Custom data - reading custom
    data spreadsheet. Comment all other regions that assign data to the data instance (Example study 1, Example study 2 and Example study
@@ -29,7 +29,7 @@ The script will generate a data instance ("data") that contains experimental dat
    command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other
    regions.
   
-2) <b>Optional: Modify enrichment options</b><br>
+<b>Optional: Modify enrichment options</b><br>
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
    <br>
    <i>General options (for standard and dynamic enrichment analysis)</i><br>
@@ -55,7 +55,7 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
    Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level:<br>
    The 2507 infered SCP-SCP interactions (supplementary table S35) will be ranked by the strength of the interaction. This value specifies which fraction of all SCP-SCP interactions will be considered to generate new SCP unions, starting with those SCP-SCP interactions with the strongest interaction. Default top 0.25.<br>
 <br>
-4) Optional: Specify experimental background genes<br>
+<b>Optional: Specify experimental background genes</b><br>
    Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
    that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
    bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
@@ -63,11 +63,11 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
    the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
    genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
    <br>               
-5) Run the script<br>
+<b>Run the script</b><br>
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
    the name specified in base_file_name.
 <br>
-6) Analyze the results<br>
+<b>Analyze the results</b><br>
    The graphml networks can be opend with the network visualization software yED. The file Legend_for_networks contains general
    information.<br>
    The R-script "Generate_barpolots_for_enrichment_results" will generate bar diagrams for the results of the standard and dynamic
