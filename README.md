@@ -12,7 +12,7 @@ Enrichment analysis
 - The script will generate a data instance ("data") that contains experimental data that shall be subjected to enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al.) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.
 
 1) Analyze example data
-   Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
+   - Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
    the other regions and the regions labeled with Custom data.
    
 2) Analyze own data
@@ -29,7 +29,7 @@ Enrichment analysis
    command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other
    regions.
   
-3) Specify enrichment options:
+3) Optional: Modify enrichment options
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
    General options (for standard and dynamic enrichment analysis)
    Data_value_signs_of_interest: Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.
@@ -63,7 +63,7 @@ Enrichment analysis
                                                                      considered to generate new SCP unions, starting with those SCP-SCP
                                                                      interactions with the strongest interaction. Default top 0.25.
 
-4) Specify experimental background genes
+4) Optional: Specify experimental background genes
    Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
    that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
    bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
@@ -71,15 +71,14 @@ Enrichment analysis
    the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
    genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
                   
-4) Run the script
+5) Run the script
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
    the name specified in base_file_name.
 
-5) Analyze the results
+6) Analyze the results
    - The graphml networks can be opend with the network visualization software yED. The file Legend_for_networks contains general
    information.
    - The R-script "Generate_barpolots_for_enrichment_results" will generate bar diagrams for the results of the standard and dynamic
    enrichment analysis. The mbco_base_directory has to contain the path of the results directory. Specific_study_name contains the name
    that is given by base_file_name in the C# script. This R-script will write two PDF files into the study specific results
-
    
