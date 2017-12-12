@@ -1,6 +1,6 @@
 # Molecular-Biology-of-the-Cell
-Before the first use:
-- Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
+Before the first use:<br>
+Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
 Select Solution 'MBCO_standard_dynamic_enrichment'. In the window properties set the path to the path that contains the downloaded files.
 In the Solution Explorer open the folder Common_functions and the file "Global_definitions.sc".
 Go to the class Global_directory_and_file_class
