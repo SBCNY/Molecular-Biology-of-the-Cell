@@ -1,5 +1,5 @@
 # Molecular-Biology-of-the-Cell
-Before the first use<br>
+<b>Before the first use</b><br>
 Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
 Select Solution 'MBCO_standard_dynamic_enrichment'. In the window properties set the path to the path that contains the downloaded files.
 In the Solution Explorer open the folder Common_functions and the file "Global_definitions.sc".
@@ -8,14 +8,14 @@ Specify the const mbco_major_directory (including hard drive letter). This is th
 Run the function create all directories.
 Copy paste the MBCO files "Supplementary Table S1B.txt","Supplementary Table S32 - gene-SCP associations" and "Supplementary Table S35 - inferred SCP relationships" into the directory MBCO_datasets.
 
-Enrichment analysis<br>
+<b>Enrichment analysis</b?<br>
 The script will generate a data instance ("data") that contains experimental data that shall be subjected to enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al.) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.
 
-1) Analyze example data<br>
+1) <b>Analyze example data</b><br>
    Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
    the other regions and the regions labeled with Custom data.
    
-2) Analyze own data<br>
+2) <b>Analyze own data</b><br>
    Go to the function "Get_custom_data_by_copy_paste". Copy paste the gene list into the quotation marks after
    ncbi_official_gene_symbol (one gene per row as indicated). Uncomment the command line within the region Custom data - reading custom
    data spreadsheet. Comment all other regions that assign data to the data instance (Example study 1, Example study 2 and Example study
@@ -29,9 +29,10 @@ The script will generate a data instance ("data") that contains experimental dat
    command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other
    regions.
   
-3) Optional: Modify enrichment options<br>
+3) <b>Optional: Modify enrichment options</b><br>
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
-   <b>General options (for standard and dynamic enrichment analysis)</b><br>
+   <br>
+   <i>General options (for standard and dynamic enrichment analysis)</i><br>
    Data_value_signs_of_interest:<br>
    Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.<br>
    Upregulated: All symbols of each sampleName that have a positive value will be analyzed as one group.<br>
