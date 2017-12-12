@@ -70,7 +70,7 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
    <br>               
 <b>Run the script</b><br>
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
-   the name specified in base_file_name.
+   the name specified in base_file_name.<br>
 <br>
 <b>Analyze the results</b><br>
    The graphml networks can be opend with the network visualization software yED. The file Legend_for_networks contains general
