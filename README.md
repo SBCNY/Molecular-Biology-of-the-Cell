@@ -32,36 +32,28 @@ The script will generate a data instance ("data") that contains experimental dat
 3) Optional: Modify enrichment options<br>
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
    - General options (for standard and dynamic enrichment analysis)<br>
-   Data_value_signs_of_interest: Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.<br>
-                                 Upregulated: All symbols of each sampleName that have a positive value will be analyzed as one group.<br>
-                                 Downregulated: All symbols of each sampleName that have a negative value will be analyzed as one group.<br>
-   Maximum_pvalue_for_standardDynamicEnrichment: All predicted SCPs or SCP-unions with a p-value above the indicated value will be
-                                                 removed.<br>
-                                                 
+   Data_value_signs_of_interest:<br>
+   Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.<br>
+   Upregulated: All symbols of each sampleName that have a positive value will be analyzed as one group.<br>
+   Downregulated: All symbols of each sampleName that have a negative value will be analyzed as one group.<br>
+   <br>
+   Maximum_pvalue_for_standardDynamicEnrichment:<br>
+   All predicted SCPs or SCP-unions with a p-value above the indicated value will be removed.<br>
+   <br>                                                 
    - Options for standard enrichment analysis only<br>
-   Kept_top_predictions_standardEnrichment_per_level: All SCPs that were predicted based on standard enrichment analysis will be ranked
-                                                      for each level. The indicated top predictions will finally be kept. 
-                                                      Default is: Level 1: 5, Level2: 5, Level 3: 10, Level 4: 5.
-                                                      
+   Kept_top_predictions_standardEnrichment_per_level:<br>
+   All SCPs that were predicted based on standard enrichment analysis will be ranked                                                       for each level. The indicated top predictions will finally be kept. Default is: Level 1: 5, Level2: 5, Level 3: 10, Level 4: 5.<br>
    - Options for dynamic enrichment analysis only<br>
     Consider_interactions_between_signalingSCPs_for_dyanmicEnrichment: Specifies, if SCP-SCP interactions between 2 signaling SCPs should be considered. Default is false.<br>
-   Kept_top_predictions_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
-                                                     analysis will be ranked by significance. The indicated top predictions will be
-                                                     kept. Default is 5.<br>
-   Kept_singleSCPs_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
-                                                analysis will be ranked by significance. All top predictions will be kept until the
-                                                total number of SCPs that were predicted as single SCPs or as part of SCP-unions exceeds
-                                                the given number. Default is: 99.<br>
-   Numbers_of_merged_scps_for_dynamicEnrichment_per_level: Specifies how many SCPs with inferred relationships (see supplementary table
-                                                           S35) and contain at least one experimental gene will be merged with each
-                                                           other to generate new SCP-unions for the dynamic enrichment analysis. 
-                                                           Default is 2 and 3.<br>
-   Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level: The 2507 infered SCP-SCP interactions (supplementary table S35)
-                                                                     will be ranked by the strength of the interaction. This value
-                                                                     specifies which fraction of all SCP-SCP interactions will be
-                                                                     considered to generate new SCP unions, starting with those SCP-SCP
-                                                                     interactions with the strongest interaction. Default top 0.25.<br>
-
+   Kept_top_predictions_dynamicEnrichment_per_level:<br>
+All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment analysis will be ranked by significance. The indicated top predictions will be kept. Default is 5.<br>
+   Kept_singleSCPs_dynamicEnrichment_per_level:<br>
+   All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment analysis will be ranked by significance. All top predictions will be kept until the total number of SCPs that were predicted as single SCPs or as part of SCP-unions exceeds the given number. Default is: 99.<br>
+   Numbers_of_merged_scps_for_dynamicEnrichment_per_level:<br>
+   Specifies how many SCPs with inferred relationships (see supplementary table S35) and contain at least one experimental gene will be merged with each other to generate new SCP-unions for the dynamic enrichment analysis. Default is 2 and 3.<br>
+   Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level:<br>
+   The 2507 infered SCP-SCP interactions (supplementary table S35) will be ranked by the strength of the interaction. This value specifies which fraction of all SCP-SCP interactions will be considered to generate new SCP unions, starting with those SCP-SCP interactions with the strongest interaction. Default top 0.25.<br>
+<br>
 4) Optional: Specify experimental background genes<br>
    Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
    that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
@@ -69,11 +61,11 @@ The script will generate a data instance ("data") that contains experimental dat
    abstract during the population of the ontology and the experimental background genes. If the experimental background genes array has
    the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
    genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
-                  
+   <br>               
 5) Run the script<br>
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
    the name specified in base_file_name.
-
+<br>
 6) Analyze the results<br>
    The graphml networks can be opend with the network visualization software yED. The file Legend_for_networks contains general
    information.<br>
