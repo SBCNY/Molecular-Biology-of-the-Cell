@@ -1,6 +1,0 @@
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\bin\Debug\Pubmed_search.exe
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\bin\Debug\Pubmed_search.pdb
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\obj\Debug\MBCO_project.csprojResolveAssemblyReference.cache
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\obj\Debug\MBCO_project.csproj.CoreCompileInputs.cache
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\obj\Debug\Pubmed_search.exe
-C:\Users\FOWL\Desktop\MBCO_standard_dynamic_enrichment\Pubmed_search\obj\Debug\Pubmed_search.pdb
