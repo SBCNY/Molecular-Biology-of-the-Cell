@@ -8,14 +8,14 @@ Specify the const mbco_major_directory (including hard drive letter). This is th
 Run the function create all directories.
 Copy paste the MBCO files "Supplementary Table S1B.txt","Supplementary Table S32 - gene-SCP associations" and "Supplementary Table S35 - inferred SCP relationships" into the directory MBCO_datasets.
 
-<b>Enrichment analysis</b?<br>
+1) <b>Specify data for enrichment analysis</b><br>
 The script will generate a data instance ("data") that contains experimental data that shall be subjected to enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al.) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.
-
-1) <b>Analyze example data</b><br>
+<br>
+- <b>Analyze example data</b><br>
    Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
-   the other regions and the regions labeled with Custom data.
-   
-2) <b>Analyze own data</b><br>
+   the other regions and the regions labeled with Custom data.<br>
+   <br>
+- <b>Analyze own data</b><br>
    Go to the function "Get_custom_data_by_copy_paste". Copy paste the gene list into the quotation marks after
    ncbi_official_gene_symbol (one gene per row as indicated). Uncomment the command line within the region Custom data - reading custom
    data spreadsheet. Comment all other regions that assign data to the data instance (Example study 1, Example study 2 and Example study
@@ -29,7 +29,7 @@ The script will generate a data instance ("data") that contains experimental dat
    command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other
    regions.
   
-3) <b>Optional: Modify enrichment options</b><br>
+2) <b>Optional: Modify enrichment options</b><br>
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
    <br>
    <i>General options (for standard and dynamic enrichment analysis)</i><br>
@@ -41,10 +41,10 @@ The script will generate a data instance ("data") that contains experimental dat
    Maximum_pvalue_for_standardDynamicEnrichment:<br>
    All predicted SCPs or SCP-unions with a p-value above the indicated value will be removed.<br>
    <br>                                                 
-   <b>Options for standard enrichment analysis only</b><br>
+   <i>Options for standard enrichment analysis only</i><br>
    Kept_top_predictions_standardEnrichment_per_level:<br>
    All SCPs that were predicted based on standard enrichment analysis will be ranked                                                       for each level. The indicated top predictions will finally be kept. Default is: Level 1: 5, Level2: 5, Level 3: 10, Level 4: 5.<br>
-   <b>Options for dynamic enrichment analysis only</b><br>
+   <i>Options for dynamic enrichment analysis only</i><br>
     Consider_interactions_between_signalingSCPs_for_dyanmicEnrichment: Specifies, if SCP-SCP interactions between 2 signaling SCPs should be considered. Default is false.<br>
    Kept_top_predictions_dynamicEnrichment_per_level:<br>
 All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment analysis will be ranked by significance. The indicated top predictions will be kept. Default is 5.<br>
