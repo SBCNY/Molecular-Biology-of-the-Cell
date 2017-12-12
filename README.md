@@ -62,7 +62,15 @@ Enrichment analysis
                                                                      specifies which fraction of all SCP-SCP interactions will be
                                                                      considered to generate new SCP unions, starting with those SCP-SCP
                                                                      interactions with the strongest interaction. Default top 0.25.
-                                              
+
+4) Specify experimental background genes
+   Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
+   that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
+   bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
+   abstract during the population of the ontology and the experimental background genes. If the experimental background genes array has
+   the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
+   genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
+                  
 4) Run the script
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
    the name specified in base_file_name.
