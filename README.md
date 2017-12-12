@@ -31,40 +31,40 @@ Enrichment analysis
   
 3) Optional: Modify enrichment options
    After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.
-   General options (for standard and dynamic enrichment analysis)
-   Data_value_signs_of_interest: Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.
+   - General options (for standard and dynamic enrichment analysis)
+   - Data_value_signs_of_interest: Combined: All symbols of each sampleName that have a non zero value will be analyzed as one group.
                                  Upregulated: All symbols of each sampleName that have a positive value will be analyzed as one group.
                                  Downregulated: All symbols of each sampleName that have a negative value will be analyzed as one group.
-   Maximum_pvalue_for_standardDynamicEnrichment: All predicted SCPs or SCP-unions with a p-value above the indicated value will be
+   - Maximum_pvalue_for_standardDynamicEnrichment: All predicted SCPs or SCP-unions with a p-value above the indicated value will be
                                                  removed.
                                                  
-   Options for standard enrichment analysis only
-   Kept_top_predictions_standardEnrichment_per_level: All SCPs that were predicted based on standard enrichment analysis will be ranked
+   - Options for standard enrichment analysis only
+   - Kept_top_predictions_standardEnrichment_per_level: All SCPs that were predicted based on standard enrichment analysis will be ranked
                                                       for each level. The indicated top predictions will finally be kept. 
                                                       Default is: Level 1: 5, Level2: 5, Level 3: 10, Level 4: 5.
                                                       
-   Options for dynamic enrichment analysis only
-   Consider_interactions_between_signalingSCPs_for_dyanmicEnrichment: Specifies, if SCP-SCP interactions between 2 signaling SCPs should
+   - Options for dynamic enrichment analysis only
+    - Consider_interactions_between_signalingSCPs_for_dyanmicEnrichment: Specifies, if SCP-SCP interactions between 2 signaling SCPs should
    be considered. Default is false.
-   Kept_top_predictions_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
+   - Kept_top_predictions_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
                                                      analysis will be ranked by significance. The indicated top predictions will be
                                                      kept. Default is 5.
-   Kept_singleSCPs_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
+   - Kept_singleSCPs_dynamicEnrichment_per_level: All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment
                                                 analysis will be ranked by significance. All top predictions will be kept until the
                                                 total number of SCPs that were predicted as single SCPs or as part of SCP-unions exceeds
                                                 the given number. Default is: 99.
-   Numbers_of_merged_scps_for_dynamicEnrichment_per_level: Specifies how many SCPs with inferred relationships (see supplementary table
+   - Numbers_of_merged_scps_for_dynamicEnrichment_per_level: Specifies how many SCPs with inferred relationships (see supplementary table
                                                            S35) and contain at least one experimental gene will be merged with each
                                                            other to generate new SCP-unions for the dynamic enrichment analysis. 
                                                            Default is 2 and 3.
-   Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level: The 2507 infered SCP-SCP interactions (supplementary table S35)
+   - Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level: The 2507 infered SCP-SCP interactions (supplementary table S35)
                                                                      will be ranked by the strength of the interaction. This value
                                                                      specifies which fraction of all SCP-SCP interactions will be
                                                                      considered to generate new SCP unions, starting with those SCP-SCP
                                                                      interactions with the strongest interaction. Default top 0.25.
 
 4) Optional: Specify experimental background genes
-   Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
+   - Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
    that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
    bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
    abstract during the population of the ontology and the experimental background genes. If the experimental background genes array has
@@ -72,7 +72,7 @@ Enrichment analysis
    genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
                   
 5) Run the script
-   The script will generate a study specific results directory within the Results directory. The name of the directory will start with
+   - The script will generate a study specific results directory within the Results directory. The name of the directory will start with
    the name specified in base_file_name.
 
 6) Analyze the results
