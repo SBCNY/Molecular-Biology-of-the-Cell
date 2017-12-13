@@ -64,7 +64,7 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
    bg_genes. The final background genes is the intersection between the MBCO background genes (i.e. all genes that our textmining algorithm identified in at least one
    abstract during the population of the ontology) and the experimental background genes. If the experimental background genes array has
    the length 0, the script will set the MBCO background genes as the final background
-   genes. All MBCO genes and all experimental genes that are not part of the final background genes will be removed.
+   genes. All MBCO genes and all experimental genes that are not part of the final background genes will be removed before Fisher's Exact test.
    <br>               
 <b>Run the script</b><br>
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
