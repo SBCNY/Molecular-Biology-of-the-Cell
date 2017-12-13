@@ -37,7 +37,7 @@ The script will generate a data instance ("data") that contains experimental dat
    Downregulated: All symbols of each sampleName that have a negative value will be analyzed as one group.<br>
    <br>
    Maximum_pvalue_for_standardDynamicEnrichment:<br>
-   All predicted SCPs or SCP-unions with a p-value above the indicated value will be removed.<br>
+   All predicted SCPs or SCP-unions with a p-value above the indicated value will be removed. Default is 1.<br>
    <br>                                                 
    <i>Options for standard enrichment analysis only</i><br>
    Kept_top_predictions_standardEnrichment_per_level:<br>
