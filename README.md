@@ -53,14 +53,14 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
    All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment analysis will be ranked by significance. All top predictions will be kept until the total number of SCPs that were predicted as single SCPs or as part of SCP-unions exceeds the given number. Default is: 99.<br>
    <br>
    Numbers_of_merged_scps_for_dynamicEnrichment_per_level:<br>
-   Specifies how many SCPs with inferred relationships (see supplementary table S35) and contain at least one experimental gene will be merged with each other to generate new SCP-unions for the dynamic enrichment analysis. Default is 2 and 3.<br>
+   The dynamic enrichment algorithm generates new SCP-unions by merging SCPs that contain at least one experimental gene and are related to each other as indicated in supplementary table S35. The values in this array specify the exact numbers of SCPs that will be merged with each other to generate new SCP-unions for the dynamic enrichment analysis. Default is 2 and 3.<br>
    <br>
    Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level:<br>
    The 2507 infered SCP-SCP interactions (supplementary table S35) will be ranked by the strength of the interaction. This value specifies which fraction of all SCP-SCP interactions will be considered to generate new SCP unions, starting with those SCP-SCP interactions with the strongest interaction. Default top 0.25.<br>
 <br>
 <b>Optional: Specify experimental background genes</b><br>
    Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
-   that are annotated to a reference genome can be identified via RNASeq). These genes can be specified by adding into the array
+   that are annotated to a reference genome can be identified via RNASeq). These genes can be specified within the array
    bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
    abstract during the population of the ontology and the experimental background genes. If the experimental background genes array has
    the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
