@@ -1,4 +1,4 @@
-# Molecular-Biology-of-the-Cell
+# Molecular-Biology-of-the-Cell Ontology (MBCO)
 <b>Before the first use</b><br>
 Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
 Select Solution 'MBCO_standard_dynamic_enrichment'. In the window properties set the path to the path that contains the downloaded files.
@@ -61,10 +61,10 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
 <b>Optional: Specify experimental background genes</b><br>
    Experimental background genes are those genes that do have a chance to be identified via the experimental methods (e.g. only genes
    that are annotated to a reference genome can be identified via RNASeq). These genes can be specified within the array
-   bg_genes. The final background genes is the intersection between all genes that our textmining algorithm identified in at least one
-   abstract during the population of the ontology and the experimental background genes. If the experimental background genes array has
-   the length 0, the script will used set the complete list of genes that were identified in at least one abstract as final background
-   genes. All genes in the MBC Ontology and all experimental genes that are not part of the final background genes will be removed.
+   bg_genes. The final background genes is the intersection between the MBCO background genes (i.e. all genes that our textmining algorithm identified in at least one
+   abstract during the population of the ontology) and the experimental background genes. If the experimental background genes array has
+   the length 0, the script will set the MBCO background genes as the final background
+   genes. All MBCO genes and all experimental genes that are not part of the final background genes will be removed.
    <br>               
 <b>Run the script</b><br>
    The script will generate a study specific results directory within the Results directory. The name of the directory will start with
