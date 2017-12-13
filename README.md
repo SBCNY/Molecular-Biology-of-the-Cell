@@ -9,7 +9,7 @@ Run the function create all directories.
 Copy paste the MBCO files "Supplementary Table S1B.txt","Supplementary Table S32 - gene-SCP associations" and "Supplementary Table S35 - inferred SCP relationships" into the directory MBCO_datasets.
 
 <b>Specify data for enrichment analysis</b><br>
-The script will generate a data instance ("data") that contains experimental data that shall be subjected to enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al.) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.<br>
+The script will generate a data instance ("data") that contains experimental data that will be subjected to the enrichment analysis instance ("mbco_enrichment_pipeline"). This data instance can either be filled with data from three published example studies (see Hansen et al. 2017) or with custom data. The latter can either be added via copy paste or loaded from a file that needs to be in the "Custom_data_sets" folder.<br>
 <br>
 <i>Analyze example data</i><br>
    Uncomment the commands within the regions Example study 1, Example study 2 or Example study 3 and comment all other commands within
