@@ -28,7 +28,7 @@ The script will generate a data instance ("data") that contains experimental dat
    Uncomment the command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other regions.<br>
   
 <b>Optional: Modify enrichment options</b><br>
-   After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance.<br>
+   After construction of the mbco_enrichment_pipeline instance, several options can be specified in the corresponding options instance. This needs to be done before the function Generate of the instance is called.<br>
    <br>
    <i>General options (for standard and dynamic enrichment analysis)</i><br>
    Data_value_signs_of_interest:<br>
