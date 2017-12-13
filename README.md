@@ -22,7 +22,7 @@ The script will generate a data instance ("data") that contains experimental dat
    3, Custom data - reading custom data spreadsheet).<br>
    Go to the function "Get_custom_data_by_reading_custom_data_file". Specify the file name (including the file extension) that
    contains the data (custom_data_spreadsheet_name = "Custom_data_file_name.txt"). The file needs to be in the directory
-   "Custom_data_sets" and needs to contain the columns that are specified under "custom_data_readWriteOptions.Key_columnNames", i.e. "SampleName", "NCBI_official_symbol", "Value". Additional columns will be ignored. All genes that belong to one sampleName will be analyzed as one group. Values will be used to distinguish between up-regulated (positive value) and down-regulated (negative value) genes. Any genes with a value of 0 will be removed. Any duplicates of the same gene/sampleName combination  will cause the throwing of an exception.<br>
+   "Custom_data_sets" and needs to contain at least three columns that are specified under "custom_data_readWriteOptions.Key_columnNames", i.e. "SampleName", "NCBI_official_symbol", "Value". Additional columns will be ignored. All genes that belong to one sampleName will be analyzed as one group. Values will be used to distinguish between up-regulated (positive value) and down-regulated (negative value) genes. Any genes with a value of 0 will be removed. Any duplicates of the same gene/sampleName combination  will cause the throwing of an exception.<br>
    Uncomment the command within region "Custom data - reading custom data spreadsheet" in the Main function and comment the commands within all other regions.<br>
   
 <b>Optional: Modify enrichment options</b><br>
