@@ -72,8 +72,8 @@ All level-3 SCPs or SCP-unions that were predicted based on dynamic enrichment a
 <br>
 <b>Analyze the results</b><br>
    The graphml networks can be opend with the network visualization software yED. The file Legend_for_networks contains general
-   information.<br>
-   The R-script "Generate_barpolots_for_enrichment_results" will generate bar diagrams for the results of the standard and dynamic
+   information about the networks.<br>
+   The R-script "Generate_barplots_for_enrichment_results" will generate bar diagrams for the results of the standard and dynamic
    enrichment analysis. The mbco_base_directory has to contain the path of the results directory. Specific_study_name contains the name
    that is given by base_file_name in the C# script. This R-script will write two PDF files into the study specific results.
    
