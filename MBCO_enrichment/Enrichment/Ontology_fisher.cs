@@ -229,7 +229,10 @@ namespace Enrichment
             for (int indexS = 0; indexS < de_symbols_length; indexS++)
             {
                 data_line = data.Data[indexS];
-                symbol_value_dict.Add(data_line.NCBI_official_symbol, data_line.Columns[indexCol]);
+                if (data_line.Columns[indexCol] != 0)
+                {
+                    symbol_value_dict.Add(data_line.NCBI_official_symbol, data_line.Columns[indexCol]);
+                }
             }
 
             enrichment_lines = enrichment_lines.OrderBy(l => l.Scp_name).ToArray();
