@@ -331,6 +331,7 @@ namespace Enrichment
             onto_enrich.Write(subdirectory, "Standard_enrichment_results.txt");
 
             Ontology_enrichment_class onto_enrich_filtered = onto_enrich.Deep_copy();
+            onto_enrich_filtered.Keep_enrichment_lines_below_pvalue_cutoff(Options.Maximum_pvalue_for_standardDynamicEnrichment);
             onto_enrich_filtered.Keep_top_x_predictions_per_level_for_each_sample(Options.Kept_top_predictions_standardEnrichment_per_level);
             onto_enrich_filtered.Write(subdirectory, "Standard_enrichment_results_filtered.txt");
             return onto_enrich_filtered;
