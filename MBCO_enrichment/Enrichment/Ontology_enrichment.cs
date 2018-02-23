@@ -150,7 +150,7 @@ namespace Enrichment
             for (int indexE = 0; indexE < enrich_length; indexE++)
             {
                 onto_enrich_line = this.Enrich[indexE];
-                if (onto_enrich_line.Pvalue < pvalue_cutoff)
+                if (onto_enrich_line.Pvalue <= pvalue_cutoff)
                 {
                     keep_enrichment_lines.Add(onto_enrich_line);
                 }
