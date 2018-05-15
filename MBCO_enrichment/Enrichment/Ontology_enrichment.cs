@@ -206,13 +206,15 @@ namespace Enrichment
             this.Enrich = keep_onto_list.ToArray();
         }
 
-        public void Keep_top_x_predictedSCPs_as_part_of_SCPunit_or_singleSCPs(int[] keep_singleSCPs_per_level)
+         public void Keep_top_x_predictedSCPs_as_part_of_SCPunit_or_singleSCPs(int[] keep_singleSCPs_per_level)
         {
             int enrich_length = this.Enrich.Length;
             Ontology_enrichment_line_class enrichment_line;
             List<Ontology_enrichment_line_class> keep_onto_list = new List<Ontology_enrichment_line_class>();
             this.Enrich = this.Enrich.OrderBy(l => l.Ontology_type).ThenBy(l => l.EntryType).ThenBy(l => l.Timepoint).ThenBy(l => l.Sample_name).ThenBy(l => l.ProcessLevel).ThenByDescending(l => l.Minus_log10_pvalue).ToArray();
             int kept_scps_count = 0;
+            string[] single_scps;
+            List<string> kept_scps_list = new List<string>();
             for (int indexE = 0; indexE < enrich_length; indexE++)
             {
                 enrichment_line = this.Enrich[indexE];
@@ -231,8 +233,10 @@ namespace Enrichment
                 }
                 if (kept_scps_count < keep_singleSCPs_per_level[enrichment_line.ProcessLevel])
                 {
-                    kept_scps_count += enrichment_line.Scp_name.Split(Global_class.Scp_delimiter).Length + 1;
-                    if (kept_scps_count <= keep_singleSCPs_per_level[enrichment_line.ProcessLevel])
+                    single_scps = enrichment_line.Scp_name.Split(Global_class.Scp_delimiter);
+                    kept_scps_list.AddRange(single_scps);
+                    kept_scps_list = kept_scps_list.Distinct().ToList();
+                    if (kept_scps_list.Count <= keep_singleSCPs_per_level[enrichment_line.ProcessLevel])
                     {
                         keep_onto_list.Add(enrichment_line);
                     }
