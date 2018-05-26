@@ -411,6 +411,7 @@ namespace Network
                     reversed_target_line = new Network_target_line_class();
                     reversed_target_line.NW_index = indexNW;
                     reversed_target_line.Interaction_type = target_line.Interaction_type;
+                    reversed_target_line.Edge_type = target_line.Edge_type;
                     reversed_nw[target_line.NW_index].Add_not_existing_targets_and_order_in_standard_way(reversed_target_line);
                 }
             }
