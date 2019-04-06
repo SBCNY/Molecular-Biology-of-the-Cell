@@ -257,6 +257,7 @@ namespace MBCO
                     }
                 }
             }
+            this.MBCO_associations = keep.ToArray();
         }
 
         public void Keep_only_lines_with_indicated_level(int level)
