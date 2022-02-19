@@ -1,4 +1,5 @@
-The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. The copyright holder for this preprint is the author/funder. 
+The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. The copyright holder for code
+and excecutable windows appliation is the author/funder. 
 It is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 
 Please acknowledge the MBC Ontology in your publications by citing the following reference:
