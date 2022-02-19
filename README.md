@@ -1,3 +1,10 @@
+# Molecular-Biology-of-the-Cell Ontology (MBCO) - Windows application
+Simply download the folder "MBCO_windows_application" on your hard drive and start the program by opening "Molecular_Biology_of_the_Cell_Ontology.exe".
+
+<i>Note: If your screen resolution is too high (e.g. 3840 x 2160) the current windows form will look compressed. In this case, lower your screen resolution (e.g. to 2560x1600) before opening the application. You can reset your screen resolution to the original value again, once the application started.</i>
+
+
+
 # Molecular-Biology-of-the-Cell Ontology (MBCO)
 <b>Before the first use</b><br>
 Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
