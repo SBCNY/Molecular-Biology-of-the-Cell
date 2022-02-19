@@ -1,4 +1,5 @@
-# Molecular-Biology-of-the-Cell Ontology (MBCO) - Windows application
+# Molecular-Biology-of-the-Cell Ontology (MBCO)
+Executable Windows application
 The folder "MBCO_windows_application" contains an excecutable windows application that allows scientists to analyze their data.
 Simply copy the folder "MBCO_windows_application" to any location on your hard drive and start the program by opening "Molecular_Biology_of_the_Cell_Ontology.exe".
 
