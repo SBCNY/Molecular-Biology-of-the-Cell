@@ -1,0 +1,6 @@
+Copyright for Neurite outgrowth datasets:
+These datasets only serve to demonstrate the functionality of the MBCO windows application.
+As stated in the bioRxiv publication that contains these datasets:
+All rights reserved. No reuse allowed without permission.
+
+doi: https://doi.org/10.1101/462200
