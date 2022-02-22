@@ -1,0 +1,2 @@
+License for MBCO datasets
+The Molecular Biology of the Cell Ontology (MBCO) datasets are made available under a creative CC Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International license. 
