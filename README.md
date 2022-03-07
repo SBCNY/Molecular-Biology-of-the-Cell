@@ -2,6 +2,8 @@
 The folder "MBCO_windows_application" contains an excecutable windows application that allows scientists to analyze their data.
 Simply copy the folder "MBCO_windows_application" to any location on your hard drive and start the program by opening "Molecular_Biology_of_the_Cell_Ontology.exe".
 
+This folder also contains MBCO version 1.1.
+
 <i>Note: If your screen resolution is too high (e.g. 3840 x 2160) the current windows form will look compressed. In this case, lower your screen resolution (e.g. to 2560x1600) before opening the application. You can reset your screen resolution to the original value again, once the application started.</i>
 
 
