@@ -16,3 +16,5 @@ Jens Hansen,#, Rachel Sealfon,#, Rajasree Menon,#, Michael T. Eadon, Blue B. Lak
 #equal contribution, *joint senior authors
 
 Please visit one of the following websites to download the R and C# code that uses the additional MBCO datasets for the analysis of KPMP reference tissue data:
+
+To generate the dataset "NaAndGluTMTransport_scpGeneAssociations.txt" we started by extracting sodium and glucose transport related genes from the MBCO datasets, Wikipedia articles, peer-reviewed articles and Gene Ontology Biological Processes and Molecular Functions. See the methods section of Hansen, Sealfon, Menon et al. for details. Gene Ontology datasets were made available under a the Creative Commons Attribution 4.0 Unported License (http://geneontology.org/docs/go-citation-policy/#:~:text=Gene%20Ontology%20Consortium%20data%20and%20data%20products%20are,Creative%20Commons%20FAQ%20or%20contact%20the%20GO%20Helpdesk.), as on 2022 March 25..
