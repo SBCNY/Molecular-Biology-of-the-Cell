@@ -1,4 +1,4 @@
-The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. The copyright holder for code
+The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab (source code has not been not uploaded yet). The copyright holder for code
 and excecutable windows appliation is the author/funder. 
 It is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 
