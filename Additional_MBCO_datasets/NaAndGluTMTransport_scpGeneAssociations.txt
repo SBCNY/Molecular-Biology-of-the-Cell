@@ -1,0 +1,671 @@
+Ontology	Scp	Target_gene_symbol	Organism	ReadWrite_references
+Custom_transmembrane_transport	Amino acid vs sodium amino acid antiporter	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Amino acid vs sodium amino acid antiporter	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Amino acid vs sodium antiporter	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Amino acid vs sodium antiporter	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Amino acid vs sodium antiporter	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Amino acid vs sodium antiporter	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Ammonia vs sodium antiporter	SLC9A4	Homo_sapiens	PMID: 24692143;UniProt
+Custom_transmembrane_transport	ASBT (SLC10A2)	SLC10A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	ASCT1 (SLC1A4)	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	ASCT2 (SLC1A5)	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	B0AT1 (SLC6A19)	SLC6A19	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	B0AT2 (SLC6A15)	SLC6A15	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	B0AT3 (SLC6A18)	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	BGT1 (SLC6A12)	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Calcium potassium vs sodium antiporter	SLC8B1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC8A1	Homo_sapiens	UniProt online;PMID: 17417706
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC8A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC8A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Calcium vs sodium antiporter	SLC8B1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Cationic amino acid vs large neutral amino acid sodium antiporter	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Cationic amino acid vs large neutral amino acid sodium antiporter	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Cationic amino acid vs sodium antiporter	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Cationic amino acid vs sodium antiporter	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	CHT1 (SLC5A7)	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	CNT1 (SLC28A1)	SLC28A1	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	CNT2 (SLC28A2)	SLC28A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	CNT3 (SLC28A3)	SLC28A3	Homo_sapiens	UniProt
+Custom_transmembrane_transport	CT1 (SLC6A8)	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	DAT1 (SLC6A3)	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	EAAT1 (SLC1A3)	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	EAAT2 (SLC1A2)	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	EAAT3 (SLC1A1)	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	gamma+LAT1 (SLC7A7)	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	gamma+LAT2 (SLC7A6)	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	GAT1 (SLC6A1)	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	GAT2 (SLC6A13)	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	GAT3 (SLC6A11)	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Glucose L2B	MFSD4B	Homo_sapiens	UniProt-online-2020February08I
+Custom_transmembrane_transport	Glucose L2B	NAGLT1	Homo_sapiens	UniProt-online-2020December01
+Custom_transmembrane_transport	Glucose L2B	SLC45A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Glucose L2B	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Glucose L2B	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Glucose L2B	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Glucose L2B by symporter	MFSD4B	Homo_sapiens	UniProt-online-2020February08I
+Custom_transmembrane_transport	Glucose L2B by symporter	NAGLT1	Homo_sapiens	UniProt-online-2020December01
+Custom_transmembrane_transport	Glucose L2B by symporter	SLC45A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Glucose L2B by symporter	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Glucose L2B by symporter	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Glucose L2B by symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	GlyT1 (SLC6A9)	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	GlyT2 (SLC6A5)	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	High affinity carnitine sodium symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen glucose symporter	SLC45A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium alanine antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium alanine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium amino acid antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium amino acid antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium amino acid antiporter	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium amino acid antiporter	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Hydrogen vs sodium amino acid antiporter	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC9A1	Homo_sapiens	UniProt;PMID: 17417706
+Custom_transmembrane_transport	Hydrogen vs sodium antiporter	SLC9A4	Homo_sapiens	PMID: 24692143;UniProt
+Custom_transmembrane_transport	Hydrogen vs sodium asparagine antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium asparagine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium glutamine antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium glutamine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium glutamine antiporter	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Hydrogen vs sodium glycine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium histidine antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium histidine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen vs sodium serine antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Hydrogen-associated glucose transporter	SLC45A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NaBC1 (SLC4A11)	SLC4A11	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	NaCT (SLC13A5)	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	NaDC1 (SLC13A2)	SLC13A2	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	NaDC3 (SLC13A3)	SLC13A3	Homo_sapiens	NCBI;PMID: 27053689
+Custom_transmembrane_transport	NaS1 (SLC13A1)	SLC13A1	Homo_sapiens	UniProt online;PMID: 24193406;PMID: 21298488;PMID: 17002596
+Custom_transmembrane_transport	NBCe1 (SLC4A4)	SLC4A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NBCe2 (SLC4A5)	SLC4A5	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	NBCn1 (SLC4A7)	SLC4A7	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	NBCn2 (SLC4A10)	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	NCC (SLC12A3)	SLC12A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NCKX1 (SLC24A1)	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NCKX2 (SLC24A2)	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NCKX3 (SLC24A3)	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NCKX4 (SLC24A4)	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NCKX5 (SLC24A5)	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	NCLX (SLC8B1)	SLC8B1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NCX1 (SLC8A1)	SLC8A1	Homo_sapiens	UniProt online;PMID: 17417706
+Custom_transmembrane_transport	NCX2 (SLC8A2)	SLC8A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NCX3 (SLC8A3)	SLC8A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NDCBE (SLC4A8)	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	NET (SLC6A2)	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Neutral amino acid vs sodium neutral amino acid antiporter	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Neutral amino acid vs sodium neutral amino acid antiporter	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NHA1 (SLC9B1)	SLC9B1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	NHE1 (SLC9A1)	SLC9A1	Homo_sapiens	UniProt;PMID: 17417706
+Custom_transmembrane_transport	NHE11 (SLC9C2)	SLC9C2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NHE2 (SLC9A2)	SLC9A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NHE3 (SLC9A3)	SLC9A3	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	NHE4 (SLC9A4)	SLC9A4	Homo_sapiens	PMID: 24692143;UniProt
+Custom_transmembrane_transport	NHE5 (SLC9A5)	SLC9A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NHE6 (SLC9A6)	SLC9A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NHE7 (SLC9A7)	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	NHE8 (SLC9A8)	SLC9A8	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NHE9 (SLC9A9)	SLC9A9	Homo_sapiens	Entrez Gene online
+Custom_transmembrane_transport	NKCC1 (SLC12A2)	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	NKCC2 (SLC12A1)	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NPT1 (SLC17A1)	SLC17A1	Homo_sapiens	PMID: 34290818;UniProt
+Custom_transmembrane_transport	NPT2a (SLC34A1)	SLC34A1	Homo_sapiens	UniProt;PMID: 32353243
+Custom_transmembrane_transport	NPT2b (SLC34A2)	SLC34A2	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	NPT2c (SLC34A3)	SLC34A3	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	NPT4 (SLC17A3)	SLC17A3	Homo_sapiens	PMID: 34290818;UniProt online
+Custom_transmembrane_transport	NTCP (SLC10A1)	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	NTT4 (SLC6A17)	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	NTT5 (SLC6A16)	SLC6A16	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	OCT6 (SLC22A16)	SLC22A16	Homo_sapiens	NCBI
+Custom_transmembrane_transport	OCTN1 (SLC22A4)	SLC22A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	OCTN2 (SLC22A5)	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	PiT-1 (SLC20A1)	SLC20A1	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	PiT-2 (SLC20A2)	SLC20A2	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Potassium vs sodium antiporter	SLC8B1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	PROT (SLC6A7)	SLC6A7	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	S17A4 (SLC17A4)	SLC17A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	SERT (SLC6A4)	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SGLT1 (SLC5A1)	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	SGLT2 (SLC5A2)	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	SGLT4 (SLC5A9)	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	SGLT5 (SLC5A10)	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	SIT1 (SLC6A20)	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	SLC17A2	SLC17A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SMCT1 (SLC5A8)	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	SMCT2 (SLC5A12)	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	SMIT1 (SLC5A3)	SLC5A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	SMIT2 (SLC5A11)	SLC5A11	Homo_sapiens	NCBI;PMID: 24944204
+Custom_transmembrane_transport	SMVT (SLC5A)	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	SNAT1 (SLC38A1)	SLC38A1	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	SNAT2 (SLC38A2)	SLC38A2	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	SNAT3 (SLC38A3)	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	SNAT4 (SLC38A4)	SLC38A4	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	SNAT5 (SLC38A5)	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	SNAT6 (SLC38A6)	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SNAT7 (SLC38A7)	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	SNAT8 (SLC38A8)	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SOAT (SLC10A6)	SLC10A6	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium acetylcholine symporter	SLC22A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium alanine symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC38A9	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A15	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A19	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A7	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium amino acid symporter	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A1	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A2	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A4	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium amino acid symporter B2L	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium amino acid vs hydrogen antiporter	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium amino acid vs hydrogen antiporter	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium- and chloride-dependent sodium:neurotransmitter symporter	SLC6A10	Homo_sapiens	NCBI;PMID: 17692818
+Custom_transmembrane_transport	Sodium ascorbic acid symporter	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium ascorbic acid symporter B2L	SLC23A2	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium aspartate symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium aspartate symporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium aspartate symporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium B2L	SLC13A3	Homo_sapiens	NCBI;PMID: 27053689
+Custom_transmembrane_transport	Sodium B2L	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC23A2	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium B2L	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium B2L	SLC38A1	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC38A2	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC38A4	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Sodium B2L	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC4A11	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium B2L	SLC5A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC8A1	Homo_sapiens	UniProt online;PMID: 17417706
+Custom_transmembrane_transport	Sodium B2L	SLC8A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L	SLC8A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC8B1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L	SLC9A1	Homo_sapiens	UniProt;PMID: 17417706
+Custom_transmembrane_transport	Sodium B2L	SLC9A4	Homo_sapiens	PMID: 24692143;UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC24A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC24A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC24A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC24A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC24A5	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC8A1	Homo_sapiens	UniProt online;PMID: 17417706
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC8A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC8A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC8B1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC9A1	Homo_sapiens	UniProt;PMID: 17417706
+Custom_transmembrane_transport	Sodium B2L by antiporter	SLC9A4	Homo_sapiens	PMID: 24692143;UniProt
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC13A3	Homo_sapiens	NCBI;PMID: 27053689
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC1A4	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC1A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC23A2	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A1	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A2	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A3	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A4	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A5	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A7	Homo_sapiens	Gen
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC38A8	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC4A11	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC5A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium B2L by symporter	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium beta-alanine symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium bicarbonate symporter	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium bicarbonate symporter	SLC4A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium bicarbonate symporter	SLC4A5	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium bicarbonate symporter	SLC4A7	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium bicarbonate symporter	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium bicarbonate vs chloride antiporter	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium bicarbonate vs chloride antiporter	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium bile salt symporter	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium bile salt symporter	SLC10A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium bile salt symporter	SLC10A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium bile salt symporter	SLC10A5	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium bile salt symporter	SLC10A6	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium biochemical cofactor symporter	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium biochemical cofactor symporter	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium biochemical cofactor symporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter B2L	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter B2L	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter B2L	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium biologically active small organic molecule symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium biotin symporter	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium borate symporter B2L	SLC4A11	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium carnitine symporter	SLC22A16	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium carnitine symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium carnitine symporter	SLC23A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium carnitine, choline or betaine symporter	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium carnitine, choline or betaine symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium chloride beta-alanine symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride choline symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium chloride creatine symporter	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride dopamine symporter	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride GABA symporter B2L	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride GABA symporter B2L	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride GABA symporter B2L	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride GABA symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride glycine symporter	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride glycine symporter	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride neurotransmitter symporter	SLC6A10	Homo_sapiens	NCBI;PMID: 17692818
+Custom_transmembrane_transport	Sodium chloride neurotransmitter symporter	SLC6A16	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride neurotransmitter symporter	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride neutral amino acid symporter	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride noradrenalin symporter	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride serotonin symporter	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride symporter	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium chloride symporter	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	Sodium chloride symporter	SLC12A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium chloride symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A10	Homo_sapiens	NCBI;PMID: 17692818
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A16	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride symporter	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride symporter B2L	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter B2L	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter B2L	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium chloride taurine symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium chloride taurine symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium choline symporter	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium choline symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium citrate symporter B2L	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium creatine symporter	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium cysteine symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium dependent amino acid transporter	SLC38A9	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium dicarboxylate symporter	SLC13A2	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium dicarboxylate symporter B2L	SLC13A3	Homo_sapiens	NCBI;PMID: 27053689
+Custom_transmembrane_transport	Sodium dicarboxylate symporter B2L	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium dopamine symporter	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium fructose symporter	MFSD4B	Homo_sapiens	NCBI-protein-domain-online-2020February08
+Custom_transmembrane_transport	Sodium fructose symporter	SGLT5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium fructose symporter	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium fructose symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium GABA symporter B2L	SLC6A1	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium GABA symporter B2L	SLC6A11	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium GABA symporter B2L	SLC6A12	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium GABA symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium glucose symporter	MFSD4B	Homo_sapiens	UniProt-online-2020February08I
+Custom_transmembrane_transport	Sodium glucose symporter	NAGLT1	Homo_sapiens	UniProt-online-2020December01
+Custom_transmembrane_transport	Sodium glucose symporter	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium glucose symporter	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium glucose symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium glutamate symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium glutamate symporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium glutamate symporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium glutamine symporter B2L	SLC38A1	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium glycine symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium glycine symporter	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium glycine symporter	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium hydrogen amino acid vs potassium antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium hydrogen amino acid vs potassium antiporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen amino acid vs potassium antiporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen aspartate vs potassium antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium hydrogen aspartate vs potassium antiporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen aspartate vs potassium antiporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen cysteine vs potassium antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium hydrogen glutamate vs potassium antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium hydrogen glutamate vs potassium antiporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen glutamate vs potassium antiporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium hydrogen symporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium hydrogen symporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium iodide symporter	SLC5A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L proline symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	MFSD4B	Homo_sapiens	NCBI-protein-domain-online-2020February08
+Custom_transmembrane_transport	Sodium L2B	NAGLT1	Homo_sapiens	UniProt-online-2020December01
+Custom_transmembrane_transport	Sodium L2B	SGLT5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC10A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC10A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC10A5	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium L2B	SLC10A6	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium L2B	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	Sodium L2B	SLC12A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC13A1	Homo_sapiens	UniProt online;PMID: 24193406;PMID: 21298488;PMID: 17002596
+Custom_transmembrane_transport	Sodium L2B	SLC13A2	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC13A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC17A1	Homo_sapiens	PMID: 34290818;UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC17A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC17A3	Homo_sapiens	PMID: 34290818;UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC17A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC20A1	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B	SLC20A2	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B	SLC22A16	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC22A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC23A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC28A1	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC28A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC28A3	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC34A1	Homo_sapiens	UniProt;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B	SLC34A2	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B	SLC34A3	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC38A9	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC4A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC4A5	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium L2B	SLC4A7	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium L2B	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC5A11	Homo_sapiens	NCBI;PMID: 24944204
+Custom_transmembrane_transport	Sodium L2B	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC5A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium L2B	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium L2B	SLC6A10	Homo_sapiens	NCBI;PMID: 17692818
+Custom_transmembrane_transport	Sodium L2B	SLC6A15	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B	SLC6A16	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC6A19	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	SLC6A7	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B	SLC9A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC9A3	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B	SLC9A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC9A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SLC9A8	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B	SLC9A9	Homo_sapiens	Entrez Gene online
+Custom_transmembrane_transport	Sodium L2B	SLC9B1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC9C1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B	SLC9C2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A3	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A8	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9A9	Homo_sapiens	Entrez Gene online
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9B1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9C1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by antiporter	SLC9C2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	MFSD4B	Homo_sapiens	NCBI-protein-domain-online-2020February08
+Custom_transmembrane_transport	Sodium L2B by symporter	NAGLT1	Homo_sapiens	UniProt-online-2020December01
+Custom_transmembrane_transport	Sodium L2B by symporter	SGLT5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC10A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC10A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC10A5	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC10A6	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC12A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC13A1	Homo_sapiens	UniProt online;PMID: 24193406;PMID: 21298488;PMID: 17002596
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC13A2	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC13A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC17A1	Homo_sapiens	PMID: 34290818;UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC17A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC17A3	Homo_sapiens	PMID: 34290818;UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC17A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC20A1	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC20A2	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC22A16	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC22A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC23A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC28A1	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC28A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC28A3	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC34A1	Homo_sapiens	UniProt;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC34A2	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC34A3	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC38A9	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC4A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC4A5	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC4A7	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A1	Homo_sapiens	NCBI;PMID: 23506864
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A11	Homo_sapiens	NCBI;PMID: 24944204
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A10	Homo_sapiens	NCBI;PMID: 17692818
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A15	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A16	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A19	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A3	Homo_sapiens	NCBI;PMID: 24692143
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A7	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A8	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC6A9	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium L2B by symporter	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium L2B by symporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium lactate symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium lactate symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium large neutral amino acid symporter	SLC6A15	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium large neutral amino acid symporter B2L	SLC7A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium large neutral amino acid symporter B2L	SLC7A7	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium leucine symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium lipoate symporter	SLC5A6	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium lipoate symporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium lipoic acid symporter	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium mannose symporter	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium mannose symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium methylated amino acid symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium mono-, di- or tricarboxylate symporter	SLC13A2	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium mono-, di- or tricarboxylate symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium mono-, di- or tricarboxylate symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium mono-, di- or tricarboxylate symporter B2L	SLC13A3	Homo_sapiens	NCBI;PMID: 27053689
+Custom_transmembrane_transport	Sodium mono-, di- or tricarboxylate symporter B2L	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium monocarboxylate symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium monocarboxylate symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium myo-inositol symporter	SLC5A11	Homo_sapiens	NCBI;PMID: 24944204
+Custom_transmembrane_transport	Sodium myo-inositol symporter B2L	SLC5A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium N methyl L proline symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium neurotransmitter symporter	SLC6A17	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium neutral amino acid symporter	SLC6A18	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium neutral amino acid symporter	SLC6A19	Homo_sapiens	UniProt online;PMID: 24692143
+Custom_transmembrane_transport	Sodium neutral amino acid symporter B2L	SLC38A2	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium neutral amino acid symporter B2L	SLC38A4	Homo_sapiens	GeneCards-online-2021May22;PMID: 24692143
+Custom_transmembrane_transport	Sodium nicotinate symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium nicotinate symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium noradrenalin symporter	SLC6A2	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium nucleoside symporter	SLC28A1	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium nucleoside symporter	SLC28A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium nucleoside symporter	SLC28A3	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic cation symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic cation symporter	SLC23A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC10A2	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC10A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC10A5	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC10A6	Homo_sapiens	Full gene name
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC23A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium organic molecule symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium pantothenate symporter	SLC5A6	Homo_sapiens	EntrezGene Summary online
+Custom_transmembrane_transport	Sodium pantothenate symporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC17A1	Homo_sapiens	PMID: 34290818;UniProt
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC17A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC17A3	Homo_sapiens	PMID: 34290818;UniProt online
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC17A4	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC20A1	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC20A2	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC34A1	Homo_sapiens	UniProt;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC34A2	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter	SLC34A3	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter, Type II	SLC34A1	Homo_sapiens	UniProt;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter, Type II	SLC34A2	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter, Type II	SLC34A3	Homo_sapiens	NCBI;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter, Type III	SLC20A1	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium phosphate symporter, Type III	SLC20A2	Homo_sapiens	GeneCards-online-2021May24;PMID: 32353243
+Custom_transmembrane_transport	Sodium pipecolate symporter	SLC6A20	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium potassium chloride symporter	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium potassium chloride symporter	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	Sodium potassium symporter	SLC12A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium potassium symporter	SLC12A2	Homo_sapiens	Tocris Summary
+Custom_transmembrane_transport	Sodium potassium symporter	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium potassium vs hydrogen antiporter	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium proline symporter	SLC6A7	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium pyruvate symporter	SLC5A12	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium pyruvate symporter	SLC5A8	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium serotonin symporter	SLC6A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium small organic molecule symporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium small organic molecule symporter	SLC23A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium small organic molecule symporter	SLC44A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium small organic molecule symporter	SLC5A7	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium sugar symporter	MFSD4B	Homo_sapiens	NCBI-protein-domain-online-2020February08
+Custom_transmembrane_transport	Sodium sugar symporter	SGLT5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium sugar symporter	SLC5A10	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium sugar symporter	SLC5A11	Homo_sapiens	NCBI;PMID: 24944204
+Custom_transmembrane_transport	Sodium sugar symporter	SLC5A9	Homo_sapiens	PMID: 15607332;GeneCards-online-2021May24
+Custom_transmembrane_transport	Sodium sugar symporter B2L	SLC5A3	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium sulfate symporter	SLC13A1	Homo_sapiens	UniProt online;PMID: 24193406;PMID: 21298488;PMID: 17002596
+Custom_transmembrane_transport	Sodium sulfate symporter	SLC13A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium taurine symporter	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	Sodium taurine symporter B2L	SLC6A13	Homo_sapiens	UniProt;PMID: 24692143
+Custom_transmembrane_transport	Sodium taurocholate symporter	SLC10A1	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium tricarboxylate symporter B2L	SLC13A5	Homo_sapiens	PMID: 24114175;UniProt
+Custom_transmembrane_transport	Sodium vitamin symporter	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vitamin symporter	SLC5A6	Homo_sapiens	NCBI;PMID: 22420308
+Custom_transmembrane_transport	Sodium vitamin symporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs chloride antiporter	SLC4A10	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium vs chloride antiporter	SLC4A8	Homo_sapiens	NCBI;UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC38A10	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC38A11	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A3	Homo_sapiens	UniProt online
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A5	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A6	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A7	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A8	Homo_sapiens	NCBI
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9A9	Homo_sapiens	Entrez Gene online
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9B1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9C1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium vs hydrogen antiporter	SLC9C2	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs organic cation antiporter	SLC22A5	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs potassium antiporter	SLC1A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium vs potassium antiporter	SLC1A2	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium vs potassium antiporter	SLC1A3	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	Sodium-dependent lipoate transporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sodium-dependent pantothenate transporter	SMVT	Homo_sapiens	UniProt
+Custom_transmembrane_transport	Sperm specific NHE (SLC9C1)	SLC9C1	Homo_sapiens	PMID:21186281
+Custom_transmembrane_transport	SUT1 (SLC13A4)	SLC13A4	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SVCT1 (SLC23A1)	SLC23A1	Homo_sapiens	UniProt
+Custom_transmembrane_transport	SVCT2 (SLC23A2)	SLC23A2	Homo_sapiens	UniProt;PMID: 33072764
+Custom_transmembrane_transport	TauT (SLC6A6)	SLC6A6	Homo_sapiens	UniProt;PMID: 33072764

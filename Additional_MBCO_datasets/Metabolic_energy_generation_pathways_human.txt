@@ -1,0 +1,654 @@
+Ontology	Scp	Target_gene_symbol	Organism	ReadWrite_references
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	DLAT	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	DLD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	GCK	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	HK1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	HK2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	HK3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PDHA1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PDHA2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PDHB	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PDHX	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PFKL	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PFKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PFKP	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PKLR	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	PKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Aerobic glycolysis	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	GCK	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	HK1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	HK2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	HK3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	LDHA	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	LDHB	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	LDHC	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	LDHD	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PFKL	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PFKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PFKP	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PKLR	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	PKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Anaerobic glycolysis	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	ATP synthase	ATP5A1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5B	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5C1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5D	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5E	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5F1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5G1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5G2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5G3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATP5O	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATPAF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	ATPAF2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	C16ORF7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	MT-ATP6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	MT-ATP8	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	ATP synthase	TMEM70	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Beta oxidation	ACAA1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	ACAA2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACAD9	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACADL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACADM	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACADS	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACADVL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACAT1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ACOX1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	ACOX2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	ACOX3	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	AMACR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	CPT1A	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	CPT1B	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	CPT2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	CRAT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	CROT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	DECR1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	DECR2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	ECH1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	ECHS1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ECI1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	ECI2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	EHHADH	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	HADH	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	HADHA	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	HADHB	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Beta oxidation	HSD17B4	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	PEC1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	PECR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	PTE1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	PTE2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	SCP2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Beta oxidation	SLC21A2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Carnitine palmitoyltransferases involved in mitochondrial beta oxidation	CPT1A	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine palmitoyltransferases involved in mitochondrial beta oxidation	CPT1B	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine palmitoyltransferases involved in mitochondrial beta oxidation	CPT2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine palmitoyltransferases involved in peroxisomal beta oxidation	CRAT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Carnitine palmitoyltransferases involved in peroxisomal beta oxidation	CROT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Carnitine shuttle	CPT1A	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine shuttle	CPT1B	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine shuttle	CPT2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Carnitine shuttle	CRAT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Carnitine shuttle	CROT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Citric acid cycle	ACO1	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	ACO2	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	CS	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	DLD	Homo_sapiens	Uniprot-online-2020December17;PMID: 2821970
+Metabolic_energy_generation_pathways	Citric acid cycle	DLST	Homo_sapiens	NCBI-online-2020December17;PMID: 2821970
+Metabolic_energy_generation_pathways	Citric acid cycle	FH	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	IDH2	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	MDH1	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	MDH2	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	OGDH	Homo_sapiens	NCBI-online-2020December17;PMID: 2821970
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHA	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHAF2	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHAF3	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHB	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHC	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SDHD	Homo_sapiens	Uniprot-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SUCLA2	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SUCLG1	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Citric acid cycle	SUCLG2	Homo_sapiens	NCBI-online-2020December17;PMID: 28219702
+Metabolic_energy_generation_pathways	Coenzyme Q10	APTX	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	BCS1L	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ4	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ8A	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ8B	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	COQ9	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	CYC1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	CYCS	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	ETFDH	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	LYRM7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	MT-CYB	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	PDSS1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	PDSS2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	TTC19	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCC2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCC3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCR10	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCR11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRB	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRC1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRC2	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRFS1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRH	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Coenzyme Q10	UQCRQ	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA4	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA5	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA6	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA7	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COA8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX10	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX14	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX15	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX16	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX17	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX18	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX19	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX20	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX4I1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX5A	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX5B	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX6A1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX6A2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX6B1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX6B2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX6C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX7A1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX7A2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX7A2L	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX7B	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX7C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX8A	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	COX8C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	FASTKD2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	LRPPRC	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	MT-CO1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	MT-CO2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	MT-CO3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	PET100	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	SCO1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	SCO2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	SURF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase	TACO1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA4	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA5	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA6	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA7	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COA8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX14	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX16	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX17	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX18	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX19	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase assembly	COX20	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase heme maturation	COX10	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase heme maturation	COX11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Cytochrome c oxidase heme maturation	COX15	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Electron-transferring-flavoprotein dehydrogenase	ETFDH	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Gluconeogenesis	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	FBP1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	FBP2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	G6PC1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	G6PC2	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Gluconeogenesis	G6PC3	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Gluconeogenesis	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	LDHA	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Gluconeogenesis	LDHB	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Gluconeogenesis	LDHC	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Gluconeogenesis	LDHD	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Gluconeogenesis	PC	Homo_sapiens	PMID: 20143783;UniPort-online-2021February05
+Metabolic_energy_generation_pathways	Gluconeogenesis	PCK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	PCK2	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	FBP1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	FBP2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	G6PC1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	G6PC2	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	G6PC3	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	PC	Homo_sapiens	PMID: 20143783;UniPort-online-2021February05
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	PCK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Gluconeogenesis specific enzymes	PCK2	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	GCK	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	HK1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	HK2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	HK3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PFKL	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PFKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PFKP	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PKLR	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	PKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	FBP1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	FBP2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	G6PC1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	G6PC2	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	G6PC3	Homo_sapiens	UniProt-online-2020December17
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	GCK	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	HK1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	HK2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	HK3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	LDHA	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	LDHB	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	LDHC	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	LDHD	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PC	Homo_sapiens	PMID: 20143783;UniPort-online-2021February05
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PCK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PCK2	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PFKL	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PFKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PFKP	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PKLR	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	PKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ALDOA	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ALDOB	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ALDOC	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ENO1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ENO1B	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ENO2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	ENO3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	GAPD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	GAPDH	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	GAPDHS	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	GPI	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	PGAM1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	PGAM2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	PGK1	Homo_sapiens	UniProt-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	PGK2	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis and gluconeogenesis shared enzymes	TPI1	Homo_sapiens	NCBI-online-2020December17;PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	GCK	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	HK1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	HK2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	HK3	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	PFKL	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	PFKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	PFKP	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	PKLR	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Glycolysis specific enzymes	PKM	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation	ACAT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation	BDH1	Homo_sapiens	PMID: 32084511,PMID: 31561520
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation	HMGCL	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation	HMGCLL1	Homo_sapiens	GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation	HMGCS2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation specific enzymes	HMGCL	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation specific enzymes	HMGCLL1	Homo_sapiens	GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	HMG-CoA pathway of ketone body formation specific enzymes	HMGCS2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body catabolism	ACAT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body catabolism	BDH1	Homo_sapiens	PMID: 32084511,PMID: 31561520
+Metabolic_energy_generation_pathways	Ketone body catabolism	OXCT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body catabolism	OXCT2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body catabolism specific enzymes	OXCT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body catabolism specific enzymes	OXCT2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body formation and catabolism shared enzymes	ACAT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body formation and catabolism shared enzymes	BDH1	Homo_sapiens	PMID: 32084511,PMID: 31561520
+Metabolic_energy_generation_pathways	Ketone body metabolism	ACAT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body metabolism	BDH1	Homo_sapiens	PMID: 32084511,PMID: 31561520
+Metabolic_energy_generation_pathways	Ketone body metabolism	HMGCL	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body metabolism	HMGCLL1	Homo_sapiens	GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body metabolism	HMGCS2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body metabolism	OXCT1	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Ketone body metabolism	OXCT2	Homo_sapiens	PMID: 24706027,PMID: 31561520,GeneCards-online-2021June22
+Metabolic_energy_generation_pathways	Lactate dehydrogenase	LDHA	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Lactate dehydrogenase	LDHB	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Lactate dehydrogenase	LDHC	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Lactate dehydrogenase	LDHD	Homo_sapiens	UniProt-online-2021January06
+Metabolic_energy_generation_pathways	Mitochondrial and peroxisomal beta oxidation shared enzymes	ECH1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACAA2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACAD9	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACADL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACADM	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACADS	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACADVL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ACAT1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	CPT1A	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	CPT1B	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	CPT2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	DECR1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ECH1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ECHS1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ECI1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	ECI2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	HADH	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	HADHA	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation	HADHB	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACAA2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACAD9	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACADL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACADM	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACADS	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACADVL	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ACAT1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	DECR1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ECHS1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ECI1	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	ECI2	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	HADH	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	HADHA	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	Mitochondrial beta oxidation specific enzymes	HADHB	Homo_sapiens	PMID: 26474213
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND4	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND4L	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND5	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	MT-ND6	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA10	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA11	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA12	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA13	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA6	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA7	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFA9	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAB1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAF1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAF2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAF3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAF4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFAF6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB10	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB11	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB2	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB6	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB7	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFB9	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFC1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFC2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS4	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFS8	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFV1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFV2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	NADH-coenzyme Q oxidoreductase	NDUFV3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	APTX	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5A1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5B	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5C1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5D	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5E	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5F1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5G1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5G2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5G3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATP5O	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATPAF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ATPAF2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	BCS1L	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	C16ORF7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA4	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA5	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA6	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA7	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COA8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ4	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ8A	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ8B	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COQ9	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX10	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX14	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX15	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX16	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX17	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX18	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX19	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX20	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX4I1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX5A	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX5B	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX6A1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX6A2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX6B1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX6B2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX6C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX7A1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX7A2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX7A2L	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX7B	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX7C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX8A	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	COX8C	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	CYC1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	CYCS	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	ETFDH	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	FASTKD2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	LRPPRC	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	LYRM7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ATP6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ATP8	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-CO1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-CO2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-CO3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-CYB	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND4	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND4L	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND5	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	MT-ND6	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA10	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA11	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA12	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA13	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA3	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA6	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA7	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFA9	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAB1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAF1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAF2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAF3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAF4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFAF6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB10	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB11	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB2	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB4	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB6	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB7	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB8	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFB9	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFC1	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFC2	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS4	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS5	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS6	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFS8	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFV1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFV2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	NDUFV3	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	PDSS1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	PDSS2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	PET100	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SCO1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SCO2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SDHA	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SDHAF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SDHB	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SDHC	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SDHD	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	SURF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	TACO1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	TMEM70	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	TTC19	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCC2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCC3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCR10	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCR11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRB	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRC1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRC2	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRFS1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRH	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Oxidative phosphorylation	UQCRQ	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	ACAA1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	ACOX1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	ACOX2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	ACOX3	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	AMACR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	CRAT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	CROT	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	DECR2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	ECH1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	EHHADH	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	HSD17B4	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	PEC1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	PECR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	PTE1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	PTE2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	SCP2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation	SLC21A2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	ACAA1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	ACOX1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	ACOX2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	ACOX3	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	AMACR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	DECR2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	EHHADH	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	HSD17B4	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	PEC1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	PECR	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	PTE1	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	PTE2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	SCP2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Peroxisomal beta oxidation specific enzymes	SLC21A2	Homo_sapiens	PMID: 16756494
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	DLAT	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	DLD	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	PDHA1	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	PDHA2	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	PDHB	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Pyruvate dehydrogenase	PDHX	Homo_sapiens	PMID: 20143783
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	BCS1L	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	CYC1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	CYCS	Homo_sapiens	NCBI-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	LYRM7	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	MT-CYB	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	TTC19	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCC2	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCC3	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCR10	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCR11	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRB	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRC1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRC2	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRFS1	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRH	Homo_sapiens	UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase	UQCRQ	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Q-cytochrome c oxidoreductase assembly	BCS1L	Homo_sapiens	PMID: 27775730;UniProt-online-20220December17
+Metabolic_energy_generation_pathways	Succinate-Q oxidoreductase	SDHA	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Succinate-Q oxidoreductase	SDHAF1	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Succinate-Q oxidoreductase	SDHB	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Succinate-Q oxidoreductase	SDHC	Homo_sapiens	PMID: 27775730
+Metabolic_energy_generation_pathways	Succinate-Q oxidoreductase	SDHD	Homo_sapiens	PMID: 27775730
