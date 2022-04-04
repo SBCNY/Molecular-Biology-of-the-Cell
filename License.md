@@ -31,6 +31,6 @@ To generate the dataset "NaAndGluTMTransport_scpGeneAssociations.txt" we started
 
 Please visit one of the following websites to download the R and C# code that uses the additional MBCO datasets for the analysis of KPMP reference tissue data:<br/> 
 KPMP containers deposited at Docker Hub<br/>
-Windows Container for C# program: https://hub.docker.com/r/iyengarlab/kpmp-cs-apps
-Linux Container for R and Python programs: https://hub.docker.com/r/iyengarlab/kpmp-rp-apps
-README for Using KPMP Docker Containers: https://github.com/DToxS/KPMP-Contr-Apps
+Windows Container for C# program: https://hub.docker.com/r/iyengarlab/kpmp-cs-apps<br/>
+Linux Container for R and Python programs: https://hub.docker.com/r/iyengarlab/kpmp-rp-apps<br/>
+README for Using KPMP Docker Containers: https://github.com/DToxS/KPMP-Contr-Apps<br/>
