@@ -5,7 +5,7 @@ Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyen
 A flexible ontology for inference of emergent whole cell function from relationships between subcellular processes
 Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.
 ___________________________________________________________________________________________________________
-MBCO windows application
+MBCO windows application<br/>
 The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. Source code has not been not uploaded yet.
 
 ___________________________________________________________________________________________________________
