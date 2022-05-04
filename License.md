@@ -15,17 +15,17 @@ Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyen
 ___________________________________________________________________________________________________________
 License for example experimental datasets used in the MBCO windows application
 
-Neurite outgrowth dataset:
-This datasets only serves to demonstrate the functionality of the MBCO windows application.
-As stated in the bioRxiv publication (below) that contains these datasets: All rights reserved. No reuse allowed without permission.
+Neurite outgrowth dataset:<br/>
+This dataset only serves to demonstrate the functionality of the MBCO windows application.
+As stated in the bioRxiv publication (below) that contains these datasets: All rights reserved. No reuse allowed without permission.<br/>
 Whole cell response to receptor stimulation involves many deep and distributed subcellular processes. Jens Hansen, Arjun Singh Yadaw, Mustafa M. Siddiq, Rosa Tolentino, Vera Rabinovich, Gomathi Jayaraman, Mohit Jain, Tong Liu, Hong Li, Joseph Goldfarb, Ravi Iyengar. bioRxiv 462200; doi: https://doi.org/10.1101/462200
 
-KPMP reference atlas datasets:
-These datasets are made available under a Creative Commons Attribution 4.0 International (CC BY 4.0) and also can be downloaded from https://www.kpmp.org/doi-collection.
-Please cite the following manuscripts if you use any of the datasets integrated in our KPMP reference atlas paper:
-1) A reference tissue atlas for the human kidney. J Hansen, R Sealfon, R Menon, MT Eadon, BB Lake, B Steck, K Anjani, S Parikh, TK Sidgel, G Zhang, D Velickovic, D Barwinska, T Alexandrov, D Dobi, P Rakshmi, EA Otto, M Rivera, MP Rose, CR Anderton, JP Shapiro, A Pamreddy, S Winfree, Y Xiong, Y He, IH de Boer, JB Hodgin, L Barisoni, AS Naik, K Sharma, MM Sarwal, K Zhang, J Himmelfarb, B Rovin, TM El-Achkar, Z Laszik, JC He, PC Dagher, MT Valerius, S Jain, LM Satlin, OG Troyanskaya, M Kretzler, R Iyengar, EU Azeloglu, Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022. In Press. bioRxiv 2020.07.23.216507 (Laser microdissected RNAseq/Proteomics, Near Single Cell Proteomics)
-2) A single-nucleus RNA-sequencing pipeline to decipher the molecular anatomy and pathophysiology of human kidneys. Lake BB, Chen S, Hoshi M, Plongthongkum N, Salamon D, Knoten A, Vijayan A, Venkatesh R, Kim EH, Gao D, Gaut J, Zhang K, Jain S. Nat Commun. 2019 Jun 27;10(1):2832. doi: 10.1038/s41467-019-10861-2. PMID: 31249312 (Single Nucleus RNAseq)
-3) Single cell transcriptomics identifies focal segmental glomerulosclerosis remission endothelial biomarker. Menon R, Otto EA, Hoover P, Eddy S, Mariani L, Godfrey B, Berthier CC, Eichinger F, Subramanian L, Harder J, Ju W, Nair V, Larkina M, Naik AS, Luo J, Jain S, Sealfon R, Troyanskaya O, Hacohen N, Hodgin JB, Kretzler M, Kpmp KPMP; Nephrotic Syndrome Study Network (NEPTUNE). JCI Insight. 2020 Mar 26;5(6):e133267. doi: 10.1172/jci.insight.133267. PMID: 32107344 (Single Cell RNAseq)
+KPMP reference atlas datasets:<br/>
+These datasets are made available under a Creative Commons Attribution 4.0 International (CC BY 4.0) and also can be downloaded from https://www.kpmp.org/doi-collection.<br/>
+Please cite the following manuscripts if you use any of the datasets integrated in our KPMP reference atlas paper:<br/>
+1) A reference tissue atlas for the human kidney. J Hansen, R Sealfon, R Menon, MT Eadon, BB Lake, B Steck, K Anjani, S Parikh, TK Sidgel, G Zhang, D Velickovic, D Barwinska, T Alexandrov, D Dobi, P Rakshmi, EA Otto, M Rivera, MP Rose, CR Anderton, JP Shapiro, A Pamreddy, S Winfree, Y Xiong, Y He, IH de Boer, JB Hodgin, L Barisoni, AS Naik, K Sharma, MM Sarwal, K Zhang, J Himmelfarb, B Rovin, TM El-Achkar, Z Laszik, JC He, PC Dagher, MT Valerius, S Jain, LM Satlin, OG Troyanskaya, M Kretzler, R Iyengar, EU Azeloglu, Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022. In Press. bioRxiv 2020.07.23.216507 (Laser microdissected RNAseq/Proteomics, Near Single Cell Proteomics)<br/>
+2) A single-nucleus RNA-sequencing pipeline to decipher the molecular anatomy and pathophysiology of human kidneys. Lake BB, Chen S, Hoshi M, Plongthongkum N, Salamon D, Knoten A, Vijayan A, Venkatesh R, Kim EH, Gao D, Gaut J, Zhang K, Jain S. Nat Commun. 2019 Jun 27;10(1):2832. doi: 10.1038/s41467-019-10861-2. PMID: 31249312 (Single Nucleus RNAseq)<br/>
+3) Single cell transcriptomics identifies focal segmental glomerulosclerosis remission endothelial biomarker. Menon R, Otto EA, Hoover P, Eddy S, Mariani L, Godfrey B, Berthier CC, Eichinger F, Subramanian L, Harder J, Ju W, Nair V, Larkina M, Naik AS, Luo J, Jain S, Sealfon R, Troyanskaya O, Hacohen N, Hodgin JB, Kretzler M, Kpmp KPMP; Nephrotic Syndrome Study Network (NEPTUNE). JCI Insight. 2020 Mar 26;5(6):e133267. doi: 10.1172/jci.insight.133267. PMID: 32107344 (Single Cell RNAseq)<br/>
 
 ___________________________________________________________________________________________________________
 
