@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd">
+  <assemblyIdentity name="System.Runtime" processorArchitecture="msil" publicKeyToken="B03F5F7F11D50A3A" version="4.2.2.0" />
+  <file name="System.Runtime.dll" />
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Private.CoreLib" publicKeyToken="7cec85d7bea7798e" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Private.Uri" publicKeyToken="b03f5f7f11d50a3a" version="4.0.6.0" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
