@@ -1,7 +1,7 @@
 Updates
 June 19, 2022
--	The pipeline now allows analysis of datasets with the same name, Up/Down status and timepoint, as long as they are assigned to different
-    integration groups.
+- The pipeline now allows analysis of datasets with the same name, Up/Down status and timepoint, as long as they are assigned to different
+  integration groups.
 -	The menu panel ‘Tips’ was introduced.
 -	If a file that assigns multiple integration groups or colors to the same dataset (as defined by a unique dataset name, Up/Down status and
     timepoint combination) is uploaded, the script will warn the user with an error message and ignore the upload (instead of throwing an exception
