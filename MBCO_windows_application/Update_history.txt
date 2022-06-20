@@ -5,8 +5,8 @@ June 19, 2022
 - The menu panel ‘Tips’ was introduced.
 - If a file that assigns multiple integration groups or colors to the same dataset (as defined by a unique dataset name, Up/Down status and
   timepoint combination) is uploaded, the script will warn the user with an error message and ignore the upload (instead of throwing an 
-  exception during an internal correctness check). A similar warning already exists, if an uploaded dataset contains a duplicated gene   
-  symbol.
+  exception during an internal correctness check). A similar warning already exists, if the same dataset contains the same gene symbol
+  multiple times.
 - The menu panel ‘SCP networks’ was updated.
 - The output within the file ‘Selected_parameter’ was updated.
 - If an uploaded dataset file contains only zero values within the column that is assigned to the 1st Value in the ‘Read data’ menu, the 
