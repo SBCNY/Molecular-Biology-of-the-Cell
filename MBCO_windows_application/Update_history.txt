@@ -1,0 +1,35 @@
+Updates
+June 19, 2022
+-	The pipeline now allows analysis of datasets with the same name, Up/Down status and timepoint, as long as they are assigned to different
+    integration groups.
+-	The menu panel ‘Tips’ was introduced.
+-	If a file that assigns multiple integration groups or colors to the same dataset (as defined by a unique dataset name, Up/Down status and
+    timepoint combination) is uploaded, the script will warn the user with an error message and ignore the upload (instead of throwing an exception
+    during an internal correctness check). A similar warning already exists, if an uploaded dataset contains a duplicated gene symbol.
+-	The menu panel ‘SCP networks’ was updated.
+-	The output within the file ‘Selected_parameter’ was updated.
+-	If an uploaded dataset file contains only zero values within the column that is assigned to the 1st Value in the ‘Read data’ menu, the script
+    will warn the user with an error message and ignore the upload.
+-	If no column name is specified for the 1st values, all 1st values in the uploaded data files will be set to 1.
+-	If MBCO dataset files are missing or corrupted, the script will ask the user to download the MBCO application again.
+
+June 11, 2022
+-	The new check box 'Connect all related SCPs' under ‘Dynamic enrichment analysis’ in the menu panel 'SCP-networks' allows the user to specify
+    visualized SCP-connections in the networks derived from dynamic enrichment analysis. Unchecked, only those SCPs will be connected that were
+    combined to form a context-specific higher level-SCP that meets the significance criteria, defined in the menu panel ‘Enrichment’. These combined
+    SCPs label the same bar in the bardiagram charts for dynamic enrichment analysis. The results text file that documents the significant predictions
+    for dynamic enrichment analysis, lists these SCPs as one entry in the column ‘SCP’, separated by dollar signs. Since an SCP can be part of
+    multiple higher-level SCPs, it can be connected to more than two other SCPs. If the check box is checked, any SCPs will be connected, as long
+    as their interaction is among the top percentages of considered SCP interactions, no matter if they are part of the same significant context-
+    specific higher level-SCP or not. If checked, SCPs will also be connected across different datasets. The top percentages of considered SCP
+    interactions are the same as those used for the dynamic enrichment analysis algorithm and can be modified in the menu panel ‘Enrichment’. 
+
+June 08, 2022
+-	Any user input for an enrichment, data significance or network parameter that lies outside of the available parameter ranges (e.g., a maximum
+    p-value > 1) will change the text box color to orchid, indicating that those entries will be ignored.
+-	The text boxes labeled "Top % of SCP interactions for dynamic enrichment analysis" in the menu panel 'Enrichment' allow optimization of the
+	dynamic	enrichment algorithm. Changing these values will instantly update the background infered SCP-networks that form the basis of the
+	dynamic enrichment algorithm.
+
+May 15, 2022
+-	The dataset ‘KPMP reference tissue atlas’ was added as a new example dataset.
