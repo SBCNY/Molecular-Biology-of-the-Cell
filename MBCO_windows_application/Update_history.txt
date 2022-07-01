@@ -1,4 +1,18 @@
 Updates
+June 30, 2022
+-	To quickly assign integration groups or colors in the menu panel ‘Organize Data’ the user can group multiple datasets together based
+  on shared characteristics,  such as Up/Down statuses, time points or substrings within their names. It is now possible to define multiple
+  substrings by defining multiple substring indexes. The indexes need to be separated by commas. All datasets with the same substrings at the
+  indexed positions will be grouped together.
+-	The script now writes the data submitted to enrichment analysis as multiple files using the file names specified in the column source. Similarly,
+  the lists of experimental background genes are written into that folder as well. To repeat a previous analysis, the user can simply read those
+  files using the regular read pipeline in the menu ‘Read data’ (using the ‘MBCO’ column names). The list of background genes can be added using
+  the read and assignment pipeline in the menu panel ‘Background genes’. This way the scripts also avoids automatic screening for some columns
+  that are part of the saved input data files (e.g., column ‘Source’).
+-	A dataset in an uploaded file is now defined by the same name, Up/Down status, timepoint and integration group. Consequently, rows with the same
+  name, Up/Down status and timepoint combination but different integration groups will be assigned to different datasets.
+-	Additional buttons will change their color to light blue when pressed. Color will be set back to dark blue, once the requested action is finished.
+
 June 19, 2022
 - The pipeline now allows analysis of datasets with the same name, Up/Down status and timepoint, as long as they are assigned to different
   integration groups.
