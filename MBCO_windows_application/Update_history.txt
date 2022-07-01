@@ -9,6 +9,7 @@ June 30, 2022
   files using the regular read pipeline in the menu ‘Read data’ (using the ‘MBCO’ column names). The list of background genes can be added using
   the read and assignment pipeline in the menu panel ‘Background genes’. This way the scripts also avoids automatic screening for some columns
   that are part of the saved input data files (e.g., column ‘Source’).
+- Any rows in an uploaded data file that contain zeros in the column assigned to the 1st value will be removed right after the upload.
 - A dataset in an uploaded file is now defined by the same name, Up/Down status, timepoint and integration group. Consequently, rows with the same
   name, Up/Down status and timepoint combination but different integration groups will be assigned to different datasets.
 - Additional buttons will change their color to light blue when pressed. Color will be set back to dark blue, once the requested action is finished.
