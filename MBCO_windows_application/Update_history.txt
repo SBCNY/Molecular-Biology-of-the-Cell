@@ -4,7 +4,7 @@ June 30, 2022
   on shared characteristics,  such as Up/Down statuses, time points or substrings within their names. It is now possible to define multiple
   substrings by defining multiple substring indexes. The indexes need to be separated by commas. All datasets with the same substrings at the
   indexed positions will be grouped together.
-- The script now writes the data submitted to enrichment analysis as multiple files using the file names specified in the column source. Similarly,
+- The script now writes the data submitted to enrichment analysis as multiple files using the file names specified in the column 'Source'. Similarly,
   the lists of experimental background genes are written into that folder as well. To repeat a previous analysis, the user can simply read those
   files using the regular read pipeline in the menu ‘Read data’ (using the ‘MBCO’ column names). The list of background genes can be added using
   the read and assignment pipeline in the menu panel ‘Background genes’. This way the scripts also avoids automatic screening for some columns
