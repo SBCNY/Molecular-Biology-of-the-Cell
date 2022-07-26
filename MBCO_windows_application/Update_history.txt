@@ -1,7 +1,7 @@
 Updates
 July 25, 2022
 - The menu panel 'Tips' was updated.
-- Two rare conditions that interrupted the generation of bardiagrams or SCP networks were fixed.
+- Two rare conditions that caused an interruption of the generation of bardiagrams or SCP networks were fixed.
 
 June 30, 2022
 - To quickly assign integration groups or colors in the menu panel ‘Organize Data’ the user can group multiple datasets together based
