@@ -1,4 +1,24 @@
 Updates
+September 20, 2022
+- The menu panel 'Example data' was updated.
+- A new checkbox was introduced in the menu panel 'Set data cutoffs' that allows permanent removal of not significant genes from the user-supplied
+  datasets. Removal of long lists of not significant genes (that will be ignored for enrichment analysis) can speed up the time needed for data organization
+  or analysis.
+- In the network diagrams SCPs are visualized as circles that are integrated into the MBCO hierarchy or MBCO networks. If the same SCP is predicted based on
+  multiple datasets, each dataset will be represented by a different slice. The thickness of the black lines that separate these slices from each other will
+  now be adjusted to the number of slices. This ensures that the color of each slice can still be identified and will not be overlaid by the separation lines,
+  even if the number of slices is very high (>20 or >30).
+- The output in the 'Selected parameter' file was updated.
+- Empty entries in the text boxes for specification of substring indexes (panel 'Organize data') will be ignored.
+- The menu panel 'Select SCPs' allows investigation of selected SCPs independently of the significance cutoffs. The user can specify subcellular processes (SCPs) of
+  interest that will be shown in the bar diagrams, heatmaps, timelines and SCP-networks, independently of their significance. We updated this functionality, so that
+  the user can specify multiple groups of SCPs at the same time. The script will generate one set of result files for each group. The group name will be part of the
+  result files. 
+- Since a main purpose of the 'Select SCPs' functionality lies in the visualization of the experimental genes that map to the selected SCPs, we introduced the new
+  checkbox 'Add genes' to this panel. This checkbox becomes visible, once the checkbox 'Ignore significance cutoffs' is selected. The new checkbox is identical with
+  the checkbox 'Add genes' in the menu panel 'SCP-networks', section 'Standard enrichment analysis'. If the new checkbox is checked, all experimental genes that map to
+  the selected SCPs will be added to the network.
+
 July 25, 2022
 - The menu panel 'Tips' was updated.
 - Two rare conditions that caused an interruption during the generation of bardiagrams or SCP networks were fixed.
