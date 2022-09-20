@@ -10,9 +10,9 @@ September 20, 2022
   lines, even if the number of slices is very high (>20 or >30).
 - The output in the 'Selected parameter' file was updated.
 - Empty entries in the text boxes for specification of substring indexes (panel 'Organize data') will be ignored.
-- The menu panel 'Select SCPs' allows investigation of selected SCPs independently of the significance cutoffs. The user can specify SCPs of interest that will be
-  shown in the bar diagrams, heatmaps, timelines and SCP-networks, independently of their significance. We updated this functionality, so that the user can specify
-  multiple groups of SCPs at the same time. The script will generate one set of result files for each group. The group name will be part of the result files. 
+- The menu panel 'Select SCPs' allows selection of SCPs that will be shown in all result files (bar diagrams, heatmaps, timelines and SCP-networks), independently of
+  their significance. We updated this functionality, so that the user can specify multiple groups of SCPs at the same time. The script will generate one set of result
+  files for each group. The group name will be part of the result files. 
 - Since a main purpose of the 'Select SCPs' functionality lies in the visualization of the experimental genes that map to the selected SCPs, we introduced the new
   checkbox 'Add genes' to this panel. This checkbox becomes visible, once the checkbox 'Ignore significance cutoffs' is selected. The new checkbox is identical with
   the checkbox 'Add genes' in the menu panel 'SCP-networks', section 'Standard enrichment analysis'. If the new checkbox is checked, all experimental genes that map to
