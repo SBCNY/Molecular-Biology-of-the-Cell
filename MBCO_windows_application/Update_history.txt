@@ -12,7 +12,7 @@ September 20, 2022
 - Empty entries in the text boxes for specification of substring indexes (panel 'Organize data') will be ignored.
 - The menu panel 'Select SCPs' allows selection of SCPs that will be shown in all result files (bar diagrams, heatmaps, timelines and SCP-networks), independently of
   their significance. We updated this functionality, so that the user can specify multiple groups of SCPs at the same time. Our pipeline will generate one set of
-  result files for each group. The group name will be part of the result files. 
+  result files for each group and add the group name to the file names. 
 - Since a main purpose of the 'Select SCPs' functionality lies in the visualization of the experimental genes that map to the selected SCPs, we introduced the new
   checkbox 'Add genes' to this panel. This checkbox becomes visible, once the checkbox 'Ignore significance cutoffs' is selected. The new checkbox is identical with
   the checkbox 'Add genes' in the menu panel 'SCP-networks', section 'Standard enrichment analysis'. If the new checkbox is checked, all experimental genes that map to
