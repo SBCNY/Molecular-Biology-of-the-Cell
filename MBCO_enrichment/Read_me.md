@@ -1,5 +1,5 @@
 # Molecular-Biology-of-the-Cell Ontology (MBCO)
-<b>The following instructions describe how to use the C# script that was uploaded in 2017. They have no relevance for the windows application. </b><br>
+<b>The following instructions describe how to use the C# script in this folder that was uploaded in 2017. They have no relevance for the windows application. </b><br>
 <br>
 <b>Before the first use</b><br>
 Open the MBCO_standard_dynamic_enrichment.sln with a suited editor such as Visual Studio.
