@@ -10,7 +10,7 @@ This folder also contains <b><i><u>MBCO version 1.1</u></i></b> (that contains a
 <br>
 <br>
 # Additional MBCO datasets
-This folder contains an ontology that maps genes to metabolic energy pathways and sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
+This folder contains an ontology that maps genes to metabolic energy pathways as well as pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
 
 #
 The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. Both folders have no relevance for the windows application and can simply be ignored.
