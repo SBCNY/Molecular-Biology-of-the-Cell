@@ -2,7 +2,7 @@
 The folder "MBCO_windows_application" contains an excecutable windows application that allows scientists to analyze their data.
 Simply copy the folder "MBCO_windows_application" to any location on your hard drive and start the program by opening "Molecular_Biology_of_the_Cell_Ontology.exe".
 
-This folder also contains MBCO version 1.1 (that contains a reference for each pathway-gene association).
+This folder also contains <b>MBCO version 1.1</b> (that contains a reference for each pathway-gene association).
 
 <b>The last update of the application was uploaded on September 22, 2022.</b>
 
