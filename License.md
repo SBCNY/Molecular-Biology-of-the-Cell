@@ -16,10 +16,10 @@ ________________________________________________________________________________
 License for example experimental datasets used in the MBCO windows application
 
 Neurite outgrowth dataset:<br/>
-This dataset only serves to demonstrate the functionality of the MBCO windows application.
-As stated in the bioRxiv publication (below) that contains these datasets: All rights reserved. No reuse allowed without permission.<br/>
-Whole cell response to receptor stimulation involves many deep and distributed subcellular processes. Jens Hansen, Arjun Singh Yadaw, Mustafa M. Siddiq, Rosa Tolentino, Vera Rabinovich, Gomathi Jayaraman, Mohit Jain, Tong Liu, Hong Li, Joseph Goldfarb, Ravi Iyengar. bioRxiv 462200; doi: https://doi.org/10.1101/462200
-
+This dataset is made available under a Creative Commons Attribution 4.0 International (CC BY 4.0).<br>
+Please cite the following reference if you use this data:<br>
+Whole cell response to receptor stimulation involves many deep and distributed subcellular biochemical processes. Hansen J, Siddiq MM, Yadaw AS, Tolentino RE, Rabinovich V, Jayaraman G, Jain MR, Liu T, Li H, Xiong Y, Goldfarb J, Iyengar R. J Biol Chem. 2022 Aug 1:102325. doi: 10.1016/j.jbc.2022.102325. PMID: 35926710<br>
+<br>
 KPMP reference atlas datasets:<br/>
 These datasets are made available under a Creative Commons Attribution 4.0 International (CC BY 4.0) and also can be downloaded from https://www.kpmp.org/doi-collection.<br/>
 Please cite the following manuscripts if you use any of the datasets integrated in our KPMP reference atlas paper:<br/>
