@@ -9,7 +9,7 @@ This folder also contains <b><i><u>MBCO version 1.1</u></i></b> (that contains a
 <i>Note: If your screen resolution is too high (e.g. 3840 x 2160) the current windows form will look compressed. In this case, lower your screen resolution (e.g. to 2560 x 1600) before opening the application. You can reset your screen resolution to the original value again, once the application started.</i>
 
 # Additional MBCO datasets
-This folder contains 
+This folder contains an ontology that maps genes to metabolic energy pathways and sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
 
 #
 The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. Both folders have no relevance for the windows application and can simply be ignored.
