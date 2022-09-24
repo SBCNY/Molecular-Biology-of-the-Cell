@@ -4,8 +4,8 @@ September 24, 2022
   extended this functionality, so that all files that contain background genes (i.e., files that end with the label “_bgGenes”) will also be read. Additionally, the
   lists of background genes will be automatically assigned to those datasets that contain the same file name without the “_bgGenes” addition. This automatic extension
   mimics the manual addition of the background genes, using the ‘Read’- and ‘Automatically assign background genes’-buttons in the menu panel ‘Background genes’.
--	The menu panel ‘Background genes’ was updated.
--	Memory usage during the generation of PDFs was optimized.
+- The menu panel ‘Background genes’ was updated.
+- Memory usage during the generation of PDFs was optimized.
 
 
 September 20, 2022
