@@ -1,4 +1,11 @@
 Updates
+September 27, 2022
+-	In the menu panel ‘Select SCPs’ we introduced the option to automatically add or remove all ancestor and/or offspring SCPs of user-selected SCPs. This allows easy
+  and quick investigation of how an experimental list of genes maps to complete MBCO parent-child SCP branches.
+-	The menu panel ‘Define own SCPs’ was updated, including an increase of the size of the list box ‘Genes of the following SCPs will be added to SCP [My SCP]’.
+-	The menu panel ‘Tips’ was updated.
+
+
 September 24, 2022
 - If the checkbox ‘Read all files in directory’ in the menu panel ‘Read data’ is selected, pressing the ‘Read’-button will read all data files in a given directory. We
   extended this functionality, so that all files that contain background genes (i.e., files that end with the label “_bgGenes”) will also be read. Additionally, the
