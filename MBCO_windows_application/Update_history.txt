@@ -1,9 +1,9 @@
 Updates
 September 27, 2022
--	In the menu panel ‘Select SCPs’ we introduced the option to automatically add or remove all ancestor and/or offspring SCPs of user-selected SCPs. This allows easy
+- In the menu panel ‘Select SCPs’ we introduced the option to automatically add or remove all ancestor and/or offspring SCPs of user-selected SCPs. This allows easy
   and quick investigation of how an experimental list of genes maps to complete MBCO parent-child SCP branches.
--	The menu panel ‘Define own SCPs’ was updated, including an increase of the size of the list box ‘Genes of the following SCPs will be added to SCP [My SCP]’.
--	The menu panel ‘Tips’ was updated.
+- The menu panel ‘Define own SCPs’ was updated, including an increase of the size of the list box ‘Genes of the following SCPs will be added to SCP [My SCP]’.
+- The menu panel ‘Tips’ was updated.
 
 
 September 24, 2022
