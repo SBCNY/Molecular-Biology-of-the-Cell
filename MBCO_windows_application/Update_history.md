@@ -1,8 +1,6 @@
 Updates
 October 1, 2022
-- Besides saving datasets and background genes in the results subfolder ‘Input_data’ we now save the user-selected parameter settings as well. Use of the
-  functionalities in the menu panel ‘Read data’ will now also re-import the saved parameter settings into the application, allowing quick reproduction of generated
-  results and recapitulation of parameter settings. 
+- Besides saving datasets and background genes in the results subfolder ‘Input_data’ we now save the user-selected parameter settings as well. Use of the   functionalities in the menu panel ‘Read data’ will now also re-import the saved parameter settings into the application, allowing quick reproduction of generated   results and recapitulation of parameter settings. 
 
 September 27, 2022
 - In the menu panel ‘Select SCPs’ we introduced the option to automatically add or remove all ancestor and/or offspring SCPs of user-selected SCPs. This allows easy
