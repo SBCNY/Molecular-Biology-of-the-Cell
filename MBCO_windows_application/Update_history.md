@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 October 11th, 2022
-The menu panel ‘Read data’ was updated. It is not necessary any longer to define a column that specifies a dataset name.
+- The menu panel ‘Read data’ was updated. It is not necessary any longer to define a column that specifies a dataset name.
 
 October 1st, 2022
 - Besides saving datasets and background genes in the results subfolder ‘Input_data’ we now save the user-selected parameter settings as well. Use of the   functionalities in the menu panel ‘Read data’ will now also re-import the saved parameter settings into the application, allowing quick reproduction of generated   results and recapitulation of parameter settings. 
