@@ -3,7 +3,7 @@ To use the windows application, download the zip-folder by pressing the green 'C
 
 The subfolder "MBCO_windows_application" also contains <b><i><u>MBCO version 1.1</u></i></b> (that contains a reference for each pathway-gene association and was uploaded in February 2022).<br>
 
-<b><i><u>The last update of the application was uploaded on October 1st, 2022.</u></i></b>
+<b><i><u>The last update of the application was uploaded on October 11th, 2022.</u></i></b>
 
 <i>Note: If your screen resolution is too high (e.g. 3840 x 2160) the current windows form will look compressed. In this case, lower your screen resolution (e.g. to 2560 x 1600) before opening the application. You can reset your screen resolution to the original value again, once the application started.</i>
 <br>
