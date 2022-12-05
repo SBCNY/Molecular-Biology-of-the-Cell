@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 December 5th, 2022
-- The graphical interface of the application was redesigned, so that all elements adopt to the current screen resolution. In addition, height, width and color scheme can now be customized.
+- The graphical interface of the application was redesigned, so that all elements adopt to the current screen resolution. In addition, height, width and color scheme can now be adapted by the user.
 - The menu panel 'Organize data' now also allows addition of the dataset order numbers to the dataset names.
 
 October 11th, 2022
