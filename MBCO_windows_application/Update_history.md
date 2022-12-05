@@ -1,5 +1,9 @@
 <b>Update history</b><br>
 <br>
+December 5th, 2022
+- The graphical interface of the application was redesigned, so that all elements adopt to the current screen resolution. In addition, it allows customization of  height, width and color scheme of the application.
+- The menu panel 'Organize data' now also allows addition of the dataset order nos to the dataset names.
+
 October 11th, 2022
 - The functionalities of the menu panel ‘Read data’ were updated. It is not necessary any longer to define a column that specifies a dataset name.
 
