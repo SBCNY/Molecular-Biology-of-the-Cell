@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 December 20th, 2022
-- The MBCO application has been compiled on a Linux system using the open-source implementation of Microsoft's net framework Mono ('mono-project.com'). To run the linux version, download the compiled 'mono-xsp4' package from mono-project.com and open the application in the terminal with the command 'mono Molecular_Biology_of_the_Cell_Ontology.exe'.
+- The MBCO application has been compiled on a Linux system using Mono ('mono-project.com') that is "an open source implementation of Microsoft's .NET Framework", "sponsored by Microsoft". To run the linux version, download the compiled 'mono-xsp4' package from mono-project.com and open the application in the terminal with the command 'mono Molecular_Biology_of_the_Cell_Ontology.exe'.
 - The graphical library that generates bardiagrams, heatmaps, timelines and network piecharts was switched to ZedGraph. Besides Windows ZedGraph also supports Linux (and Mac) operating systems.
 - A new interface was generated that allows investigation of the results within the desktop application.
 - The sodium-glucose transmembrane transport ontology was added as a specialized MBCO dataset.
