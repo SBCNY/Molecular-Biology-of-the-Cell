@@ -6,7 +6,7 @@ The subfolders "MBCO_windows_application" and "MBCO_linux_application" also cont
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" or "MBCO_linux_application" to any location on your hard drive.<br>
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 To start the Linux application, download the 'mono-xsp4' packaged from 'mono-project.com'("an open source implementation of Microsoft's .NET Framework") and open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
-A Mac version is under preparation.<br>
+A Mac version is in preparation.<br>
 <br>
 # Additional MBCO datasets
 This folder contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
