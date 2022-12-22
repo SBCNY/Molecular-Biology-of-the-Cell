@@ -1,4 +1,4 @@
-The implemented ZedGraph library is made available by the ZedGraph authors under a GNU LESSER GENERAL PUBLIC LICENCE (https://github.com/ZedGraph/ZedGraph/blob/master/License-LGPL.txt, 2022 December 20).
+The implemented ZedGraph library is made available by the ZedGraph authors under a GNU LESSER GENERAL PUBLIC LICENCE (https://github.com/ZedGraph/ZedGraph/blob/master/License-LGPL.txt, 2022 December 22).
 
 "GNU LESSER GENERAL PUBLIC LICENSE<br>
  Version 2.1, February 1999<br>
