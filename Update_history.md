@@ -1,11 +1,11 @@
 <b>Update history</b><br>
 <br>
 December 20th, 2022
-- The MBCO application has been compiled on a Linux system using the open-source implementation of Microsoft's net framework Mono (https://www.mono-project.com). To run the linux version, download the compiled 'mono-xsp4' package from mono-project.com and open the application in the terminal with the command 'mono Molecular_Biology_of_the_Cell_Ontology.exe'.
+- The MBCO application has been compiled on a Linux system using the open-source implementation of Microsoft's net framework Mono ('mono-project.com'). To run the linux version, download the compiled 'mono-xsp4' package from mono-project.com and open the application in the terminal with the command 'mono Molecular_Biology_of_the_Cell_Ontology.exe'.
 - The graphical library that generates bardiagrams, heatmaps, timelines and network piecharts was switched to ZedGraph. Besides Windows ZedGraph also supports Linux (and Mac) operating systems.
 - A new interface was generated that allows investigation of the results within the desktop application.
 - The sodium-glucose transmembrane transport ontology was added as a specialized MBCO dataset.
-- Pathway networks can also be generated using Gene Ontology. Download and unzip the files 'go-basic.obo' and 'goa_human.gaf' from 'http://current.geneontology.org/' and copy them into the folder 'GO_datasets'.
+- Pathway networks can also be generated using Gene Ontology. Download and unzip the files 'go-basic.obo' and 'goa_human.gaf' from 'geneontology.org' and copy them into the folder 'GO_datasets'.
 - User-defined parameter settings are be specified, saved and re-imported independently for each ontology.
 - More explanation buttons were added to the application.
 
