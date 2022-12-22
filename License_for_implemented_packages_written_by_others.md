@@ -12,7 +12,7 @@ The implemented ZedGraph library is made available by the ZedGraph authors under
 
 ___________________________________________________________________________________________________________
 
-The implemented PDFSharp library is made available by the PDFSharp authors under the "MIT License" (http://www.pdfsharp.net/PDFsharp_License.ashx, 2022 April 09).<br>
+The implemented PDFsharp library is made available by the PDFsharp authors under the "MIT License" (http://www.pdfsharp.net/PDFsharp_License.ashx, 2022 April 09).<br>
 
 "PDFsharp is published under the MIT License.<br>
 <br>
