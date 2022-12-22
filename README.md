@@ -1,7 +1,7 @@
 # Molecular-Biology-of-the-Cell Ontology (MBCO) - Executable Windows/Linux application
 The subfolder "MBCO_windows_application" also contains <b><i><u>MBCO version 1.1</u></i></b> (that contains a reference for each pathway-gene association and was uploaded in February 2022).<br>
 
-<b><i><u>The last update of the application was uploaded on December 20th, 2022.</u></i></b>
+<b><i><u>The last update of the application was uploaded on December 20th, 2022.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" or "MBCO_linux_application" to any location on your hard drive.<br>
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
