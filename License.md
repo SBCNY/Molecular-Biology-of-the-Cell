@@ -45,3 +45,17 @@ KPMP containers deposited at Docker Hub<br/>
 Windows Container for C# program: https://hub.docker.com/r/iyengarlab/kpmp-cs-apps<br/>
 Linux Container for R and Python programs: https://hub.docker.com/r/iyengarlab/kpmp-rp-apps<br/>
 README for Using KPMP Docker Containers: https://github.com/DToxS/KPMP-Contr-Apps<br/>
+
+___________________________________________________________________________________________________________
+
+The implemented ZedGraph library is made available by the ZedGraph authors under a GNU LESSER GENERAL PUBLIC LICENCE (https://github.com/ZedGraph/ZedGraph/blob/master/License-LGPL.txt, 2022 December 20).
+
+"GNU LESSER GENERAL PUBLIC LICENSE
+		       Version 2.1, February 1999
+
+ Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+     59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+ 
+ [...]"
