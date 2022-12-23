@@ -1,2 +1,2 @@
 To use Gene Ontology in the appliation, please download "go-basic.obo" from "http://geneontology.org/docs/download-ontology/" and "goa_human.gaf" from "http://current.geneontology.org/products/pages/downloads.html" and copy both files into the "GO_datasets" folder.
-The script will populate parent pathways with the genes of their children and remove pathways with too many or too few genes.
+The script will populate parent pathways with the genes of their children and remove pathways with too many (>250) or too few genes (<5).
