@@ -1,0 +1,1 @@
+To use Gene Ontology in the appliation, please download "go-basic.obo" from "http://geneontology.org/docs/download-ontology/" and "goa_human.gaf" from "http://current.geneontology.org/products/pages/downloads.html" and copy both files into the "GO_datasets" folder.
