@@ -1,5 +1,8 @@
 <b>Update history</b><br>
 <br>
+January 13th, 2023
+- Updates in the menus 'Organize data' and 'Read data' and the explanatory description of the included functionalities.
+
 December 23rd, 2022
 - Additional explanation buttons were added that open descriptions of the included functionalities.
 
