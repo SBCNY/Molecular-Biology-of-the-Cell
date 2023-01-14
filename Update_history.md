@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 January 13th, 2023
-- Updates in the menu panels 'Organize data' and 'Read data' as well as in the explanatory descriptions of the included functionalities.
+- Updates in the menu panels 'Set data cutoffs' and 'Read data' as well as in the explanatory descriptions of the included functionalities.
 
 December 23rd, 2022
 - Additional explanation buttons were added that open descriptions of the included functionalities.
