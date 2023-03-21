@@ -2,7 +2,7 @@
 <br>
 March 20th, 2023
 - Heatmaps allow quick comparison of -log10(p-values) or ranks between the different datasets. If a heatmap contains too many rows (SCPs) and/or columns (datasets), it is split into multiple heatmap blocks. The blocks are now indexed by their position and first sorted by columns, then by rows, allowing easier comparison of the results for the same SCP accross all datasets.
-- If SCPs of interest are selected, the user can now define significance criteria for the heatmap. Fields containing significant -log10(p-values) or ranks will be colored in red or blue. All other fields will be colored in white.
+- If the option to visualize only SCPs of interest is selected, the user can now define significance criteria for the heatmap. Fields containing significant -log10(p-values) or ranks will be colored in red or blue. All other fields will be colored in white.
 
 January 13th, 2023
 - Updates in the menu panel 'Read data' and the explanatory descriptions of the included functionalities.
