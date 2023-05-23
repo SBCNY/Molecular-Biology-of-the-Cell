@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 May 23rd, 2023
-- The menue panel 'Set data cutoffs' was redesigned.
+- The menu panel 'Set data cutoffs' was redesigned.
 
 March 20th, 2023
 - Heatmaps allow quick comparison of -log10(p-values) or ranks between the different datasets. If a heatmap contains too many rows (SCPs) and/or columns (datasets), it is split into multiple heatmap blocks. The blocks are now indexed by their position and first sorted by columns, then by rows, allowing easier comparison of the results for the same SCP accross all datasets.
