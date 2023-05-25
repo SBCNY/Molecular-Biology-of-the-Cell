@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 May 25th, 2023
-- Dataset-specific colors can be uploaded using the functionalities of the menu 'Read data'. It is now possible to define colors in hexadecimal numbers that will be mapped to the closest C# colors by the application. This allows visualization of MBCO enrichment results in the same colors used within other languages, e.g. R or Python. Simply convert the color names to hexadecimal numbers (e.g. using col2hex that is part of the R-'gplots' library) and add these to a column within the dataset file that contains the colors.
+- Dataset-specific colors can be uploaded using the functionalities of the menu 'Read data'. It is now possible to define colors in hexadecimal numbers that will be mapped to the closest C# colors by the application. This allows visualization of MBCO enrichment results in the same colors used within other languages, e.g. R or Python. Simply convert the color names to hexadecimal numbers (e.g. using 'col2hex' that is part of the R-'gplots' library) and add these to a column within the dataset file that contains the colors.
 
 May 23rd, 2023
 - The menu panel 'Set data cutoffs' was redesigned.
