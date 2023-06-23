@@ -1,4 +1,4 @@
-The Supplementary Tables were uploaded after publication of the original manuscript in 2017.
+The Supplementary Tables were uploaded after publication of the MBCO manuscript in 2017.
 
-MBCO version 1.1 contains a reference for each pathway-gene association.
+MBCO version 1.1 contains a reference for each pathway-gene association and is used by the windows and linux application.
 It was originally uploaded as part of the "MBCO_windows_application" folder in February 2022 and was added to this folder for completeness reasons.
