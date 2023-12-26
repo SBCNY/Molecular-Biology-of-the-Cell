@@ -1,5 +1,9 @@
 <b>Update history</b><br>
 <br>
+December 26th, 2023
+- Adjustment of text sizes in bardiagram figures
+- Update of Tips menu panel
+
 May 25th, 2023
 - Dataset-specific colors can be uploaded using the functionalities of the menu 'Read data'. It is now possible to define colors in hexadecimal numbers that will be mapped to the closest C# colors by the application. This allows visualization of MBCO enrichment results in the same colors used within other languages, e.g. R or Python. Simply convert the color names to hexadecimal numbers (e.g. using 'col2hex' that is part of the R-'gplots' library) and add these as a new column to the dataset file.
 
