@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 December 26th, 2023
-- Adjustment of text sizes in bardiagram figures
+- Updates in bardiagram figures and text boxes
 - Update of Tips menu panel
 
 May 25th, 2023
