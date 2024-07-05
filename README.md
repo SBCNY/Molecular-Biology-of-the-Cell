@@ -12,7 +12,7 @@ To start the Linux application, download the 'mono-xsp4' or 'mono-devel' package
 Briefly, the following commands can be used:<br>
 sudo apt update<br>
 sudo apt install mono-xsp4<br>
-cd your_path\MBCO_windows_application<br>
+cd your_directory\MBCO_windows_application<br>
 mono Molecular_Biology_of_the_Cell_Ontology.exe<br>
 <br>
 
