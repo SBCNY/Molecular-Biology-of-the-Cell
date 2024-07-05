@@ -11,7 +11,7 @@ The windows application can be started by opening "Molecular_Biology_of_the_Cell
 To start the Linux application, download the 'mono-xsp4' or 'mono-devel' package from 'mono-project.com' ("an open source implementation of Microsoft's .NET Framework","sponsored by Microsoft"). Open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 Briefly, use the following commands:<br>
 sudo apt update<br>
-sudo apt install mono-devel<br>
+sudo apt install mono-xsp4<br>
 cd your_path\MBCO_windows_application<br>
 mono Molecular_Biology_of_the_Cell_Ontology.exe<br>
 <br>
