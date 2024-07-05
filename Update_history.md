@@ -8,7 +8,7 @@ July 05, 2024
 -	(We also changed the network parameter organization, so that parameters related to node sizes will not be read from saved parameter settings generated with previous versions of the application.) 
 -	The dataset order of pie charts (starting at 3h) will now follow the 'Dataset order #' that can be changed using the menu 'Organize Data'.
 -	The saved input data file in the results folder 'Input_data' will now also contain the column 'Dataset order #', allowing re-import of the numbers using the functionalities of the 'Read data' menu under selection of the 'MBCO'-column names.
--	Since both Windows and Linux (via Mono) can open the same version, we removed the folder "MBCO_linux_application". Simply execute Mono on the exe-file within the 'MBCO_windows_applicaiton' folder.
+-	Since both Windows and Linux (via Mono) can open the same version, we removed the folder "MBCO_linux_application". Simply execute Mono on the exe-file within the 'MBCO_windows_application' folder.
 
 December 26, 2023
 - Updates in bardiagram figures and text boxes
