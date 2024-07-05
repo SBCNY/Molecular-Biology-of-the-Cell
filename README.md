@@ -15,11 +15,9 @@ sudo apt install mono-xsp4<br>
 cd your_path\MBCO_windows_application<br>
 mono Molecular_Biology_of_the_Cell_Ontology.exe<br>
 <br>
-<br>
 
 #
 Additional MBCO datasets
 This folder contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
-
 #
 The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. Both folders have no relevance for the windows application and can simply be ignored.
