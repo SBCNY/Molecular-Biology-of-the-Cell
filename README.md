@@ -8,7 +8,7 @@ To use the application, download the zip-folder by pressing the green 'Code'-but
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 <br>
 <b>Linux</b><br>
-To start the Linux application, download the 'mono-xsp4' package from 'mono-project.com' ("an open source implementation of Microsoft's .NET Framework","sponsored by Microsoft"). Open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
+To start the Linux application, download the 'mono-xsp4' or 'mono-devel' package from 'mono-project.com' ("an open source implementation of Microsoft's .NET Framework","sponsored by Microsoft"). Open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 Briefly, use the following commands:<br>
 sudo apt update<br>
 sudo apt install mono-devel<br>
