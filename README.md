@@ -2,7 +2,7 @@
 <br>
 <b><i><u>The last update of the application was uploaded on July 04, 2024.</u></i></b><br>
 <br>
-To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" on your hard drive.<br>
+To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
 <b>Windows</b><br>
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
