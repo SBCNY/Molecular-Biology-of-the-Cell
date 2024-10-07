@@ -1,6 +1,7 @@
-# Molecular-Biology-of-the-Cell Ontology (MBCO) - Executable Windows/Linux application
+# Molecular-Biology-of-the-Cell Ontology (MBCO)
+# MBCO PathNet - Executable Windows/Linux application
 <br>
-<b><i><u>The last update of the application was uploaded on July 05, 2024.</u></i></b><br>
+<b><i><u>The last update of the application was uploaded on October 06, 2024.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
