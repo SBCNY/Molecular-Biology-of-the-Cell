@@ -28,4 +28,4 @@ the custom ontologies.
 To genereate the files for the 2nd custom ontology, replace '1' by '2' in both file names.
 
 The application will save the results of the initial processing for each ontology for faster
-future access.
+future accesses.
