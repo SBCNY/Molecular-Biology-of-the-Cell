@@ -1,5 +1,5 @@
 # Molecular-Biology-of-the-Cell Ontology (MBCO)
-# MBCO PathNet - Executable Windows/Linux application
+# MBCO PathNet - Windows/Linux application for the generation of pathway networks from multiomics datasets
 <br>
 <b><i><u>The last update of the application was uploaded on October 06, 2024.</u></i></b><br>
 <br>
