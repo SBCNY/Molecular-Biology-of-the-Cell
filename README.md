@@ -5,7 +5,7 @@
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
-## Windows
+<h2><b>Windows</b></h2><br>
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 <br>
 ## Linux
