@@ -1,14 +1,14 @@
 <h1>Molecular-Biology-of-the-Cell Ontology (MBCO)</h1>
-# MBCO PathNet - Generation of pathway networks from multiomics datasets
+<h1>MBCO PathNet - Generation of pathway networks from multiomics datasets</h1>
 <br>
 <b><i><u>The last update of the application was uploaded on October 06, 2024.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
-<h2><b>Windows</b></h2>
+<h2>Windows</h2>
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 <br>
-<h2><b>Linux</b></h2>
+<h2>Linux</h2>
 To start the Linux application, download the 'mono-xsp4' or 'mono-devel' package from 'mono-project.com' ("an open source implementation of Microsoft's .NET Framework","sponsored by Microsoft"). Open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 Briefly, the following commands can be used:<br>
 <br>
