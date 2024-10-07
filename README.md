@@ -5,10 +5,10 @@
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
-## <b>Windows</b><br>
+## Windows
 The windows application can be started by opening "Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 <br>
-## <b>Linux</b><br>
+## Linux
 To start the Linux application, download the 'mono-xsp4' or 'mono-devel' package from 'mono-project.com' ("an open source implementation of Microsoft's .NET Framework","sponsored by Microsoft"). Open the application from the terminal with the command "mono Molecular_Biology_of_the_Cell_Ontology.exe".<br>
 Briefly, the following commands can be used:<br>
 <br>
