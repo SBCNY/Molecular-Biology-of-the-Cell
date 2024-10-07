@@ -23,4 +23,9 @@ Scps in both files are case-sensitive. It is not necessary to add parent-child r
 SCPs specified in 'Custom_1_scpGeneAssociations.txt' or to add any at all. The only requirement is
 that the file 'Custom_1_scpHierarchy.txt' has a headline that contains both column names, even if
 no rows will follow.
+Please note that parent SCPs will NOT be populated with the genes of their child SCPs, in case of
+the custom ontologies.
 To genereate the files for the 2nd custom ontology, replace '1' by '2' in both file names.
+
+The application will save the results of the initial processing for each ontology for faster
+future access.
