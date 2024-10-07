@@ -1,5 +1,13 @@
 <b>Update history</b><br>
 <br>
+October 06, 2024
+- The ‘Read data’ menu allows specification of names that label the columns within the user-supplied files and will be mapped to the related field within the application. Specified ‘Custom 1’ or ‘Custom 2’ names will be saved, if they allowed successful data upload, to be available at the next start of the application.
+- Optimization of internal algorithms for faster processing of large datasets.
+- The application now additionally accepts Reactome and two different user-supplied custom ontologies that can be selected using the ‘Enrichment’ menu.
+- Within the ‘Enrichment’ menu the user can now select the minimum and maximum process sizes for Gene Ontology (GO) processes that will be analyzed for enrichment of user-supplied gene lists and used for integration of predicted pathways into pathway networks. Selected cutoffs are applied after population of parent GO terms with genes of their children term across all three namespaces. For consistent enrichment results under different size cutoffs, we now re-add all genes of the selected namespace as background genes, if they were removed, because they only map to processes outside of the selected cutoffs.
+- GO pathway networks will be generated from the GO directed acyclic graph using parent-child relationships. The ‘SCP networks’ menu now also allows to select to additionally include regulatory relationships. The population of parent pathways with the genes of their child pathways is not affected by this selection.
+- Since networks of pathway relationships of other ontologies can be very large, the user can now specify within the ‘SCP networks’ menu to connect predicted pathways only by pathway nodes lying between them, instead of adding all ancestor pathways that fulfil selected size requirements.
+
 July 05, 2024
 -	The graphical interface of the application was updated to address Linux/Mono-related requirements.
 -	Generated SCP networks visualize each SCP as a pie chart, where each slice represents one dataset for which the SCP was predicted with significance. It can now be selected that the slice and node areas are proportional to each -log10(p-value) and the sum of all -log10(p-values) of those datasets, respectively. -log10(p-values) predicted by dynamic enrichment analysis will be split equally among all contributing SCPs and multiple split -log10(p-values) for the same SCP will be summed up. Similarly to -log10(p-values), all other selections will also define proportionalities towards the node areas. 
