@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 October 06, 2024
-- The ‘Read data’ menu allows specification of names that label the columns within the user-supplied files and will be mapped to the related field within the application. Specified ‘Custom 1’ or ‘Custom 2’ names will be saved, if they allowed successful data upload, to be available at the next start of the application.
+- The ‘Read data’ menu allows specification of names that label the columns within the user-supplied files and will be mapped to the related field within the application. Specified ‘Custom 1’ or ‘Custom 2’ names will be saved, if they allowed successful data upload, and automatically loaded at the next start of the application.
 - Optimization of internal algorithms for faster processing of large datasets.
 - The application now additionally accepts Reactome and two different user-supplied custom ontologies that can be selected using the ‘Enrichment’ menu.
 - Within the ‘Enrichment’ menu the user can now select the minimum and maximum process sizes for Gene Ontology (GO) processes that will be analyzed for enrichment of user-supplied gene lists and used for integration of predicted pathways into pathway networks. Selected cutoffs are applied after population of parent GO terms with genes of their children term across all three namespaces. For consistent enrichment results under different size cutoffs, we now re-add all genes of the selected namespace as background genes, if they were removed, because they only map to processes outside of the selected cutoffs.
