@@ -1,7 +1,7 @@
 <h1>Molecular-Biology-of-the-Cell Ontology (MBCO)</h1>
 <h1>MBCO PathNet - Generation of pathway networks from multiomics datasets</h1>
 <br>
-<b><i><u>The last update of the application was uploaded on October 15, 2024.</u></i></b><br>
+<b><i><u>The last update of the application was uploaded on November 12, 2024.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
