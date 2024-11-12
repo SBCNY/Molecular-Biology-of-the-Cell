@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 November 12, 2024
-- For network visualization, we now enforce use of the point separator for writing decimals in graphml files to ensure compatibility with yED graph editor (English version) in areas where it is common to use the comma separator.
+- For network visualization, we now enforce use of the point separator for writing decimals in graphml files to ensure compatibility with the tested english versions of the yED graph editor in areas where it is common to use the comma separator.
 - Updates in the explanation texts
 
 October 15, 2024
