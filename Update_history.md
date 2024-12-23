@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 December 23, 2024
-- Within the menu 'SCP networks' the user can select, if font sizes of node labels should increase with increasing SCP node sizes. It is now possible to define the range of font sizes by specifying minimum and maximum sizes.
+- Within the menu 'SCP networks' the user can select, if font sizes of node labels should increase with increasing SCP node sizes. IF selected, the user can now define the range of font sizes by specifying minimum and maximum values.
   
 November 12, 2024
 - For network visualization, we now enforce use of the point separator for writing decimals in graphml files to ensure compatibility with the tested English versions of the yED graph editor in areas where it is common to use the comma separator.
