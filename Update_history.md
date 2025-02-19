@@ -1,5 +1,8 @@
 <b>Update history</b><br>
 <br>
+February 19, 2025
+- We added another example dataset.
+
 December 23, 2024
 - Within the menu 'SCP networks' the user can select if font sizes of node labels should increase with increasing SCP node sizes. If selected, the user can now define the range of font sizes by specifying minimum and maximum values.
   
