@@ -2,17 +2,17 @@ The code was written by Jens Hansen working for the Ravi Iyengar Lab
 The copyright holder for this preprint is the author/funder. It is made available under a creative commons 4.0 International license (CC BY 4.0).
 Please acknowledge the MBC Ontology in your publications by citing the following reference:<br/>
 <br/>
-Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyengar: 
+<b>Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyengar: 
 A flexible ontology for inference of emergent whole cell function from relationships between subcellular processes
-Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.
+Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.</b>
 ___________________________________________________________________________________________________________
 MBCO windows application<br/>
 The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. Source code has not been not uploaded yet. The windows/linux application is made available under an Apache 2.0 license.<br/>
 <br/>
 Please acknowledge our application in your publications by citing the following reference:<br/>
 <br/>
-MBCO PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets.
-doi: https://doi.org/10.1101/2025.02.19.638900
+<b>MBCO PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets.
+doi: https://doi.org/10.1101/2025.02.19.638900<b/>
 ___________________________________________________________________________________________________________
 The Molecular Biology of the Cell Ontology (MBCO) datasets are made available under a Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) International license.
 ___________________________________________________________________________________________________________
