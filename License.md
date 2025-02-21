@@ -8,7 +8,8 @@ Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.
 ___________________________________________________________________________________________________________
 MBCO windows application<br/>
 The code for the windows application was written by Jens Hansen working for the Ravi Iyengar Lab. Source code has not been not uploaded yet. The windows/linux application is made available under an Apache 2.0 license.<br/>
-Please cite our preprint manuscript:<br>
+<br/>
+Please acknowledge our application in your publications by citing the following reference:<br/>
 MBCO PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets.
 doi: https://doi.org/10.1101/2025.02.19.638900
 ___________________________________________________________________________________________________________
