@@ -1,4 +1,4 @@
-Integration_group	Dataset_name	Timepoint	Timeunit	Dataset_color	NCBI_official_gene_symbol	Minus_log10_pval_or_adj_pval	Significance_value_type	Log2_fold_change
+Integration_group	Dataset_name	Time point	Time unit	Dataset_color	NCBI_official_gene_symbol	Minus_log10_pval_or_adj_pval	Significance_value_type	Log2_fold_change
 HU210 minfc1.5-Down	HU210 minfc1.5	2	hrs	DarkOrange	1600012H06RIK	8.71163675227942	Minus_log10_adjusted_pvalue	-0.786494374275208
 HU210 minfc1.5-Up	HU210 minfc1.5	2	hrs	Gold	1700030C12RIK	3.28421970474454	Minus_log10_adjusted_pvalue	1.4093953371048
 HU210 minfc1.5-Up	HU210 minfc1.5	2	hrs	Gold	1810021B22RIK	7.41363328157953	Minus_log10_adjusted_pvalue	1.8125855922699
