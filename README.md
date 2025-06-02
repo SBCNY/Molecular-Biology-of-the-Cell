@@ -21,7 +21,7 @@ mono MBC_PathNet.exe<br>
 The application generates pathway networks that can be visualized using the yED Graph Editor or Cytoscape. See 'Download_all_datasets'-files for download information.<br>
 <br>
 <h2>Third-party datasets</h2>
-Follow the instructions in the 'Download_all_datasets'-files to download all datasets that the application will use, if related functionalites are selected. To import ontologies that cannot explicitly be selected in the appliation, follow the instructions in the 'Prepare_custom_ontoloy'-file.<br>
+Follow the instructions in the 'Download_all_datasets'-files to download all datasets that the application will use, if related functionalites are selected. To import ontologies that cannot explicitly be selected in the application, follow the instructions in the 'Prepare_custom_ontoloy'-file.<br>
 <br>
 <h2>Command line mode</h2>
 Follow the instructions in the 'CommandLine_Automation_Guide'-file to start the application from the command line skipping any interactions with the user-interface.<br>
