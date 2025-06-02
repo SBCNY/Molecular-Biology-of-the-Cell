@@ -64,14 +64,15 @@ curl -o %other_datasets_directory%NCBI2Reactome_All_Levels.txt https://reactome.
 curl -o %other_datasets_directory%ReactomePathways.txt https://reactome.org/download/current/ReactomePathways.txt
 curl -o %other_datasets_directory%ReactomePathwaysRelation.txt https://reactome.org/download/current/ReactomePathwaysRelation.txt
 
-REM The following file is needed for the preparation of reactome files and to support the orthologue conversions below
+REM The following file is needed for the preparation of reactome files and to support the orthologue conversions (see below)
 curl -o %other_datasets_directory%gene_info.gz https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
 "C:/Program Files/7-Zip/7z.exe" e %other_datasets_directory%gene_info.gz -o%other_datasets_directory%
 REM ########################################################################
 
 
 REM ########################################################################
-REM The following files are needed for the conversion of human genes into genes of a species of interest,
+REM In addition to the gene_info file (see above), the following files are needed for the conversion of human genes
+REM into genes of a species of interest,
 REM if there is no explicit gene association file for that species
 curl -o %other_datasets_directory%gene_orthologs.gz https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
 "C:/Program Files/7-Zip/7z.exe" e %other_datasets_directory%gene_orthologs.gz -o%other_datasets_directory%
