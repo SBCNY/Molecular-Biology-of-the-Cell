@@ -18,7 +18,7 @@ cd your_directory\MBCO_windows_application<br>
 mono MBC_PathNet.exe<br>
 <br>
 <h2>Network visualization</h2>
-The application generates pathway networks that can be visualized using the yED Graph Editor or Cytoscape. See 'Download_all_dataset'-files for download information.
+The application generates pathway networks that can be visualized using the yED Graph Editor or Cytoscape. See 'Download_all_dataset'-files for download information.<br>
 <br>
 #
 Additional MBCO datasets
