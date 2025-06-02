@@ -45,13 +45,12 @@ curl -o "$other_datasets_directory/NCBI2Reactome_All_Levels.txt" https://reactom
 curl -o "$other_datasets_directory/ReactomePathways.txt" https://reactome.org/download/current/ReactomePathways.txt
 curl -o "$other_datasets_directory/ReactomePathwaysRelation.txt" https://reactome.org/download/current/ReactomePathwaysRelation.txt
 
-# The following file is needed for Reactome processing
+# The following file is needed for Reactome processing and for identification of species orthologues (see below)
 curl -o "$other_datasets_directory/gene_info.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
 gunzip -f "$other_datasets_directory/gene_info.gz"
 
-####################### Homology conversion files #################################
+####################### Orthologue conversion files #################################
 
-curl -o "$other_datasets_directory/homologene.data" https://ftp.ncbi.nih.gov/pub/HomoloGene/build68/homologene.data
 curl -o "$other_datasets_directory/gene_orthologs.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
 gunzip -f "$other_datasets_directory/gene_orthologs.gz"
 curl -o "$other_datasets_directory/HOM_ALLOrganism.rpt" https://www.informatics.jax.org/downloads/reports/HOM_AllOrganism.rpt
