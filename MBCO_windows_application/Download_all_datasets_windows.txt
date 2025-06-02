@@ -63,7 +63,10 @@ REM Download reactome datasets
 curl -o %other_datasets_directory%NCBI2Reactome_All_Levels.txt https://reactome.org/download/current/NCBI2Reactome_All_Levels.txt
 curl -o %other_datasets_directory%ReactomePathways.txt https://reactome.org/download/current/ReactomePathways.txt
 curl -o %other_datasets_directory%ReactomePathwaysRelation.txt https://reactome.org/download/current/ReactomePathwaysRelation.txt
+REM ########################################################################
 
+
+REM ########################################################################
 REM The following file is needed for the preparation of reactome files and to support the orthologue conversions (see below)
 curl -o %other_datasets_directory%gene_info.gz https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
 "C:/Program Files/7-Zip/7z.exe" e %other_datasets_directory%gene_info.gz -o%other_datasets_directory%
