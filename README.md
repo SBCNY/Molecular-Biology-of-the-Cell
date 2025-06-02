@@ -24,7 +24,7 @@ The application generates pathway networks that can be visualized using the yED 
 Follow the instructions in the 'Download_all_datasets'-files to download all datasets that the application will use, if related functionalites are selected. To import ontologies that cannot explicitly be selected in the appliation, follow the instructions in the 'Prepare_custom_ontoloy'-file.<br>
 <br>
 <h2>Command line mode</h2>
-Follow the instructions in the 'CommandLine_Automation_Guide' to start the application from the command line without interaction with the user-interface.<br>
+Follow the instructions in the 'CommandLine_Automation_Guide'-file to start the application from the command line without interaction with the user-interface.<br>
 <br>
 <h2>Additional datasets and code</h2>
 The folder 'Additional MBCO datasets' contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).<br>
