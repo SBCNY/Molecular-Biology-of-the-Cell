@@ -1,5 +1,17 @@
 <b>Update history</b><br>
 <br>
+June 02, 2025
+-	We added the new menu ‘Ontologies / Species’ that allows selection of 11 species for the 8 ontologies. If gene-pathway annotations do not exist for a species of interest, the application will map human gene-pathway annotations to the species of interest using NCBI and MGI orthologues.
+-	We provide Windows and Linux command line code for the download of all third-party datasets used by any functionality of our application.
+-	We introduced a tour for each menu as well as an overall tour and mini tour, explaining the main functionalities of the application.
+-	Besides generating networks that can be visualized using the yED Graph Editor, the application can now also generate networks and style files for import into Cytoscape.
+-	After every data upload the application will save the last selections within the ‘Read data’-menu including the input data directory for automatic reimport after restart.
+-	After each analysis, the application saves all selected parameter into the ‘Input_data’ subdirectory within the specified results directory for potential reimport by the functionalities of the ‘Read data’-menu. This parameter file will now also contain the specified ‘Results’ directory. Since the application always searches for that parameter file within any specified data directory, established parameter settings can be easily applied to any dataset, by copying that text file into the specified data directory, with or without external modification.
+-	We introduced the button ‘Clear, read & analyze’ that allows a complete cycle of data upload and analysis. In combination with automatic import of read data selections of the last data upload and provided parameter settings, this button allows customized data analysis without any further manual interventions.
+-	For further automation, the application can now be completely run from the command line using supplied parameter settings, mimicking activation of the ‘Clear, read & analyze’-button.
+-	The parent child hierarchy of MBCO subcellular processes (SCPs) is enriched by weighted interactions between functionally related SCPs that were predicted from text mining results. These interactions form the basis for the dynamic enrichment algorithm. The ‘Ontology / Species’ menu now enables exploration of those interactions by generating networks that display the top selected percentages of level-2 and level-3 interactions. 
+-	If expressed SCP genes are added to SCPs that are also connected by parent child relationships, each gene will only be added to the youngest child to improve clarity. We have modified the algorithm so that a gene expressed in a dataset of interest that maps to a predicted SCP of that dataset is now added to the youngest child SCP predicted by any dataset, rather than only by the same dataset. See generated ReadMe for details. 
+
 February 19, 2025
 - The dataset "LINCS DToxS / predicTox examples" was added as another example dataset.
 
