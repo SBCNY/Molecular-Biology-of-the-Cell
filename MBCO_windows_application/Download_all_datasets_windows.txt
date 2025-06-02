@@ -9,7 +9,7 @@ REM The other_datasets_directory needs to be adjusted as well, if the applicatio
 
 REM ############# User input needed below ###########################################################
 REM Specify the directory that contains the app
-set app_directory=D:\MBCO_userApplication\MBCO_enrichment\bin\Debug\
+set app_directory=D:\MBCO_windows_application\
 set seven_zip_fileName=C:\Program Files\7-Zip\7z.exe
 REM ############# User input needed above ###########################################################
 
