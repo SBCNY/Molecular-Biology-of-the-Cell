@@ -10,7 +10,7 @@
 
 ####################### User input needed below ##################################
 # Specify the directory that contains the app
-app_directory="/mnt/d/MBCO_userApplication/MBCO_enrichment/bin/Debug"
+app_directory="/data/MBCO_windows_application"
 other_datasets_directory="$app_directory/Other_datasets"
 ##################################################################################
 
