@@ -1,0 +1,79 @@
+REM The application writes either graphml or xgmml networks.
+REM graphml networks can be opened with yED graph editor (https://www.yworks.com/products/yed/download).
+REM xgmml networks can be opened with Cytoscape (https://cytoscape.org/download.html).
+
+REM The following code can be used to download and unzip all files used by the application.
+REM It uses 7-Zip in the given directory below that needs to be installed if necessary.
+REM The other_datasets_directory needs to be adjusted as well, if the application is not saved on D.
+
+
+REM ############# User input needed below ###########################################################
+REM Specify the directory that contains the app
+set app_directory=D:\MBCO_userApplication\MBCO_enrichment\bin\Debug\
+set seven_zip_fileName=C:\Program Files\7-Zip\7z.exe
+REM ############# User input needed above ###########################################################
+
+
+set other_datasets_directory=%app_directory%\Other_datasets\
+IF NOT EXIST %other_datasets_directory% (mkdir %other_datasets_directory%)
+
+
+REM ########################################################################
+REM Download and unzip gene ontology datasets
+
+REM Download GO hierarchical network
+curl -L -o %other_datasets_directory%go-basic.obo https://purl.obolibrary.org/obo/go/go-basic.obo
+
+REM Download and unzip GO for human
+curl -L -o %other_datasets_directory%goa_human.gaf.gz https://current.geneontology.org/annotations/goa_human.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%goa_human.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for mouse
+curl -L -o %other_datasets_directory%mgi.gaf.gz https://current.geneontology.org/annotations/mgi.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%mgi.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for rat
+curl -L -o %other_datasets_directory%rgd.gaf.gz https://current.geneontology.org/annotations/rgd.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%rgd.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for pig
+curl -L -o %other_datasets_directory%goa_pig.gaf.gz https://current.geneontology.org/annotations/goa_pig.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%goa_pig.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for chicken
+curl -L -o %other_datasets_directory%goa_chicken.gaf.gz https://current.geneontology.org/annotations/goa_chicken.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%goa_chicken.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for dog
+curl -L -o %other_datasets_directory%goa_dog.gaf.gz https://current.geneontology.org/annotations/goa_dog.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%goa_dog.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for frog
+curl -L -o %other_datasets_directory%xenbase.gaf.gz https://current.geneontology.org/annotations/xenbase.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%xenbase.gaf.gz -o"%other_datasets_directory%"
+
+REM Download and unzip GO for zebrafish
+curl -L -o %other_datasets_directory%zfin.gaf.gz https://current.geneontology.org/annotations/zfin.gaf.gz
+"%seven_zip_fileName%" e %other_datasets_directory%zfin.gaf.gz -o"%other_datasets_directory%"
+REM ########################################################################
+
+
+REM ########################################################################
+REM Download reactome datasets
+curl -o %other_datasets_directory%NCBI2Reactome_All_Levels.txt https://reactome.org/download/current/NCBI2Reactome_All_Levels.txt
+curl -o %other_datasets_directory%ReactomePathways.txt https://reactome.org/download/current/ReactomePathways.txt
+curl -o %other_datasets_directory%ReactomePathwaysRelation.txt https://reactome.org/download/current/ReactomePathwaysRelation.txt
+
+REM The following file is needed for the preparation of reactome files.
+curl -o %other_datasets_directory%gene_info.gz https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
+"C:/Program Files/7-Zip/7z.exe" e %other_datasets_directory%gene_info.gz -o%other_datasets_directory%
+REM ########################################################################
+
+
+REM ########################################################################
+REM The following files are needed for the conversion of human genes into genes of a species of interest,
+REM if there is no explicit gene association file for that species
+curl -o %other_datasets_directory%gene_orthologs.gz https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
+"C:/Program Files/7-Zip/7z.exe" e %other_datasets_directory%gene_orthologs.gz -o%other_datasets_directory%
+curl -o %other_datasets_directory%HOM_ALLOrganism.rpt https://www.informatics.jax.org/downloads/reports/HOM_AllOrganism.rpt
+REM ########################################################################

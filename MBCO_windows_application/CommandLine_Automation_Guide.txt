@@ -1,0 +1,79 @@
+For fully automated analysis, the application can be launched from the command line
+by using the command 'MBC_PathNet.exe', followed by space-delimited arguments.
+This will start the application, automatically execute the 'Clear, read & analyze' function,
+and close the application upon successful completion.
+
+The input data directory has to be specified using the '--input-dir' argument
+(e.g., 'MBC_PathNet.exe --input-dir "D:/My_data_folder/"').
+All found compatible data, background gene files and the parameter settings file in
+the specified directory will be uploaded automatically.
+
+To define analysis parameters, edit the 'MBC_pathNet_parameter_settings.txt' file.
+This file is also generated after each run and saved in the 'Input_data' subdirectory
+within the results folder. Users can set parameters via the application and then copy
+the resulting file into the input directory for reuse. All parameters, including the
+specified results directory, will be automatically loaded.
+
+To select preselected column names, just add '--' followed by the name of the selected
+button (spaces need to be replaced by underlines): '--MBCO', '--Single_Cell', '--Minimum'
+or '--Optimum'.
+
+In addition, user-defined column names can be imported from the input data directory:
+'--custom-1-column-names': Loads column names from Custom_1_columnNames_userData.txt
+'--custom-2-column-names': Loads column names from Custom_2_columnNames_userData.txt
+
+Only one custom column set (Custom 1 or Custom 2) can be specified at a time. Within
+the related custom column names file, the column names in the user data can be mapped
+to the dataset attributes within the application. For a template, use the 'Read data'-
+menu, select 'Custom 1'- or 'Custom 2'-default column names and upload any dataset.
+This can be quickly achieved by uploading the example dataset 'Neurite outgroth' using
+the 'Example data'-menu. Afterwards the 'Read data'-menu can be opened, followed by 
+selection of the 'Custom 2'-column names and pressing the 'Read'-button. The specified
+'Custom 2'-column names will then be saved in the file 'Custom_2_columnNames_userData.txt'
+in the 'Datasets_generated_by_app'-directory. This file can be copied into the input data
+directory, with or without external modification of the 'Column name in user data' column.
+Dataset attributes with empty entries in the 'Column name in user data' will be ignored.
+
+Ensure that there are always exactly 2 columns in the tab-delimited custom name file.
+Even an empty entry (i.e. a string of length 0) in the 'Column name in user data'-field
+has to be separated from the entry in the 'Attribute in the application' field by tab.
+Every row has to contain exactly one tab. If neither argument to upload custom column
+names is provided, the application will use default or previously used column names.
+Any previously used column names are saved in the 'Datasets_generated_by_app'-folder
+under the same file names.
+Please note that the application will search for those files in the specified input data
+directory, when started in command line mode with the argument to upload custom column names,
+while it will search for those files in the 'Datasets_generated_by_app' directory,
+when started regularly.
+
+If at least one dataset file was uploaded successfully, the application will proceed to analysis.
+Any errors during the upload of potential other files are exported to the
+'Command_line_error_reports.txt' file that is written into the 'Datasets_generated_by_app',
+the given data input directory and the selected results directory (that can be specified in the
+'Mbc_pathNet_parameter_settings.txt' file). Additionally, the error panel that can be opened
+within the 'Read data'-menu will also contain a description of the errors encountered during
+data upload.
+
+After completing an analysis without any encountered errors, the application automatically
+closes and generates an 'Analysis_finished.txt'-file in both the 'Datasets_generated_by_app'-folder,
+the given input directory and the selected results directory. Any of those files can be used by external
+wrapper code as a signal to proceed. If errors were encountered, the application will not close,
+allowing investigation of those errors.
+
+When a new analysis is initiated (e.g., in command line mode), the application searches for and
+delete all 'Analysis_finished.txt'-files from both directories. If necessary though, the file
+that is used as a signal to proceed by an enwrapping program should be deleted externally before
+launching the application from the command line.
+
+Available arguments:
+--input-dir "path": Specifies the directory containing input data, background genes, the parameter settings file 
+                    and eventual user-supplied custom column names. This is the only mandatory argument.
+--custom-1-column-names: Imports column names from 'Custom_1_columnNames_userData.txt' (recommended).
+--custom-2-column-names: Imports column names from 'Custom_2_columnNames_userData.txt' (recommended).
+--MBCO: Selects MBCO default column names
+--Single_Cell: Selects 'Single Cell' default column names
+--Minimum: Selects 'Minimum' default column names
+--Optimum: Selects 'Optimum' default column names
+
+Example:
+'MBC_pathNet.exe --input-dir "D:\My_input_data\" --custom-2-column-names'

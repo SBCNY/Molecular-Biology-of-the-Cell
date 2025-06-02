@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# The application writes either GraphML or XGMML networks.
+# GraphML networks can be opened with yED graph editor (https://www.yworks.com/products/yed/download).
+# XGMML networks can be opened with Cytoscape (https://cytoscape.org/download.html).
+
+# The following code can be used to download and unzip all files used by the application.
+# It uses gunzip (installed by default on most Linux systems).
+# The other_datasets_directory needs to be adjusted if the application is not saved under /mnt/d/.
+
+####################### User input needed below ##################################
+# Specify the directory that contains the app
+app_directory="/mnt/d/MBCO_userApplication/MBCO_enrichment/bin/Debug"
+other_datasets_directory="$app_directory/Other_datasets"
+##################################################################################
+
+# Create directory if it does not exist
+mkdir -p "$other_datasets_directory"
+
+####################### Download and unzip gene ontology datasets #################
+
+# Download GO hierarchical network
+curl -L -o "$other_datasets_directory/go-basic.obo" https://purl.obolibrary.org/obo/go/go-basic.obo
+
+# Declare species-specific GAFs
+declare -a gaf_urls=(
+    "goa_human.gaf.gz"
+    "mgi.gaf.gz"
+    "rgd.gaf.gz"
+    "goa_pig.gaf.gz"
+    "goa_chicken.gaf.gz"
+    "goa_dog.gaf.gz"
+    "xenbase.gaf.gz"
+    "zfin.gaf.gz"
+)
+
+for gaf in "${gaf_urls[@]}"; do
+    curl -L -o "$other_datasets_directory/$gaf" "https://current.geneontology.org/annotations/$gaf"
+    gunzip -f "$other_datasets_directory/$gaf"
+done
+
+####################### Download Reactome datasets ################################
+
+curl -o "$other_datasets_directory/NCBI2Reactome_All_Levels.txt" https://reactome.org/download/current/NCBI2Reactome_All_Levels.txt
+curl -o "$other_datasets_directory/ReactomePathways.txt" https://reactome.org/download/current/ReactomePathways.txt
+curl -o "$other_datasets_directory/ReactomePathwaysRelation.txt" https://reactome.org/download/current/ReactomePathwaysRelation.txt
+
+# The following file is needed for Reactome processing
+curl -o "$other_datasets_directory/gene_info.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
+gunzip -f "$other_datasets_directory/gene_info.gz"
+
+####################### Homology conversion files #################################
+
+curl -o "$other_datasets_directory/homologene.data" https://ftp.ncbi.nih.gov/pub/HomoloGene/build68/homologene.data
+curl -o "$other_datasets_directory/gene_orthologs.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
+gunzip -f "$other_datasets_directory/gene_orthologs.gz"
+curl -o "$other_datasets_directory/HOM_ALLOrganism.rpt" https://www.informatics.jax.org/downloads/reports/HOM_AllOrganism.rpt
