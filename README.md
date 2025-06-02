@@ -20,8 +20,7 @@ mono MBC_PathNet.exe<br>
 <h2>Network visualization</h2>
 The application generates pathway networks that can be visualized using the yED Graph Editor or Cytoscape. See 'Download_all_dataset'-files for download information.<br>
 <br>
-#
-<h2>Additional MBCO datasets</h2>
-This folder contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).
-#
-The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. Both folders have no relevance for the windows application and can simply be ignored.
+
+<h2>Additional datasets and code</h2>
+The folder 'Additional MBCO datasets' contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).<br>
+The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. All datasets and code with relevance for the 'MBC_PathNet' are within the 'MBCO_windows_application' folder, so that these directories can simply be ignored.
