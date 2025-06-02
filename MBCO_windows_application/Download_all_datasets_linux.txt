@@ -39,18 +39,19 @@ for gaf in "${gaf_urls[@]}"; do
     gunzip -f "$other_datasets_directory/$gaf"
 done
 
-####################### Download Reactome datasets ################################
-
+####################### Download Reactome datasets ##################################
 curl -o "$other_datasets_directory/NCBI2Reactome_All_Levels.txt" https://reactome.org/download/current/NCBI2Reactome_All_Levels.txt
 curl -o "$other_datasets_directory/ReactomePathways.txt" https://reactome.org/download/current/ReactomePathways.txt
 curl -o "$other_datasets_directory/ReactomePathwaysRelation.txt" https://reactome.org/download/current/ReactomePathwaysRelation.txt
 
-# The following file is needed for Reactome processing and for identification of species orthologues (see below)
+####################### Download NCBI gene info #####################################
+# The following file is needed for the preparation of reactome files and to support the orthologue conversions (see below)
 curl -o "$other_datasets_directory/gene_info.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_info.gz
 gunzip -f "$other_datasets_directory/gene_info.gz"
 
-####################### Orthologue conversion files #################################
-
+####################### Download orthologue conversion files #################################
+# In addition to the gene_info file (see above), the following files are needed for the conversion of human genes
+# into genes of a species of interest, if there is no explicit gene annotation file for that species
 curl -o "$other_datasets_directory/gene_orthologs.gz" https://ftp.ncbi.nih.gov/gene/DATA/gene_orthologs.gz
 gunzip -f "$other_datasets_directory/gene_orthologs.gz"
 curl -o "$other_datasets_directory/HOM_ALLOrganism.rpt" https://www.informatics.jax.org/downloads/reports/HOM_AllOrganism.rpt
