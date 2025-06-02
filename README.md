@@ -27,7 +27,7 @@ Follow the instructions in the 'Download_all_datasets'-files to download all thi
 Follow the instructions in the 'CommandLine_Automation_Guide'-file to launch the application from the command line, skipping any interactions with the user-interface.<br>
 <br>
 <h2>Operating systems</h2>
-MBC_PathNet was tested on the following systems with the stated operating systems:<br>
+MBC_PathNet was tested on the following systems and operating systems:<br>
 1)	High-performance computer, 40 cores, ~400 GB RAM: Windows 10 Pro 2009 & Ubuntu 24.02.2 LTS in test mode<br>
 2)	2nd high-performance computer, 40 cores, ~400 GB RAM: Ubuntu debian 22.04 LTS<br>
 3)	Laptop, 16 GB RAM: Windows 11 & Ubuntu 24.02.2 LTS in test mode<br>
