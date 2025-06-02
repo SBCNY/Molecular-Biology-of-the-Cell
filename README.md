@@ -26,6 +26,12 @@ Follow the instructions in the 'Download_all_datasets'-files to download all thi
 <h2>Command line mode</h2>
 Follow the instructions in the 'CommandLine_Automation_Guide'-file to launch the application from the command line, skipping any interactions with the user-interface.<br>
 <br>
+<h2>Operating systems</h2>
+MBC_PathNet was tested on the following systems with the stated operating systems:<br>
+1)	High-performance computer, 40 cores, ~400 GB RAM: Windows 10 Pro 2009 & Ubuntu 24.02.2 LTS in test mode<br>
+2)	2nd high-performance computer, 40 cores, ~400 GB RAM: Ubuntu debian 22.04 LTS<br>
+3)	Laptop, 16 GB RAM: Windows 11 & Ubuntu 24.02.2 LTS in test mode<br>
+<br>
 <h2>Additional datasets and code</h2>
 The folder 'Additional MBCO datasets' contains two ontologies that map genes to metabolic energy pathways as well as to pathways involved in sodium and glucose transmembrane transport. They were both developed within the Kidney Precision Medicine Project (Hansen, Sealfon, Menon et al, Sci Adv. 2022).<br>
 The folders "MBCO_enrichment" and "MBCO_dataset" contain a C#-script and datasets that were uploaded in 2017. All datasets and code with relevance for the 'MBC_PathNet' are within the 'MBCO_windows_application' folder, so that these directories can simply be ignored.
