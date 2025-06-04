@@ -22,7 +22,7 @@ Only one custom column set (Custom 1 or Custom 2) can be specified at a time. Wi
 the related custom column names file, the column names in the user data can be mapped
 to the dataset attributes within the application. For a template, use the 'Read data'-
 menu, select 'Custom 1'- or 'Custom 2'-default column names and upload any dataset.
-This can be quickly achieved by uploading the example dataset 'Neurite outgroth' using
+This can be quickly achieved by uploading the example dataset 'Neurite outgrowth' using
 the 'Example data'-menu. Afterwards the 'Read data'-menu can be opened, followed by 
 selection of the 'Custom 2'-column names and pressing the 'Read'-button. The specified
 'Custom 2'-column names will then be saved in the file 'Custom_2_columnNames_userData.txt'
