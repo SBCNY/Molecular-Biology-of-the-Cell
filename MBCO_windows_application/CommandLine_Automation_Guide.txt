@@ -28,7 +28,7 @@ selection of the 'Custom 2'-column names and pressing the 'Read'-button. The spe
 'Custom 2'-column names will then be saved in the file 'Custom_2_columnNames_userData.txt'
 in the 'Datasets_generated_by_app'-directory. This file can be copied into the input data
 directory, with or without external modification of the 'Column name in user data' column.
-Dataset attributes with empty entries in the 'Column name in user data' will be ignored.
+Dataset attributes with empty entries in the column 'Column name in user data' will be ignored.
 
 Ensure that there are always exactly 2 columns in the tab-delimited custom name file.
 Even an empty entry (i.e. a string of length 0) in the 'Column name in user data'-field
