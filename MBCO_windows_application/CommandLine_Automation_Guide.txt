@@ -35,7 +35,7 @@ Even an empty entry (i.e. a string of length 0) in the 'Column name in user data
 has to be separated from the entry in the 'Attribute in the application' field by tab.
 Every row has to contain exactly one tab. If neither argument to upload custom column
 names is provided, the application will use default or previously used column names.
-Any previously used column names are saved in the 'Datasets_generated_by_app'-folder
+Any previously used column names are saved in the column 'Datasets_generated_by_app'-folder
 under the same file names.
 Please note that the application will search for those files in the specified input data
 directory, when started in command line mode with the argument to upload custom column names,
