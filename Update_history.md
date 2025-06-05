@@ -1,5 +1,8 @@
 <b>Update history</b><br>
 <br>
+June 6, 2025
+- For a brief introduction of our application we generated a website (www.iyengarlab.org/pathnet/) and added the link to the 'Tips'-menu.
+  
 June 3, 2025
 -	We added the new menu ‘Ontologies / Species’ that allows selection of 11 species for the 8 selectable ontologies (or ontology namespaces). If gene-pathway annotations do not exist for a species of interest, the application will map human gene-pathway annotations to the species of interest using NCBI and, if available for the selected species, MGI orthologues.
 -	We provide Windows and Linux command line code for the download of all third-party datasets used by any functionality of our application.
