@@ -14,6 +14,10 @@ within the results folder. Users can set parameters via the application and then
 the resulting file into the input directory for reuse. All parameters, including the
 specified results directory, will be automatically loaded.
 
+The arguments '--MBCO', '--Single_cell', '--Minimum' and '--Optimum' allow automatic
+selection of the related default column names that are supported within the
+'Read data'-menu.
+
 User-defined column names can be imported from the input data directory:
 '--custom-1-column-names': Loads column names from Custom_1_columnNames_userData.txt
 '--custom-2-column-names': Loads column names from Custom_2_columnNames_userData.txt
@@ -66,6 +70,11 @@ Available arguments:
                     and eventual user-supplied custom column names. This is the only mandatory argument.
 --custom-1-column-names: Imports column names from 'Custom_1_columnNames_userData.txt' (recommended).
 --custom-2-column-names: Imports column names from 'Custom_2_columnNames_userData.txt' (recommended).
+--MBCO: Selects MBCO column names before data upload
+--Minimum: Selects Minimum column names before data upload
+--Singel_cell: Selectes 'Single cell' column names before data upload
+--Optimum: Selects Optimum column names before data upload
+
 
 Example:
 'MBC_pathNet.exe --input-dir "D:\My_input_data\" --custom-2-column-names'
