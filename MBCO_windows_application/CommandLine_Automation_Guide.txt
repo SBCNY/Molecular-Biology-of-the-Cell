@@ -77,4 +77,4 @@ Available arguments:
 
 
 Example:
-'MBC_pathNet.exe --input-dir "D:\My_input_data\" --custom-2-column-names'
+'MBC_pathNet.exe --input-dir "D:/My_input_data/" --custom-2-column-names'
