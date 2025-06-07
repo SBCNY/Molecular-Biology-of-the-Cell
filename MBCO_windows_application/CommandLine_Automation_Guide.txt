@@ -11,8 +11,8 @@ the specified directory will be uploaded automatically.
 To define analysis parameters, edit the 'MBC_pathNet_parameter_settings.txt' file.
 This file is generated after each run and saved in the 'Input_data' subdirectory
 within the results folder. To quickly generate this file, load the 'LINCS DtoxS / predicTox examples'-
-dataset using the 'Example data'-menu. If necessary, change the parameter settings
-in the menus 'Enrichment' and 'SCP networks' and -for more detailed specifications- in
+dataset using the 'Example data'-menu. If needed, change the parameter settings
+in the menus 'Enrichment' and 'SCP networks' and -for more detailed settings- in
 the menus 'Set data cutoffs', 'Select SCPs' and 'Define new SCPs'. Press 'Analyze'.
 The 'MBC_pathNet_parameter_settings.txt'-file will be written into the 'Input_data'-
 directory within the specified results directory ('Save results in'). Copy the file
