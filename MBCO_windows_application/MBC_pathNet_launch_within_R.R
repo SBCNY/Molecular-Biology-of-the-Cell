@@ -108,7 +108,7 @@ is_linux = !is_windows
     exe_path = "error"
     if (is_windows) { exe_path <- file.path(mbc_pathNet_directory, "MBC_PathNet.exe") }
     if (is_linux) { exe_path <- file.path(mbc_pathNet_directory, "mono MBC_PathNet.exe") }
-    cmd <- cmd <- paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
+    cmd = paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
     system(cmd)
   }#End
   setwd(current_working_directory)
