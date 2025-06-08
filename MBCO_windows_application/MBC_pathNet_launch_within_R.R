@@ -106,14 +106,8 @@ is_linux = !is_windows
     mbcPathNet_parameter_lines[indexUseCustomizedColors] = "Bardiagram_options_class\tCustomized_colors\tTrue"
     writeLines(mbcPathNet_parameter_lines,complete_output_parameterSettings_fileName)
     exe_path = file.path(mbc_pathNet_directory, "MBC_PathNet.exe")
-    if (is_windows)
-    {#Begin
-        cmd = paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
-    }#End
-    if (is_linux)
-    {#Begin 
-        cmd = paste0('mono ',exe_path, ' --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
-    }#End
+    if (is_windows) { cmd = paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names') }
+    if (is_linux) { cmd = paste0('mono ',exe_path, ' --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names') }
     system(cmd, wait=TRUE)
   }#End
   setwd(current_working_directory)
