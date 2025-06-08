@@ -13,11 +13,12 @@
 #'Integration_group' to each dataset and add the entries 'Analysis 1', 'Analysis 2',
 #.... The column name 'Integration_group' needs to be specified in the R data.frame
 #custom_1_columnNames (as it is in this script).
-#To make the application use the same colors than the colors used to generate figures in R,
-#use the col2hex command of the gplots package to convert R colors into hexadecimal color codes.
-#Then define a new column (e.g., 'Color') and add the same color to all rows with the same
-#dataset (e.g. cluster) and directionality of change (e.g. positive or negative avg_log2FC).
-#The selected column name (e.g., 'Color') needs to be specified in the R data.frame
+#To ensure the application uses the same colors as those generated in other R figures,
+#use the col2hex command from the gplots package to convert R colors into hexadecimal color codes.
+#Then define a new column (e.g., 'Color') and add the same hexadecimal color code to all rows with
+#the same dataset (e.g. cluster) and directionality of change (e.g. positive or negative avg_log2FC).
+#The application will read the colors in hexadecimal code and map them to the closest C#
+#color. The selected column name (e.g., 'Color') needs to be specified in the R data.frame
 #custom_1_columnNames (as it is in this script).
 #
 #The degs_directory can contain multiple lists of bgGenes (1 gene each row, no headline)
@@ -36,8 +37,11 @@
 #the selected ontologies specified in the array ontologies. 
 #Each time it will read the 'MBC_pathNet_parameter_settings.txt'-file from the
 #specified mbc_pathNet_directory, change the 'Results directory' to the given
-#pathway_directory and update the ontology to the current ontology. It will
-#write the updated parameter settings file into the degs_directory and start the analysis.
+#pathway_directory and update the ontology to the current ontology. It will also 
+#set the parameter 'Customized_colors' to 'True' to allow visualization of results
+#in the same colors that are used for figures generated in R (e.g. within UMAPs).
+#The script will write the updated parameter settings file into the degs_directory
+#and start the analysis.
 #
 #Preparation of 'MBC_pathNet_parameter_settings.txt':
 #Launch MBC PathNet in regular mode and add one gene into the 'Gene list'-text box
@@ -98,6 +102,8 @@ is_linux = !is_windows
     mbcPathNet_parameter_lines[indexResults_directory] = paste("Results directory","\t",pathway_directory,sep='')
     indexNextOntology = grep("MBCO_enrichment_pipeline_options_class\tNext_ontology",mbcPathNet_parameter_lines)
     mbcPathNet_parameter_lines[indexNextOntology] = paste("MBCO_enrichment_pipeline_options_class\tNext_ontology\t",ontology,sep='')
+    indexUseCustomizedColors = grep("Bardiagram_options_class\tCustomized_colors",mbcPathNet_parameter_lines)
+    mbcPathNet_parameter_lines[indexUseCustomizedColors] = "Bardiagram_options_class\tCustomized_colors\tTrue"
     writeLines(mbcPathNet_parameter_lines,complete_output_parameterSettings_fileName)
     exe_path = "error"
     if (is_windows) { exe_path <- file.path(mbc_pathNet_directory, "MBC_PathNet.exe") }
