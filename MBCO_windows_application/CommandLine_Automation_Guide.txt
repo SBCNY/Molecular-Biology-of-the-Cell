@@ -5,7 +5,7 @@ and close the application upon successful completion.
 
 Download third-party datasets
 Ensure that you have downloaded all third-party datasets that will be needed based on your selections
-in the parameter settings. See 'Download_all_datasets..'-files for details.
+in the parameter settings. See 'Download_all_datasets..'-files for instructions.
 
 Input data directory
 The input data directory has to be specified using the '--input-dir' argument
