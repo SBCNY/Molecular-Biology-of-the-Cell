@@ -34,7 +34,7 @@
 #write the updated parameter settings file into the degs_directory and start the analysis.
 #
 #Preparation of 'MBC_pathNet_parameter_settings.txt':
-#Launch MBC PathNet and load the 'LINCS DtoxS / predicTox examples'-
+#Launch MBC PathNet in regular mode and load the 'LINCS DtoxS / predicTox examples'-
 #dataset using the 'Example data'-menu. If needed, change the parameter settings
 #in the menus 'Enrichment' and 'SCP networks' and -for more detailed settings-
 #in the menus 'Set data cutoffs', 'Select SCPs' and 'Define new SCPs'. Press 'Analyze'.
