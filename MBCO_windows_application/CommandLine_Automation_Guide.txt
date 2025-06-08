@@ -5,7 +5,9 @@ and close the application upon successful completion.
 
 Download third-party datasets
 Ensure that you have downloaded all third-party datasets that will be needed based on your selections
-in the parameter settings. See 'Download_all_datasets..'-files for instructions.
+in the parameter settings. If you generate the 'MBC_pathNet_parameter_settings'-file as described
+below without external modification, the application will inform you about missing third-party
+datasets. For download instructions of third-party datasets, see 'Download_all_datasets..'-files.
 
 Input data directory
 The input data directory has to be specified using the '--input-dir' argument
@@ -22,7 +24,7 @@ To quickly generate this file with default parameters, add at least one gene (e.
 into the 'Gene list'-text box and press the 'Add dataset'- and 'Analyze'-buttons.
 If needed, parameters can be modified in the 'Ontolgy / Species'-, 'Enrichment'-,
 'SCP networks'-, 'Set data cutoffs'-, 'Select SCPs'- and 'Define new SCPs'-menus
-before starting the analysis.
+before starting the analysis. 
 
 Selection of default column names in user data files
 The arguments '--MBCO', '--Single_cell', '--Minimum' and '--Optimum' allow automatic
