@@ -105,7 +105,7 @@ is_linux = !is_windows
     indexUseCustomizedColors = grep("Bardiagram_options_class\tCustomized_colors",mbcPathNet_parameter_lines)
     mbcPathNet_parameter_lines[indexUseCustomizedColors] = "Bardiagram_options_class\tCustomized_colors\tTrue"
     writeLines(mbcPathNet_parameter_lines,complete_output_parameterSettings_fileName)
-    exe_path <- file.path(mbc_pathNet_directory, "MBC_PathNet.exe")
+    exe_path = file.path(mbc_pathNet_directory, "MBC_PathNet.exe")
     if (is_windows)
     {#Begin
         cmd = paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
