@@ -52,7 +52,7 @@
 #within the specified results directory ('Save results in') into the mbc_pathNet_directory.
 #
 #Windows vs Linux
-#Set, if you are running the code in a Windows or Linux environment
+#Indicate if you are running the code in a Windows or Linux environment.
 
 mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
 degs_directory ="D:/My_degs_directory/" #ensure directory ending with '/'
