@@ -109,7 +109,7 @@ is_linux = !is_windows
     if (is_windows) { exe_path <- file.path(mbc_pathNet_directory, "MBC_PathNet.exe") }
     if (is_linux) { exe_path <- file.path(mbc_pathNet_directory, "mono MBC_PathNet.exe") }
     cmd = paste0('"', exe_path, '" --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
-    system(cmd)
+    system(cmd, wait=TRUE)
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
