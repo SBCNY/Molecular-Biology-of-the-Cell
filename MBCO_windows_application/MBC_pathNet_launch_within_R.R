@@ -54,9 +54,9 @@
 #Windows vs Linux
 #Set, if you are running the code in a Windows or Linux environment
 
-mbc_pathNet_directory = "D:/MBCO_windows_application/"
-degs_directory ="D:/My_degs_directory/"
-pathway_directory = "D:/My_pathway_directory/"
+mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
+degs_directory ="D:/My_degs_directory/" #ensure directory ending with '/'
+pathway_directory = "D:/My_pathway_directory/" #ensure directory ending with '/'
 ontologies = c("Mbco","Go_bp","Go_mf","Go_cc","Reactome") #"Mbco","Go_bp","Go_mf","Go_cc","Reactome","Custom_1","Custom_2"
 is_windows = TRUE
 is_linux = !is_windows
