@@ -20,7 +20,7 @@ If needed, parameters can be modified in the 'Ontolgy / Species'-, 'Enrichment'-
 'SCP networks'-, 'Set data cutoffs'-, 'Select SCPs'- and 'Define new SCPs'-menus
 before starting the analysis.
 
-Selection of deafault column names in user data files
+Selection of default column names in user data files
 The arguments '--MBCO', '--Single_cell', '--Minimum' and '--Optimum' allow automatic
 selection of the related default column names that are supported within the
 'Read data'-menu.
