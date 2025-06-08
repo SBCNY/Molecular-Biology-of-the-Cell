@@ -16,7 +16,7 @@
 #To ensure the application uses the same colors as those generated in other R figures,
 #use the col2hex command from the gplots package to convert R colors into hexadecimal color codes.
 #Then define a new column (e.g., 'Color') and add the same hexadecimal color code to all rows with
-#the same dataset (e.g. cluster) and directionality of change (e.g. positive or negative avg_log2FC).
+#the same dataset (e.g. cluster) and directionality of change (i.e. positive or negative avg_log2FC).
 #The application will read the colors in hexadecimal code and map them to the closest C#
 #color. The selected column name (e.g., 'Color') needs to be specified in the R data.frame
 #custom_1_columnNames (as it is in this script).
