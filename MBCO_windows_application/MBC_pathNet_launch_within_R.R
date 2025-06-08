@@ -13,6 +13,12 @@
 #'Integration_group' to each dataset and add the entries 'Analysis 1', 'Analysis 2',
 #.... The column name 'Integration_group' needs to be specified in the R data.frame
 #custom_1_columnNames (as it is in this script).
+#To make the application use the same colors than the colors used to generate figures in R,
+#use the col2hex command of the gplots package to convert R colors into hexadecimal color codes.
+#Then define a new column (e.g., 'Color') and add the same color to all rows with the same
+#dataset (e.g. cluster) and directionality of change (e.g. positive or negative avg_log2FC).
+#The selected column name (e.g., 'Color') needs to be specified in the R data.frame
+#custom_1_columnNames (as it is in this script).
 #
 #The degs_directory can contain multiple lists of bgGenes (1 gene each row, no headline)
 #that will be automatically mapped to the related data files with the same name,
