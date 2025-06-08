@@ -7,7 +7,8 @@ Download third-party datasets
 Ensure that you have downloaded all third-party datasets that will be needed based on your selections
 in the parameter settings. If you generate the 'MBC_pathNet_parameter_settings'-file as described
 below, without external modification, the application will inform you about missing third-party
-datasets. For download instructions of third-party datasets, see 'Download_all_datasets..'-files.
+datasets. For download instructions of third-party datasets, see 'Download_all_datasets_windows.txt'
+or 'Download_all_datasets_linux.txt'.
 
 Input data directory
 The input data directory has to be specified using the '--input-dir' argument
