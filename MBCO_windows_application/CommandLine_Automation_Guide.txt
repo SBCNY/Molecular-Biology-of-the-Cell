@@ -3,6 +3,10 @@ by using the command 'MBC_PathNet.exe', followed by space-delimited arguments.
 This will start the application, automatically execute the 'Clear, read & analyze' function,
 and close the application upon successful completion.
 
+Download third-party datasets
+Ensure that you have downloaded all third-party datasets that will be needed based on your selections
+in the parameter settings, as instructed in the 'Download_all_datasets..'-files.
+
 Input data directory
 The input data directory has to be specified using the '--input-dir' argument
 (e.g., 'MBC_PathNet.exe --input-dir "D:/My_data_folder/"').
