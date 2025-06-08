@@ -1,6 +1,6 @@
 #The following R script launches MBC PathNet and analyzes the data saved in the degs_directory.
 #
-#Ensure that you have downloaded all necessary third-party files, e.g. the gene-pathway annotation
+#Ensure that you have downloaded all necessary third-party files, e.g. the gene-pathway annotations
 #and parent child relationships files of the selected ontologies. For download instructions and 
 #command line code, see 'Download_all_datasets_windows.txt' or 'Download_all_datasets_linux.txt'.
 #
