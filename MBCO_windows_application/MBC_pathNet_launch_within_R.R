@@ -113,7 +113,7 @@ is_linux = !is_windows
     }#End
     if (is_linux)
     {#Begin 
-        exe_path <- file.path(mbc_pathNet_directory, "mono MBC_PathNet.exe") }
+        exe_path <- file.path(mbc_pathNet_directory, "mono MBC_PathNet.exe")
         cmd = paste0(exe_path, ' --input-dir ', '"', degs_directory, '"', ' --custom-1-column-names')
     }#End
     system(cmd, wait=TRUE)
