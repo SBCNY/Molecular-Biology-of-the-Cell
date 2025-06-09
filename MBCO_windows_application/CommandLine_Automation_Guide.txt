@@ -9,7 +9,8 @@ in the parameter settings. If you generate the 'MBC_pathNet_parameter_settings'-
 below, without external modification, the application will inform you about missing third-party
 datasets. For download instructions of third-party datasets, see 'Download_all_datasets_windows.txt'
 or 'Download_all_datasets_linux.txt'. Upon first use, the application will prepare those datasets
-(e.g., populate GO parent terms with the genes of their children) and save the results for reuse.
+(e.g., populate GO parent terms with the genes of their children) and save the results for faster
+access the next time.
 
 Input data directory
 The input data directory has to be specified using the '--input-dir' argument
