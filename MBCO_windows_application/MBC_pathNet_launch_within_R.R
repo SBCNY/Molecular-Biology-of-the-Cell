@@ -3,6 +3,8 @@
 #Ensure that you have downloaded all necessary third-party files, e.g. the gene-pathway annotations
 #and parent child relationships files of the selected ontologies. For download instructions and 
 #command line code, see 'Download_all_datasets_windows.txt' or 'Download_all_datasets_linux.txt'.
+#Upon first use, the application will prepare those datasets (e.g., populate GO parent terms with
+#the genes of their children) and save the results for faster access the next time.
 #
 #The degs_directory can contain multiple data files, e.g.:
 #SingleCell_marker_genes_analysis1.txt
