@@ -2,7 +2,7 @@
 <br>
 July 25, 2025
 - Updates in content and format of the explanation texts
-- Updates in the arguments that can be submitted when running the application in command-line-mode
+- Updates in the command-line arguments
   
 June 6, 2025
 - For a brief introduction of our application we generated a website (www.iyengarlab.org/pathnet/) and added the link to the 'Tips'-menu.
