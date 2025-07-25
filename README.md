@@ -3,7 +3,7 @@
 <br>
 See www.iyengarlab.org/pathnet/ for a brief introduction of MBC PathNet.<br>
 <br>
-<b><i><u>The last update of MBC PathNet was uploaded on June 5, 2025.</u></i></b><br>
+<b><i><u>The last update of MBC PathNet was uploaded on July 25, 2025.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
 <br>
