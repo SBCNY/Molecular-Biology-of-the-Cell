@@ -1,0 +1,108 @@
+For fully automated analysis, the application can be launched from the command line
+using the command MBC_PathNet.exe followed by space-delimited arguments. This initiates
+the application, automatically performs the Clear, read & analyze function, and then
+exits upon successful completion. The application window will remain invisible or may
+briefly appear before hiding again. If any errors are encountered during execution,
+the window will remain visible to facilitate error inspection.
+
+The input data directory has to be specified using the '--input-dir' argument
+(e.g., 'MBC_PathNet.exe --input-dir "D:/My_data_folder/"').
+All found compatible data, background gene files and the parameter settings file in
+the specified directory will be uploaded automatically.
+
+To define analysis parameters, edit the 'MBC_pathNet_parameter_settings.txt' file.
+This file is generated after each run and saved in the 'Input_data' subdirectory
+within the results folder. Users can set parameters via the application and then copy
+the resulting file into the input directory for reuse. All parameters, including the
+specified results directory, will be automatically loaded. To quickly generate that
+file, enter one gene (e.g., AAK1) into the 'Gene list'-text box, press 'Add dataset'
+and 'Analyze'. The script will write that file into the 'Input_data'-subdirectory
+within the specified results directory ('Save results in'). If anticipated, parameter
+settings can be adjusted before analyzing the data.
+
+The addition of arguments specifying an ontology, an organism and the results directory
+will override any of those parameters given in the parameter settings file. This simplifies
+external variation of those parameters by launching the application multiple times using
+different arguments. For example, this can allow to analyze the same data with different
+ontologies without editing the 'MBC_pathNet_parameter_settings.txt' file. Enrichment
+parameters for each ontology are specified separately for each ontology within the parameter
+settings file.
+The available arguments are: '--ontology', '--organism' and '--results-dir'. They need
+to be followed by space and the selection (case-insensitive):
+ontolgies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2' (e.g. '--ontology Mbco')
+organisms: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish', 'frog',
+           'c_elegans' or 'fly' (e.g. '--organism fly')
+results directory: e.g. '--results-dir D:/MBCO_windows_application/Results/My_results/'
+
+To select preselected column names, just add '--' followed by the name of the selected
+button (spaces need to be replaced by underlines): '--MBCO-column-names', '--single-cell-column-names',
+'--minimum-column-names' or '--optimum-column-names'.
+
+In addition, user-defined column names can be imported from the input data directory:
+'--custom-1-column-names': Loads column names from Custom_1_columnNames_userData.txt
+'--custom-2-column-names': Loads column names from Custom_2_columnNames_userData.txt
+
+Only one column name set can be specified at a time.
+
+To generate a template for the specification of custom column names, use the 'Read data'-
+menu, select 'Custom 1'- or 'Custom 2'-default column names and upload any dataset.
+This can be quickly achieved by uploading the example dataset 'Neurite outgroth' using
+the 'Example data'-menu. Afterwards the 'Read data'-menu can be opened, followed by 
+selection of the 'Custom 2'-column names and pressing the 'Read'-button. Upon successful
+data upload, the application will save the specified 'Custom 2'-column names in the file
+'Custom_2_columnNames_userData.txt' in the 'Datasets_generated_by_app'-directory. This
+file can be copied into the input data directory, with or without external modification
+of the 'Column name in user data' column. Dataset attributes with empty entries in the
+'Column name in user data' will be ignored.
+Ensure that there are always exactly 2 columns in the tab-delimited custom name file.
+Even an empty entry (i.e. a string of length 0) in the 'Column name in user data'-field
+has to be separated from the entry in the 'Attribute in the application' field by tab.
+Every row has to contain exactly one tab.
+If no argument specifying which column names to use is provided, the application will
+use default or previously selected column names that are saved in the 'Datasets_generated_by_app'
+-folder.
+Please note that the application will search for those files in the specified input data
+directory, when started in command line mode with the argument to upload custom column names,
+while it will search for those files in the 'Datasets_generated_by_app' directory,
+when started regularly.
+
+If at least one dataset file was uploaded successfully, the application will proceed to analysis.
+Any errors during the upload of any files are exported to the 'Command_line_error_reports.txt'
+file that is written into the 'Datasets_generated_by_app', the given data input directory and
+the selected results directory.
+Additionally, the application will become visible and not close, so that the user can explore
+errors using its user interface.
+
+After completing an analysis without any encountered errors, the application automatically
+closes and generates an 'Analysis_finished.txt'-file in the 'Datasets_generated_by_app'-folder,
+the given input directory and the selected results directory. Any of those files can be used by external
+wrapper code as a signal to proceed. If errors were encountered, the application will not close,
+allowing investigation of those errors.
+
+When a new analysis is initiated (e.g., in command line mode), the application searches for and
+deletes all 'Analysis_finished.txt'-files from both directories. If necessary though, the file
+that is used as a signal to proceed by an enwrapping program should be deleted externally before
+launching the application from the command line.
+
+Available arguments:
+--input-dir "my_path": Specifies the directory containing input data, background genes, the parameter settings file 
+                       and eventual user-supplied custom column names. This is the only mandatory argument.
+                       Use quotation marks, if path name contains space(s).
+--custom-1-column-names: Imports column names from 'Custom_1_columnNames_userData.txt' (recommended).
+--custom-2-column-names: Imports column names from 'Custom_2_columnNames_userData.txt' (recommended).
+--MBCO-column-names: Selects MBCO default column names
+--single-cell-column-names: Selects 'Single Cell' default column names
+--minimum-column-names: Selects 'Minimum' default column names
+--optimum-column-names: Selects 'Optimum' default column names
+--ontology my_ontology: Selects and overwrites the next ontology specified in 'MBC_pathNet_parameter_settings.txt'
+                 available ontologies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2'
+                 (to replace my_ontology, case-insensitive)
+--organism my_organism: Selects and overwrites the next organism specified in 'MBC_pathNet_parameter_settings.txt'
+                  available organisms: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish',
+                  'frog', 'c_elegans' or 'fly' (to replace my_organism, case-insensitive)
+--results-dir "my_path": Sets a new results directory that overwrites the results directory specified
+                         in 'MBC_pathNet_parameter_settings.txt'.
+                         Use quotation marks, if path name contains space(s).
+
+Example:
+MBC_pathNet.exe --input-dir "D:/My_input_data/" --custom-2-column-names --ontology Go_bp --results-dir "D:/My_results/"
