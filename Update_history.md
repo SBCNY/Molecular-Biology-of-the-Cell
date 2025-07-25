@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 July 25, 2025
-- Updates in content and format of the explanation texts.
+- Updates in content and format of the explanation texts
 - Updates in the arguments that can be submitted when running the application in command-line-mode
   
 June 6, 2025
