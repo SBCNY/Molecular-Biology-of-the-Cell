@@ -4,6 +4,8 @@
 #briefly appear before hiding again. If any errors are encountered during execution,
 #the window will remain visible to facilitate error inspection.
 
+#If you run the application in a Linux environment, ensure that you have access permissions 
+#to the folder of the application.
 
 #Ensure that you have downloaded all necessary third-party files, e.g. the gene-pathway annotations
 #and parent child relationships files of the selected ontologies. For download instructions and 
