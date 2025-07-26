@@ -1,7 +1,7 @@
 <b>Update history</b><br>
 <br>
 July 25, 2025
-- Updates in content and format of the explanation texts
+- Updates in content and format of the explanation texts and guidance tours
 - Updates in the command-line arguments
   
 June 6, 2025
