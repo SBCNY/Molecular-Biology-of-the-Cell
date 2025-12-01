@@ -1,5 +1,8 @@
 <b>Update history</b><br>
 <br>
+December 01, 2025
+- MBC PathNet has been published in Bioinformatics Advances. We updated the publication link in the application.
+
 July 25, 2025
 - Updates in content and format of the explanation texts and guidance tours
 - Updates in the command-line arguments
@@ -141,3 +144,4 @@ June 08, 2022
 
 May 15, 2022
 - The dataset ‘KPMP reference tissue atlas’ was added as a new example dataset.
+
