@@ -27,7 +27,7 @@
 #Then define a new column (e.g., 'Dataset_color') and add the same hexadecimal color code to all rows with
 #the same dataset (e.g. cluster) and directionality of change (i.e. positive or negative avg_log2FC).
 #The application will read the colors in hexadecimal code and map them to the closest C#
-#color. The selected column name (e.g., 'Color') needs to be specified in the R data.frame
+#color. The selected column name (e.g., 'Dataset_color') needs to be specified in the R data.frame
 #custom_1_columnNames (as it is in this script).
 #
 #The degs_directory can contain multiple lists of background genes (1 gene each row, no headline)
@@ -64,6 +64,8 @@
 #Indicate if you are running the code in a Windows or Linux environment. When running the code in a
 #Linux environment, you need the Mono package. See ReadMe in the main directory for download details.
 
+
+#The following code will analyze the neurite outgrowth data within the Cusom_data directory
 mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
 degs_directory = "D:/MBCO_windows_application/Custom_data/Neurite_outgrowth/" #ensure directory ending with '/'
 pathway_directory = "D:/MBCO_windows_application/Results/RTest/" #ensure directory ending with '/'
@@ -128,6 +130,7 @@ is_linux = !is_windows
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
+
 
 
 
