@@ -114,7 +114,7 @@ is_linux = !is_windows
     mbcPathNet_parameter_lines[indexUseCustomizedColors] = "Bardiagram_options_class\tCustomized_colors\tTrue"
     writeLines(mbcPathNet_parameter_lines,complete_output_parameterSettings_fileName)
     exe_path = file.path(mbc_pathNet_directory, "MBC_PathNet.exe")
-    shared_arguments = paste0('" --input-dir ', '"', degs_directory, '"',' --results-dir ',pathway_directory, ' --custom-1-column-names', ' --ontology ',ontology,' --species',species,sep='')
+    shared_arguments = paste0('" --input-dir ', '"', degs_directory, '"',' --results-dir ',pathway_directory, ' --custom-1-column-names', ' --ontology ',ontology,' --species ',species,sep='')
     if (is_windows) { cmd = paste0('"', exe_path, shared_arguments,sep='') }
     if (is_linux) { cmd = paste0('mono ',exe_path, shared_arguments,sep='') }
     system(cmd, wait=TRUE)
@@ -128,5 +128,6 @@ is_linux = !is_windows
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
+
 
 
