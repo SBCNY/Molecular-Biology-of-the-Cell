@@ -65,7 +65,7 @@
 #Linux environment, you need the Mono package. See ReadMe in the main directory for download details.
 
 
-#The following example code will analyze the neurite outgrowth data within the Cusom_data directory
+#The following example code will analyze the neurite outgrowth data within the Custom_data subdirectory
 mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
 degs_directory = "D:/MBCO_windows_application/Custom_data/Neurite_outgrowth/" #ensure directory ending with '/'
 pathway_directory = "D:/MBCO_windows_application/Results/RTest/" #ensure directory ending with '/'
@@ -130,6 +130,7 @@ is_linux = !is_windows
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
+
 
 
 
