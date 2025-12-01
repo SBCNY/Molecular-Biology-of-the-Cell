@@ -24,7 +24,7 @@
 #R data.frame custom_1_columnNames below (as it is in this script).
 #To ensure the application uses the same colors as those generated in other R figures,
 #use the col2hex command from the gplots package to convert R colors into hexadecimal color codes.
-#Then define a new column (e.g., 'Color') and add the same hexadecimal color code to all rows with
+#Then define a new column (e.g., 'Dataset_color') and add the same hexadecimal color code to all rows with
 #the same dataset (e.g. cluster) and directionality of change (i.e. positive or negative avg_log2FC).
 #The application will read the colors in hexadecimal code and map them to the closest C#
 #color. The selected column name (e.g., 'Color') needs to be specified in the R data.frame
@@ -65,8 +65,8 @@
 #Linux environment, you need the Mono package. See ReadMe in the main directory for download details.
 
 mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
-degs_directory ="D:/My_degs_directory/" #ensure directory ending with '/'
-pathway_directory = "D:/My_pathway_directory/" #ensure directory ending with '/'
+degs_directory = "D:/MBCO_windows_application/Custom_data/Neurite_outgrowth/" #ensure directory ending with '/'
+pathway_directory = "D:/MBCO_windows_application/Results/RTest/" #ensure directory ending with '/'
 ontologies = c("MBCO")#,"GO_BP","GO_MF","GO_CC","Reactome","Custom_1","Custom_2" #case-insensitive
 species = "human" #"human","mouse","rat","chicken","dog","pig","cow","zebrafish","frog","c_elegans","fly" #case-insensitive
 is_windows = TRUE
@@ -89,14 +89,14 @@ is_linux = !is_windows
     #Adapt to your data column names, each column name will be matched to the attribute at the same index,
     #indices with empty strings will be ignored
     `Column name in user data` = c(
-      "cluster", #Index 1
-      "gene", #Index 2
-      "", #Index 3
-      "", #Index 4
+      "Dataset_name", #Index 1 (e.g. "cluster", if single cell transcriptomics)
+      "NCBI_official_gene_symbol", #Index 2 (e.g "gene")
+      "Time point", #Index 3 ( e.g. "")
+      "Time unit", #Index 4 (e.g. "")
       "Integration_group", #Index 5
-      "avg_log2FC", #Index 6
-      "p_val_adj", #Index 7
-      "Color" )) #Index 8
+      "Log2_fold_change", #Index 6 (e.g "avg_log2FC")
+      "Minus_log10_pval_or_adj_pval", #Index 7 (e.g. "p_val_adj")
+      "Dataset_color" )) #Index 8
   complete_custom_columnNames_fileName = paste(degs_directory,"Custom_1_columnNames_userData.txt",sep='')
   colnames(custom_1_columnNames) = gsub("[.]"," ",colnames(custom_1_columnNames))
   write.table(custom_1_columnNames,file=complete_custom_columnNames_fileName,quote=FALSE,row.names=FALSE,col.names = TRUE,sep='\t')
@@ -128,4 +128,5 @@ is_linux = !is_windows
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
+
 
