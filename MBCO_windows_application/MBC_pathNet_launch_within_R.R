@@ -2,7 +2,7 @@
 #After launch the application performs the Clear, read & analyze function, and then
 #exits upon successful completion. The application window will remain invisible or may
 #briefly appear before hiding again. If any errors are encountered during execution,
-#the window will remain visible to facilitate error inspection.
+#the window will remain visible to allow error inspection.
 
 #If you run the application in a Linux environment, ensure that you have access permissions 
 #to the folder of the application.
@@ -19,9 +19,9 @@
 #SingleCell_marker_genes_analysis3.txt
 #SingleCell_marker_genes_analysis4.txt
 #For separate integration and results visualization of each analysis, add a column
-#'Integration_group' to each dataset and add the entries 'Analysis 1', 'Analysis 2',
-#.... The column name 'Integration_group' needs to be specified in the R data.frame
-#custom_1_columnNames below (as it is in this script).
+#'Integration_group' to each dataset and add integration group names, e.g. 'Analysis 1',
+#'Analysis 2', '...'. The column name 'Integration_group' needs to be specified in the
+#R data.frame custom_1_columnNames below (as it is in this script).
 #To ensure the application uses the same colors as those generated in other R figures,
 #use the col2hex command from the gplots package to convert R colors into hexadecimal color codes.
 #Then define a new column (e.g., 'Color') and add the same hexadecimal color code to all rows with
@@ -52,9 +52,10 @@
 #from where it will be imported into MBC PathNet.
 
 #Preparation of 'MBC_pathNet_parameter_settings.txt':
-#Launch MBC PathNet in regular mode and add one gene into the 'Gene list'-text box
-#(e.g., 'AAK1'). Press the 'Add dataset'-button. If needed, change the parameter settings
-#in the menus 'Enrichment' and 'SCP networks' and -for more detailed settings-
+#The main MBCO_windows_appliation subdirectory contains an example parameter settings file.
+#To geneate a new file, launch MBC PathNet in regular mode and add one gene into the
+#'Gene list'-text box #(e.g., 'AAK1'). Press the 'Add dataset'-button. If needed, change
+#the parameter settings in the menus 'Enrichment' and 'SCP networks' and -for more detailed settings-
 #in the menus 'Set data cutoffs', 'Select SCPs' and 'Define new SCPs'. Press 'Analyze'.
 #Copy the 'MBC_pathNet_parameter_settings.txt'-file from the 'Input_data'-directory
 #within the specified results directory ('Save results in') into the mbc_pathNet_directory.
@@ -67,7 +68,7 @@ mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending 
 degs_directory ="D:/My_degs_directory/" #ensure directory ending with '/'
 pathway_directory = "D:/My_pathway_directory/" #ensure directory ending with '/'
 ontologies = c("MBCO")#,"GO_BP","GO_MF","GO_CC","Reactome","Custom_1","Custom_2" #case-insensitive
-organism = "human" #"human","mouse","rat","chicken","dog","pig","cow","zebrafish","frog","c_elegans","fly" #case-insensitive
+species = "human" #"human","mouse","rat","chicken","dog","pig","cow","zebrafish","frog","c_elegans","fly" #case-insensitive
 is_windows = TRUE
 is_linux = !is_windows
 
@@ -113,7 +114,7 @@ is_linux = !is_windows
     mbcPathNet_parameter_lines[indexUseCustomizedColors] = "Bardiagram_options_class\tCustomized_colors\tTrue"
     writeLines(mbcPathNet_parameter_lines,complete_output_parameterSettings_fileName)
     exe_path = file.path(mbc_pathNet_directory, "MBC_PathNet.exe")
-    shared_arguments = paste0('" --input-dir ', '"', degs_directory, '"',' --results-dir ',pathway_directory, ' --custom-1-column-names', ' --ontology ',ontology,' --organism',organism,sep='')
+    shared_arguments = paste0('" --input-dir ', '"', degs_directory, '"',' --results-dir ',pathway_directory, ' --custom-1-column-names', ' --ontology ',ontology,' --species',species,sep='')
     if (is_windows) { cmd = paste0('"', exe_path, shared_arguments,sep='') }
     if (is_linux) { cmd = paste0('mono ',exe_path, shared_arguments,sep='') }
     system(cmd, wait=TRUE)
@@ -127,3 +128,4 @@ is_linux = !is_windows
   }#End
   setwd(current_working_directory)
 }#End - Calculate pathways using MBC PathNet
+
