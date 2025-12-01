@@ -12,22 +12,23 @@ the specified directory will be uploaded automatically.
 
 To define analysis parameters, edit the 'MBC_pathNet_parameter_settings.txt' file.
 This file is generated after each run and saved in the 'Input_data' subdirectory
-within the results folder. Users can set parameters via the application and then copy
-the resulting file into the input directory for reuse. All parameters, including the
-specified results directory, will be automatically loaded. To quickly generate that
-file, enter one gene (e.g., AAK1) into the 'Gene list'-text box, press 'Add dataset'
-and 'Analyze'. The script will write that file into the 'Input_data'-subdirectory
-within the specified results directory ('Save results in'). If anticipated, parameter
-settings can be adjusted before analyzing the data.
+within the results folder. An example file can also be found within the main folder.
+Users can set parameters via the application and then copy the resulting file into
+the input directory for reuse. All parameters, including the specified results directory,
+will be automatically loaded. To quickly generate that file, enter one gene (e.g., AAK1)
+into the 'Gene list'-text box, press 'Add dataset' and 'Analyze'. The script will write
+that file into the 'Input_data'-subdirectory within the specified results directory 
+('Save results in'). If anticipated, parameter settings can be adjusted before analyzing
+the data.
 
-The addition of arguments specifying an ontology, an organism and the results directory
+The addition of arguments specifying an ontology, a species and the results directory
 will override any of those parameters given in the parameter settings file. This simplifies
 external variation of those parameters by launching the application multiple times using
 different arguments. For example, this can allow to analyze the same data with different
 ontologies without editing the 'MBC_pathNet_parameter_settings.txt' file. Enrichment
 parameters for each ontology are specified separately for each ontology within the parameter
 settings file.
-The available arguments are: '--ontology', '--organism' and '--results-dir'. They need
+The available arguments are: '--ontology', '--species' and '--results-dir'. They need
 to be followed by space and the selection (case-insensitive):
 ontolgies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2' (e.g. '--ontology Mbco')
 organisms: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish', 'frog',
@@ -97,12 +98,13 @@ Available arguments:
 --ontology my_ontology: Selects and overwrites the next ontology specified in 'MBC_pathNet_parameter_settings.txt'
                  available ontologies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2'
                  (to replace my_ontology, case-insensitive)
---organism my_organism: Selects and overwrites the next organism specified in 'MBC_pathNet_parameter_settings.txt'
-                  available organisms: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish',
-                  'frog', 'c_elegans' or 'fly' (to replace my_organism, case-insensitive)
+--species my_species: Selects and overwrites the next species ('next_organism') specified in 'MBC_pathNet_parameter_settings.txt'
+                  available species: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish',
+                  'frog', 'c_elegans' or 'fly' (to replace my_species, case-insensitive)
 --results-dir "my_path": Sets a new results directory that overwrites the results directory specified
                          in 'MBC_pathNet_parameter_settings.txt'.
                          Use quotation marks, if path name contains space(s).
 
 Example:
+
 MBC_pathNet.exe --input-dir "D:/My_input_data/" --custom-2-column-names --ontology Go_bp --results-dir "D:/My_results/"
