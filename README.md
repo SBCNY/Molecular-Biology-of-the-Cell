@@ -2,10 +2,13 @@
 <h1>MBC PathNet - Generation of pathway networks from multiomics datasets</h1>
 <br>
 See www.iyengarlab.org/pathnet/ for a brief introduction of MBC PathNet.<br>
+<br>
 Please acknowledge the MBC Ontology and MBC PathNet in your publications by citing the following references:<br>
 Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyengar: A flexible ontology for inference of emergent whole cell function from relationships between subcellular processes Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.<br>
 <br>
 Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650<br>
+<br>
+<br>
 <br>
 <b><i><u>The last update of MBC PathNet was uploaded on February 16, 2026.</u></i></b><br>
 <br>
