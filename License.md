@@ -22,10 +22,6 @@ You may obtain a copy of the License at<br>
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. <br>
 See the License for the specific language governing permissions and limitations under the License (See below for a full copy of the license).<br>
 <br>
-Please acknowledge our application in your publications by citing the following reference:<br/>
-<br/>
-<b>MBCO PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets.
-doi: https://doi.org/10.1101/2025.02.19.638900<b/>
 ___________________________________________________________________________________________________________
 License for example experimental datasets used in the MBCO windows application
 
