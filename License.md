@@ -5,8 +5,21 @@ Please acknowledge the MBC Ontology in your publications by citing the following
 <b>Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650 </b>
 ___________________________________________________________________________________________________________
 MBCO PathNet<br/>
+The code was written by Jens Hansen working for the Ravi Iyengar lab.<br>
+<br>
 MBC PathNet and source code for MBC PathNet are made available under an Apache 2.0 license.<br/>
 <br/>
+Copyright 2026 Jens Hansen and Ravi Iyengar.
+
+Licensed under the Apache License, Version 2.0 (the "License");<br>
+you may not use this file except in compliance with the License.<br>
+You may obtain a copy of the License at<br>
+<br>
+    http://www.apache.org/licenses/LICENSE-2.0<br>
+<br>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. <br>
+See the License for the specific language governing permissions and limitations under the License (See below for a full copy of the license).<br>
+<br>
 Please acknowledge our application in your publications by citing the following reference:<br/>
 <br/>
 <b>MBCO PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets.
