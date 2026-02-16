@@ -1,0 +1,17 @@
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\MBC_PathNet.exe.config
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\MBC_PathNet.exe.manifest
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\MBC_PathNet.application
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\MBC_PathNet.exe
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\MBC_PathNet.pdb
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\bin\Debug\ZedGraph.xml
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBCO_project.csproj.AssemblyReference.cache
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\ClassLibrary1.Properties.Resources.resources
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\ClassLibrary1.Mbco_user_application_form.resources
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBCO_project.csproj.GenerateResource.cache
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBCO_project.csproj.CoreCompileInputs.cache
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBC_PathNet.TrustInfo.xml
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBC_PathNet.exe.manifest
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBC_PathNet.application
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBCO_pro.56DCC6DB.Up2Date
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBC_PathNet.exe
+D:\MBC_PathNet_bioinformaticsAdvances_sourceCode\MBCO_enrichment\obj\Debug\MBC_PathNet.pdb
