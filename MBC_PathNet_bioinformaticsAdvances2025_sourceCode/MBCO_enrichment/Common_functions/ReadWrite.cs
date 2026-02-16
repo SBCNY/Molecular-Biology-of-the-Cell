@@ -83,8 +83,8 @@ namespace Common_functions.ReadWrite
         public bool Report_unhandled_null_entries { get; set; }
         public bool No_entry_fields_allowed { get; set; }
         public bool Read_only { get; set; }
-        public static string Save_file_in_use_warning_text_start { get { return "File cannot be saved, please stop using:"; } }
-        public static string Read_file_in_use_warning_text_start { get { return "File cannot be read, please stop using:"; } }
+        public static string Save_file_in_use_warning_text_start { get { return "File cannot be saved. Is it used by another program? Is the file name too long?: "; } }
+        public static string Read_file_in_use_warning_text_start { get { return "File cannot be read. Is it used by another program?: "; } }
         public static string File_does_not_exist_in_directory { get { return "File does not exist in directory: "; } }
         public static string Directory_does_not_exist { get { return "Directory does not exist: "; } }
         public int Max_error_messages { get; set; }
@@ -992,4 +992,5 @@ namespace Common_functions.ReadWrite
     }
 
 }
+
 
