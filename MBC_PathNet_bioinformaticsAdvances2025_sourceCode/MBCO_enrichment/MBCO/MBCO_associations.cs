@@ -601,22 +601,39 @@ namespace MBCO
             }
             this.MBCO_associations = keep.ToArray();
         }
-        private void Add_missing_processNames_from_parent_child_nw_or_check_if_equal(MBCO_obo_network_class mbco_parentChild_nw)
+        private void Add_missing_processNames_from_parent_child_nw_or_check_if_equal_and_remove_lines_without_parentChildAnnotations(MBCO_obo_network_class mbco_parentChild_nw)
         {
             Dictionary<string, string> processID_processName_dict = mbco_parentChild_nw.Get_processID_processName_dictionary();
+            List<MBCO_association_line_class> keep = new List<MBCO_association_line_class>();
             foreach (MBCO_association_line_class mbco_association_line in this.MBCO_associations)
             {
                 if ((String.IsNullOrEmpty(mbco_association_line.SCP_name))
                     || (mbco_association_line.SCP_name.Equals(Global_class.Empty_entry)))
                 {
-                    mbco_association_line.SCP_name = (string)processID_processName_dict[mbco_association_line.SCP_id].Clone();
+                    if (processID_processName_dict.ContainsKey(mbco_association_line.SCP_id))
+                    {
+                        mbco_association_line.SCP_name = (string)processID_processName_dict[mbco_association_line.SCP_id].Clone();
+                        keep.Add(mbco_association_line);
+                    }
+                    else
+                    {
+                        //most likely obsolete, since GO obo obsolet pathways are ignored when generating the hierarchy
+                    }
                 }
-                else if (mbco_association_line.SCP_name.Equals(Ontology_classification_class.Background_genes_scp)) { }
+                else if (mbco_association_line.SCP_name.Equals(Ontology_classification_class.Background_genes_scp))
+                {
+                    keep.Add(mbco_association_line);
+                }
                 else if (!mbco_association_line.SCP_name.Equals(processID_processName_dict[mbco_association_line.SCP_id]))
                 {
-                    throw new Exception();
+                    throw new Exception("Mismatching SCP names in gene annotation and pathway hierarchy for  " + mbco_association_line.SCP_id + ": " + mbco_association_line + " vs " + processID_processName_dict[mbco_association_line.SCP_id] + ", respectively");
+                }
+                else
+                {
+                    keep.Add(mbco_association_line);
                 }
             }
+            this.MBCO_associations = keep.ToArray();
         }
         private void Set_level_and_depth_for_nonMBCO_ontologies(ProgressReport_interface_class progressReport)
         {
@@ -1065,7 +1082,7 @@ namespace MBCO
                             Read_go_associations_downloaded(ontology, download_organism, progressReport);
                             if (!download_organism.Equals(this.Organism)) { Replace_human_symbols_by_species_selective_symbols(progressReport); }
                             Set_all_genesToUpperCase_and_remove_empty_geneSymbols();
-                            Add_missing_processNames_from_parent_child_nw_or_check_if_equal(mbco_parentChild_nw_for_population);
+                            Add_missing_processNames_from_parent_child_nw_or_check_if_equal_and_remove_lines_without_parentChildAnnotations(mbco_parentChild_nw_for_population);
                             Remove_dupplicated_scp_symbol_associations();
                             Populate_parent_scps_with_genes_of_children_scps_for_all_three_namespaces(mbco_parentChild_nw_for_population);
                             Remove_dupplicated_scp_symbol_associations();
