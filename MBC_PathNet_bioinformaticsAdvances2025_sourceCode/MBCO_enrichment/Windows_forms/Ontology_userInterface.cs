@@ -727,8 +727,8 @@ namespace ClassLibrary1.Ontology_userInterface
             string scpInteractions_name = gdf.Get_name_for_ontology_scpInteractions(ontology);
             string[] legend_dataset_nodes = new string[0];
 
-            float top_level2_interactions = Enrichment_toy_options.Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level[2];
-            float top_level3_interactions = Enrichment_toy_options.Top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level[3];
+            float top_level2_interactions = Enrichment_toy_options.Selected_top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level[2];
+            float top_level3_interactions = Enrichment_toy_options.Selected_top_quantile_of_scp_interactions_for_dynamicEnrichment_per_level[3];
 
 
             Dictionary<string, int> processName_processLevel_dict = Mbco_parent_child_network.Get_processName_level_dictionary_without_setting_process_level();
