@@ -1289,27 +1289,44 @@ namespace Network
             }
         }
 
-
         public void Generate_by_reading_safed_spreadsheet_file_or_obo_file_add_missing_scps_if_custom_add_human_processSizes_and_return_if_not_interrupted(ProgressReport_interface_class progressReport, out bool not_interrupted)
         {
-            this.Clear();
-            Obo_networkTable_class mbco_networkTable = Generate_by_reading_safed_spreadsheet_file_or_obo_file_private_and_return_if_finalized(progressReport, out not_interrupted);
-            if (not_interrupted)
-            {
-                Global_directory_and_file_class gdf = new Global_directory_and_file_class();
-                if (System.IO.File.Exists(gdf.Ontology_inputDirectory_dict[this.Ontology] + gdf.Ontology_organism_geneAssociationInputFileName_dict[this.Ontology][Organism_enum.Homo_sapiens]))
-                {
-                    MBCO_association_class human_association = new MBCO_association_class();
-                    human_association.Generate_after_reading_safed_file_or_de_novo_and_save(this.Ontology, Organism_enum.Homo_sapiens,
-                                                                                            new Dictionary<Ontology_type_enum, Dictionary<GO_hyperParameter_enum, int>>(),
-                                                                                            progressReport);
-
-                    if (!mbco_networkTable.Are_all_sizes_set())
-                    { mbco_networkTable.Add_human_processSizes_and_write_populated_ontology_associations(human_association, progressReport); }
-                }
-                Add_obo_networkTable(mbco_networkTable);
-                mbco_networkTable.Write_allInfo_networkTables(this.Ontology, this.Organism, this.Scp_hierarchal_interactions, progressReport, out bool file_written_successfully);
-            }
+           this.Clear();
+           Obo_networkTable_class mbco_networkTable = Generate_by_reading_safed_spreadsheet_file_or_obo_file_private_and_return_if_finalized(progressReport, out not_interrupted);
+           if (not_interrupted)
+           {
+               Global_directory_and_file_class gdf = new Global_directory_and_file_class();
+               if (System.IO.File.Exists(gdf.Ontology_inputDirectory_dict[this.Ontology] + gdf.Ontology_organism_geneAssociationInputFileName_dict[this.Ontology][Organism_enum.Homo_sapiens]))
+               {
+                   if (!mbco_networkTable.Are_all_sizes_set())
+                   {
+                       MBCO_association_class human_association = new MBCO_association_class();
+                       if (!Ontology_classification_class.Is_go_ontology(this.Ontology))
+                       {
+                           human_association.Generate_after_reading_safed_file_or_de_novo_and_save(this.Ontology, Organism_enum.Homo_sapiens,
+                                                                                                   new Dictionary<Ontology_type_enum, Dictionary<GO_hyperParameter_enum, int>>(),
+                                                                                                   progressReport);
+    
+                       }
+                       else
+                       {
+                           Ontology_type_enum[] go_ontologies = Ontology_classification_class.Get_all_go_ontologies();
+                           MBCO_association_class add_human_association;
+                           foreach (Ontology_type_enum go_ontology in go_ontologies)
+                           {
+                               add_human_association = new MBCO_association_class();
+                               add_human_association.Generate_after_reading_safed_file_or_de_novo_and_save(go_ontology, Organism_enum.Homo_sapiens,
+                                                                                                       new Dictionary<Ontology_type_enum, Dictionary<GO_hyperParameter_enum, int>>(),
+                                                                                                       progressReport);
+                               human_association.Add_to_array(add_human_association.MBCO_associations);
+                           }
+                       }
+                       mbco_networkTable.Add_human_processSizes_and_write_populated_ontology_associations(human_association, progressReport);
+                   }
+               }
+               Add_obo_networkTable(mbco_networkTable);
+               mbco_networkTable.Write_allInfo_networkTables(this.Ontology, this.Organism, this.Scp_hierarchal_interactions, progressReport, out bool file_written_successfully);
+           }
         }
 
         public void Keep_only_scps_of_selected_namespace_if_gene_ontology()
