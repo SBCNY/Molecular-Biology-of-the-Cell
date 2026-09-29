@@ -889,6 +889,10 @@ namespace Common_functions.Global_definitions
                     throw new Exception(ontology + " is not considered in switch function.");
             }
         }
+        public static Ontology_type_enum[] Get_all_go_ontologies()
+        {
+            return new Ontology_type_enum[] {  Ontology_type_enum.Go_bp, Ontology_type_enum.Go_cc, Ontology_type_enum.Go_mf };
+        }
         public static bool Is_go_ontology(Ontology_type_enum ontology)
         {
             switch (ontology)
