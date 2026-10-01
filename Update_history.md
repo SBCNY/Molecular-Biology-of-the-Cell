@@ -1,7 +1,10 @@
 <b>Update history</b><br>
 <br>
+October 1, 2026
+- An error occurring during the preparation of more recent Gene Ontology datasets was fixed.
+  
 February 16, 2026
-- An error occuring during the preparation of more recent Reactome datasets was fixed.
+- An error occurring during the preparation of more recent Reactome datasets was fixed.
 
 December 01, 2025
 - MBC PathNet has been published in Bioinformatics Advances. We updated the publication link in the application.
