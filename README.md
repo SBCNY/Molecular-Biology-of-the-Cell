@@ -12,7 +12,7 @@ Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of network
 <br>
 <b><i><u>The last update of MBC PathNet was uploaded on October 1, 2026.</u></i></b><br>
 <br>
-To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive.<br>
+To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
 <br>
 <h2>Windows</h2>
 The windows application can be started by opening "MBC_PathNet.exe" (file type "Application").<br>
