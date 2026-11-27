@@ -10,7 +10,7 @@
 
 ####################### User input needed below ##################################
 # Specify the directory that contains the app
-app_directory="/data/MBCO_windows_application"
+app_directory="/data/Mbc_PathNet"
 other_datasets_directory="$app_directory/Other_datasets"
 ##################################################################################
 
