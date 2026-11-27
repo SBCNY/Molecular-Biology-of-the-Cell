@@ -3,16 +3,23 @@
 <br>
 See www.iyengarlab.org/pathnet/ for a brief introduction of MBC PathNet.<br>
 <br>
-Please acknowledge the MBC Ontology and MBC PathNet in your publications by citing the following references:<br>
+Please acknowledge the MBC Ontologies and MBC PathNet in your publications by citing the following references:<br>
 <br>
+MBCO v2:<br>
+Functional cooperation, adaptation and synchronization of subcellular processes in cellular neighborhoods as inferred from spatial transcriptomics Jens Hansen, Ravi Iyengar. bioRxiv 2026.11.24.768887; doi: https://doi.org/10.64898/2026.11.24.768887<br>
+<br>
+MBCO v1:<br
 Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyengar: A flexible ontology for inference of emergent whole cell function from relationships between subcellular processes Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.<br>
 <br>
+MBC PathNet:<br>
 Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650<br>
 <br>
+Additional MBCO datasets:<br>
+Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022 Jun 10;8(23). PMID: 35675394. https://doi.org/10.1126/sciadv.abn4965<br>
 <br>
-<b><i><u>The last update of MBC PathNet was uploaded on October 1, 2026.</u></i></b><br>
+<b><i><u>The last update of MBC PathNet was uploaded on November 27, 2026.</u></i></b><br>
 <br>
-To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBCO_windows_application" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
+To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBC PathNet" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
 <br>
 <h2>Windows</h2>
 The windows application can be started by opening "MBC_PathNet.exe" (file type "Application").<br>
@@ -23,7 +30,7 @@ Briefly, the following commands can be used:<br>
 <br>
 sudo apt update<br>
 sudo apt install mono-xsp4<br>
-cd your_directory\MBCO_windows_application<br>
+cd your_directory\MBC_PathNet<br>
 mono MBC_PathNet.exe<br>
 <br>
 <h2>Network visualization</h2>
