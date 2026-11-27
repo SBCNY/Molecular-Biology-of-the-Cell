@@ -66,9 +66,9 @@
 
 
 #The following example code will analyze the neurite outgrowth data within the Custom_data subdirectory
-mbc_pathNet_directory = "D:/MBCO_windows_application/" #ensure directory ending with '/'
-degs_directory = "D:/MBCO_windows_application/Custom_data/Neurite_outgrowth/" #ensure directory ending with '/'
-pathway_directory = "D:/MBCO_windows_application/Results/RTest/" #ensure directory ending with '/'
+mbc_pathNet_directory = "D:/MBC_PathNet/" #ensure directory ending with '/'
+degs_directory = paste0(mbc_pathNet_directory,"Custom_data/Neurite_outgrowth/") #ensure directory ending with '/'
+pathway_directory = paste0(mbc_pathNet_directory,"Results/RTest/") #ensure directory ending with '/'
 ontologies = c("MBCO")#,"GO_BP","GO_MF","GO_CC","Reactome","Custom_1","Custom_2" #case-insensitive
 species = "human" #"human","mouse","rat","chicken","dog","pig","cow","zebrafish","frog","c_elegans","fly" #case-insensitive
 is_windows = TRUE
