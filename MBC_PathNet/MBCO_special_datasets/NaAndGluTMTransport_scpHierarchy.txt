@@ -1,0 +1,363 @@
+Child_id	Child_scp	Parent_id	Parent_scp
+MBCO_NaGlu_Id:0000203	Neutral amino acid vs sodium neutral amino acid antiporter	MBCO_NaGlu_Id:0000059	Amino acid vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000059	Amino acid vs sodium amino acid antiporter	MBCO_NaGlu_Id:0000016	Amino acid vs sodium antiporter
+MBCO_NaGlu_Id:0000060	Cationic amino acid vs sodium antiporter	MBCO_NaGlu_Id:0000016	Amino acid vs sodium antiporter
+MBCO_NaGlu_Id:0000061	NHE4 (SLC9A4)	MBCO_NaGlu_Id:0000017	Ammonia vs sodium antiporter
+MBCO_NaGlu_Id:0000004	Sodium B2L	MBCO_NaGlu_Id:0000001	B2L
+MBCO_NaGlu_Id:0000003	Glucose B2L	MBCO_NaGlu_Id:0000001	B2L
+MBCO_NaGlu_Id:0000205	NCKX1 (SLC24A1)	MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000206	NCKX2 (SLC24A2)	MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000207	NCKX3 (SLC24A3)	MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000208	NCKX4 (SLC24A4)	MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000209	NCKX5 (SLC24A5)	MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000062	Calcium potassium vs sodium	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000064	NCLX (SLC8B1)	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000065	NCX1 (SLC8A1)	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000066	NCX2 (SLC8A2)	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000067	NCX3 (SLC8A3)	MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter
+MBCO_NaGlu_Id:0000279	gamma+LAT1 (SLC7A7)	MBCO_NaGlu_Id:0000204	Cationic amino acid vs large neutral amino acid sodium antiporter
+MBCO_NaGlu_Id:0000280	gamma+LAT2 (SLC7A6)	MBCO_NaGlu_Id:0000204	Cationic amino acid vs large neutral amino acid sodium antiporter
+MBCO_NaGlu_Id:0000204	Cationic amino acid vs large neutral amino acid sodium antiporter	MBCO_NaGlu_Id:0000060	Cationic amino acid vs sodium antiporter
+MBCO_NaGlu_Id:0000010	Glucose L2B by antiporter	MBCO_NaGlu_Id:0000005	Glucose L2B
+MBCO_NaGlu_Id:0000011	Glucose L2B by symporter	MBCO_NaGlu_Id:0000005	Glucose L2B
+MBCO_NaGlu_Id:0000012	Glucose L2B by unimolecular transport	MBCO_NaGlu_Id:0000005	Glucose L2B
+MBCO_NaGlu_Id:0000029	Hydrogen glucose symporter	MBCO_NaGlu_Id:0000011	Glucose L2B by symporter
+MBCO_NaGlu_Id:0000030	Sodium glucose symporter	MBCO_NaGlu_Id:0000011	Glucose L2B by symporter
+MBCO_NaGlu_Id:0000242	OCTN2 (SLC22A5)	MBCO_NaGlu_Id:0000160	High affinity carnitine sodium symporter
+MBCO_NaGlu_Id:0000082	DNB5 (SLC45A1)	MBCO_NaGlu_Id:0000029	Hydrogen glucose symporter
+MBCO_NaGlu_Id:0000083	Hydrogen-associated glucose transporter	MBCO_NaGlu_Id:0000029	Hydrogen glucose symporter
+MBCO_NaGlu_Id:0000281	SNAT3 (SLC38A3)	MBCO_NaGlu_Id:0000210	Hydrogen vs sodium alanine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000210	Hydrogen vs sodium alanine antiporter
+MBCO_NaGlu_Id:0000210	Hydrogen vs sodium alanine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000211	Hydrogen vs sodium asparagine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000212	Hydrogen vs sodium glutamine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000213	Hydrogen vs sodium glycine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000214	Hydrogen vs sodium histidine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000215	Hydrogen vs sodium serine antiporter	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000216	SNAT6 (SLC38A6)	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000217	SNAT8 (SLC38A8)	MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter
+MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter	MBCO_NaGlu_Id:0000019	Hydrogen vs sodium antiporter
+MBCO_NaGlu_Id:0000069	NHE1 (SLC9A1)	MBCO_NaGlu_Id:0000019	Hydrogen vs sodium antiporter
+MBCO_NaGlu_Id:0000061	NHE4 (SLC9A4)	MBCO_NaGlu_Id:0000019	Hydrogen vs sodium antiporter
+MBCO_NaGlu_Id:0000281	SNAT3 (SLC38A3)	MBCO_NaGlu_Id:0000211	Hydrogen vs sodium asparagine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000211	Hydrogen vs sodium asparagine antiporter
+MBCO_NaGlu_Id:0000281	SNAT3 (SLC38A3)	MBCO_NaGlu_Id:0000212	Hydrogen vs sodium glutamine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000212	Hydrogen vs sodium glutamine antiporter
+MBCO_NaGlu_Id:0000283	SNAT7 (SLC38A7)	MBCO_NaGlu_Id:0000212	Hydrogen vs sodium glutamine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000213	Hydrogen vs sodium glycine antiporter
+MBCO_NaGlu_Id:0000281	SNAT3 (SLC38A3)	MBCO_NaGlu_Id:0000214	Hydrogen vs sodium histidine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000214	Hydrogen vs sodium histidine antiporter
+MBCO_NaGlu_Id:0000282	SNAT5 (SLC38A5)	MBCO_NaGlu_Id:0000215	Hydrogen vs sodium serine antiporter
+MBCO_NaGlu_Id:0000005	Glucose L2B	MBCO_NaGlu_Id:0000002	L2B
+MBCO_NaGlu_Id:0000006	Sodium L2B	MBCO_NaGlu_Id:0000002	L2B
+MBCO_NaGlu_Id:0000277	ASCT1 (SLC1A4)	MBCO_NaGlu_Id:0000203	Neutral amino acid vs sodium neutral amino acid antiporter
+MBCO_NaGlu_Id:0000278	ASCT2 (SLC1A5)	MBCO_NaGlu_Id:0000203	Neutral amino acid vs sodium neutral amino acid antiporter
+MBCO_NaGlu_Id:0000062	Calcium potassium vs sodium	MBCO_NaGlu_Id:0000020	Potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000063	Calcium potassium vs sodium antiporter	MBCO_NaGlu_Id:0000020	Potassium vs sodium antiporter
+MBCO_NaGlu_Id:0000111	OCTN1 (SLC22A4)	MBCO_NaGlu_Id:0000038	Sodium acetylcholine symporter
+MBCO_NaGlu_Id:0000233	NTT4 (SLC6A17)	MBCO_NaGlu_Id:0000112	Sodium alanine symporter
+MBCO_NaGlu_Id:0000099	Sodium alanine vs hydrogen antiporter	MBCO_NaGlu_Id:0000112	Sodium alanine symporter
+MBCO_NaGlu_Id:0000112	Sodium alanine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000100	Sodium amino acid vs hydrogen antiporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000113	Sodium arginine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000114	Sodium aromatic amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000115	Sodium asparagine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000116	Sodium aspartate symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000117	Sodium beta-alanine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000118	Sodium betaine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000119	Sodium branched amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000120	Sodium branched chain amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000121	Sodium cationic amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000122	Sodium cysteine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000123	Sodium cystine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000124	Sodium dependent amino acid transporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000125	Sodium glutamate symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000126	Sodium glutamine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000127	Sodium glycine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000128	Sodium histidine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000129	Sodium hydrogen amino acid vs potassium antiporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000130	Sodium isoleucine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000131	Sodium L proline symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000049	Sodium large neutral amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000132	Sodium L-Dopa symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000133	Sodium leucine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000134	Sodium lysine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000135	Sodium methionine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000136	Sodium methylated amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000137	Sodium N methyl L proline symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000138	Sodium neutral amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000139	Sodium phenylalanine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000140	Sodium pipecolate symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000141	Sodium proline symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000142	Sodium serine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000143	Sodium small neutral amino acid symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000144	Sodium threonine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000145	Sodium tryptophan symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000146	Sodium tyrosine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000147	Sodium valine symporter	MBCO_NaGlu_Id:0000039	Sodium amino acid symporter
+MBCO_NaGlu_Id:0000059	Amino acid vs sodium amino acid antiporter	MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L
+MBCO_NaGlu_Id:0000068	Hydrogen vs sodium amino acid antiporter	MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L
+MBCO_NaGlu_Id:0000070	Sodium glutamine symporter B2L	MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L
+MBCO_NaGlu_Id:0000071	Sodium large neutral amino acid symporter B2L	MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L
+MBCO_NaGlu_Id:0000072	Sodium neutral amino acid symporter B2L	MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L
+MBCO_NaGlu_Id:0000284	SVCT1 (SLC23A1)	MBCO_NaGlu_Id:0000239	Sodium ascorbic acid symporter
+MBCO_NaGlu_Id:0000073	SVCT2 (SLC23A2)	MBCO_NaGlu_Id:0000022	Sodium ascorbic acid symporter B2L
+MBCO_NaGlu_Id:0000101	Sodium asparagine vs hydrogen antiporter	MBCO_NaGlu_Id:0000115	Sodium asparagine symporter
+MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter	MBCO_NaGlu_Id:0000116	Sodium aspartate symporter
+MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter	MBCO_NaGlu_Id:0000004	Sodium B2L
+MBCO_NaGlu_Id:0000008	Sodium B2L by symporter	MBCO_NaGlu_Id:0000004	Sodium B2L
+MBCO_NaGlu_Id:0000009	Sodium B2L by unimolecular transport	MBCO_NaGlu_Id:0000004	Sodium B2L
+MBCO_NaGlu_Id:0000016	Amino acid vs sodium antiporter	MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter
+MBCO_NaGlu_Id:0000017	Ammonia vs sodium antiporter	MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter
+MBCO_NaGlu_Id:0000018	Calcium vs sodium antiporter	MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter
+MBCO_NaGlu_Id:0000019	Hydrogen vs sodium antiporter	MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter
+MBCO_NaGlu_Id:0000020	Potassium vs sodium antiporter	MBCO_NaGlu_Id:0000007	Sodium B2L by antiporter
+MBCO_NaGlu_Id:0000021	Sodium amino acid symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000022	Sodium ascorbic acid symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000023	Sodium biologically active small organic molecule symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000024	Sodium borate symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000025	Sodium chloride symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000026	Sodium mono-, di- or tricarboxylate symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000027	Sodium sugar symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000028	Sodium taurine symporter B2L	MBCO_NaGlu_Id:0000008	Sodium B2L by symporter
+MBCO_NaGlu_Id:0000165	Sodium chloride beta-alanine symporter	MBCO_NaGlu_Id:0000117	Sodium beta-alanine symporter
+MBCO_NaGlu_Id:0000166	Sodium chloride betaine symporter	MBCO_NaGlu_Id:0000118	Sodium betaine symporter
+MBCO_NaGlu_Id:0000148	NBCe1 (SLC4A4)	MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter
+MBCO_NaGlu_Id:0000149	NBCe2 (SLC4A5)	MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter
+MBCO_NaGlu_Id:0000150	NBCn1 (SLC4A7)	MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter
+MBCO_NaGlu_Id:0000151	NBCn2 (SLC4A10)	MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter
+MBCO_NaGlu_Id:0000087	Sodium bicarbonate vs chloride antiporter	MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter
+MBCO_NaGlu_Id:0000151	NBCn2 (SLC4A10)	MBCO_NaGlu_Id:0000087	Sodium bicarbonate vs chloride antiporter
+MBCO_NaGlu_Id:0000228	NDCBE (SLC4A8)	MBCO_NaGlu_Id:0000087	Sodium bicarbonate vs chloride antiporter
+MBCO_NaGlu_Id:0000264	ASBT (SLC10A2)	MBCO_NaGlu_Id:0000186	Sodium bile salt symporter
+MBCO_NaGlu_Id:0000265	SOAT (SLC10A6)	MBCO_NaGlu_Id:0000186	Sodium bile salt symporter
+MBCO_NaGlu_Id:0000266	Sodium taurocholate symporter	MBCO_NaGlu_Id:0000186	Sodium bile salt symporter
+MBCO_NaGlu_Id:0000152	Sodium lipoate symporter	MBCO_NaGlu_Id:0000041	Sodium biochemical cofactor symporter
+MBCO_NaGlu_Id:0000153	Sodium lipoic acid symporter	MBCO_NaGlu_Id:0000041	Sodium biochemical cofactor symporter
+MBCO_NaGlu_Id:0000154	Sodium vitamin symporter	MBCO_NaGlu_Id:0000041	Sodium biochemical cofactor symporter
+MBCO_NaGlu_Id:0000155	Sodium dopamine symporter	MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter
+MBCO_NaGlu_Id:0000156	Sodium GABA symporter	MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter
+MBCO_NaGlu_Id:0000157	Sodium neurotransmitter symporter	MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter
+MBCO_NaGlu_Id:0000158	Sodium noradrenalin symporter	MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter
+MBCO_NaGlu_Id:0000159	Sodium serotonin symporter	MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter
+MBCO_NaGlu_Id:0000074	Sodium GABA symporter B2L	MBCO_NaGlu_Id:0000023	Sodium biologically active small organic molecule symporter B2L
+MBCO_NaGlu_Id:0000238	SMVT (SLC5A)	MBCO_NaGlu_Id:0000240	Sodium biotin symporter
+MBCO_NaGlu_Id:0000285	Sodium-dependent biotin transporter	MBCO_NaGlu_Id:0000240	Sodium biotin symporter
+MBCO_NaGlu_Id:0000075	NaBC1 (SLC4A11)	MBCO_NaGlu_Id:0000024	Sodium borate symporter B2L
+MBCO_NaGlu_Id:0000160	High affinity carnitine sodium symporter	MBCO_NaGlu_Id:0000044	Sodium carnitine symporter
+MBCO_NaGlu_Id:0000161	Low affinity carnitine sodium symporter	MBCO_NaGlu_Id:0000044	Sodium carnitine symporter
+MBCO_NaGlu_Id:0000162	OCT6 (SLC22A16)	MBCO_NaGlu_Id:0000044	Sodium carnitine symporter
+MBCO_NaGlu_Id:0000163	Sodium chloride carnitine symporter	MBCO_NaGlu_Id:0000044	Sodium carnitine symporter
+MBCO_NaGlu_Id:0000291	Sodium choline symporter	MBCO_NaGlu_Id:0000267	Sodium carnitine, choline or betaine symporter
+MBCO_NaGlu_Id:0000167	Sodium chloride cationic amino acid symporter	MBCO_NaGlu_Id:0000121	Sodium cationic amino acid symporter
+MBCO_NaGlu_Id:0000243	TauT (SLC6A6)	MBCO_NaGlu_Id:0000165	Sodium chloride beta-alanine symporter
+MBCO_NaGlu_Id:0000244	Sodium chloride cationic amino acid symporter except proline	MBCO_NaGlu_Id:0000167	Sodium chloride cationic amino acid symporter
+MBCO_NaGlu_Id:0000287	ATB0+	MBCO_NaGlu_Id:0000244	Sodium chloride cationic amino acid symporter except proline
+MBCO_NaGlu_Id:0000245	CHT1 (SLC5A7)	MBCO_NaGlu_Id:0000168	Sodium chloride choline symporter
+MBCO_NaGlu_Id:0000246	CT1 (SLC6A8)	MBCO_NaGlu_Id:0000169	Sodium chloride creatine symporter
+MBCO_NaGlu_Id:0000247	Sodium chloride dependent creatine transporter	MBCO_NaGlu_Id:0000169	Sodium chloride creatine symporter
+MBCO_NaGlu_Id:0000248	DAT1 (SLC6A3)	MBCO_NaGlu_Id:0000170	Sodium chloride dopamine symporter
+MBCO_NaGlu_Id:0000221	BGT1 (SLC6A12)	MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L
+MBCO_NaGlu_Id:0000222	GAT1 (SLC6A1)	MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L
+MBCO_NaGlu_Id:0000223	GAT2 (SLC6A13)	MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L
+MBCO_NaGlu_Id:0000224	GAT3 (SLC6A11)	MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L
+MBCO_NaGlu_Id:0000249	GlyT1 (SLC6A9)	MBCO_NaGlu_Id:0000172	Sodium chloride glycine symporter
+MBCO_NaGlu_Id:0000250	GlyT2 (SLC6A5)	MBCO_NaGlu_Id:0000172	Sodium chloride glycine symporter
+MBCO_NaGlu_Id:0000246	CT1 (SLC6A8)	MBCO_NaGlu_Id:0000173	Sodium chloride neurotransmitter symporter
+MBCO_NaGlu_Id:0000251	NTT5 (SLC6A16)	MBCO_NaGlu_Id:0000173	Sodium chloride neurotransmitter symporter
+MBCO_NaGlu_Id:0000252	Sodium- and chloride-dependent sodium:neurotransmitter symporter	MBCO_NaGlu_Id:0000173	Sodium chloride neurotransmitter symporter
+MBCO_NaGlu_Id:0000253	B0AT3 (SLC6A18)	MBCO_NaGlu_Id:0000174	Sodium chloride neutral amino acid symporter
+MBCO_NaGlu_Id:0000254	NET (SLC6A2)	MBCO_NaGlu_Id:0000175	Sodium chloride noradrenalin symporter
+MBCO_NaGlu_Id:0000255	SERT (SLC6A4)	MBCO_NaGlu_Id:0000176	Sodium chloride serotonin symporter
+MBCO_NaGlu_Id:0000164	NCC (SLC12A3)	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000165	Sodium chloride beta-alanine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000166	Sodium chloride betaine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000163	Sodium chloride carnitine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000167	Sodium chloride cationic amino acid symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000168	Sodium chloride choline symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000169	Sodium chloride creatine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000170	Sodium chloride dopamine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000171	Sodium chloride GABA symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000172	Sodium chloride glycine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000173	Sodium chloride neurotransmitter symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000174	Sodium chloride neutral amino acid symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000175	Sodium chloride noradrenalin symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000176	Sodium chloride serotonin symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000177	Sodium chloride taurine symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000178	Sodium potassium chloride symporter	MBCO_NaGlu_Id:0000045	Sodium chloride symporter
+MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L	MBCO_NaGlu_Id:0000025	Sodium chloride symporter B2L
+MBCO_NaGlu_Id:0000077	Sodium chloride taurine symporter B2L	MBCO_NaGlu_Id:0000025	Sodium chloride symporter B2L
+MBCO_NaGlu_Id:0000256	Chloride dependent sodium taurine symporter	MBCO_NaGlu_Id:0000177	Sodium chloride taurine symporter
+MBCO_NaGlu_Id:0000243	TauT (SLC6A6)	MBCO_NaGlu_Id:0000177	Sodium chloride taurine symporter
+MBCO_NaGlu_Id:0000223	GAT2 (SLC6A13)	MBCO_NaGlu_Id:0000077	Sodium chloride taurine symporter B2L
+MBCO_NaGlu_Id:0000168	Sodium chloride choline symporter	MBCO_NaGlu_Id:0000291	Sodium choline symporter
+MBCO_NaGlu_Id:0000225	NaCT (SLC13A5)	MBCO_NaGlu_Id:0000078	Sodium citrate symporter B2L
+MBCO_NaGlu_Id:0000169	Sodium chloride creatine symporter	MBCO_NaGlu_Id:0000046	Sodium creatine symporter
+MBCO_NaGlu_Id:0000109	Sodium hydrogen cysteine vs potassium antiporter	MBCO_NaGlu_Id:0000122	Sodium cysteine symporter
+MBCO_NaGlu_Id:0000259	NaDC1 (SLC13A2)	MBCO_NaGlu_Id:0000180	Sodium dicarboxylate symporter
+MBCO_NaGlu_Id:0000225	NaCT (SLC13A5)	MBCO_NaGlu_Id:0000079	Sodium dicarboxylate symporter B2L
+MBCO_NaGlu_Id:0000226	NaDC3 (SLC13A3)	MBCO_NaGlu_Id:0000079	Sodium dicarboxylate symporter B2L
+MBCO_NaGlu_Id:0000170	Sodium chloride dopamine symporter	MBCO_NaGlu_Id:0000155	Sodium dopamine symporter
+MBCO_NaGlu_Id:0000086	SGLT4 (SLC5A9)	MBCO_NaGlu_Id:0000197	Sodium fructose symporter
+MBCO_NaGlu_Id:0000275	SGLT5 (SLC5A10)	MBCO_NaGlu_Id:0000197	Sodium fructose symporter
+MBCO_NaGlu_Id:0000171	Sodium chloride GABA symporter	MBCO_NaGlu_Id:0000156	Sodium GABA symporter
+MBCO_NaGlu_Id:0000076	Sodium chloride GABA symporter B2L	MBCO_NaGlu_Id:0000074	Sodium GABA symporter B2L
+MBCO_NaGlu_Id:0000084	SGLT1 (SLC5A1)	MBCO_NaGlu_Id:0000030	Sodium glucose symporter
+MBCO_NaGlu_Id:0000085	SGLT2 (SLC5A2)	MBCO_NaGlu_Id:0000030	Sodium glucose symporter
+MBCO_NaGlu_Id:0000086	SGLT4 (SLC5A9)	MBCO_NaGlu_Id:0000030	Sodium glucose symporter
+MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter	MBCO_NaGlu_Id:0000125	Sodium glutamate symporter
+MBCO_NaGlu_Id:0000102	Sodium glutamine vs hydrogen antiporter	MBCO_NaGlu_Id:0000126	Sodium glutamine symporter
+MBCO_NaGlu_Id:0000218	SNAT1 (SLC38A1)	MBCO_NaGlu_Id:0000070	Sodium glutamine symporter B2L
+MBCO_NaGlu_Id:0000233	NTT4 (SLC6A17)	MBCO_NaGlu_Id:0000127	Sodium glycine symporter
+MBCO_NaGlu_Id:0000172	Sodium chloride glycine symporter	MBCO_NaGlu_Id:0000127	Sodium glycine symporter
+MBCO_NaGlu_Id:0000103	Sodium glycine vs hydrogen antiporter	MBCO_NaGlu_Id:0000127	Sodium glycine symporter
+MBCO_NaGlu_Id:0000104	Sodium histidine vs hydrogen antiporter	MBCO_NaGlu_Id:0000128	Sodium histidine symporter
+MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter	MBCO_NaGlu_Id:0000129	Sodium hydrogen amino acid vs potassium antiporter
+MBCO_NaGlu_Id:0000230	EAAT1 (SLC1A3)	MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter
+MBCO_NaGlu_Id:0000231	EAAT2 (SLC1A2)	MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter
+MBCO_NaGlu_Id:0000232	EAAT3 (SLC1A1)	MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter
+MBCO_NaGlu_Id:0000232	EAAT3 (SLC1A1)	MBCO_NaGlu_Id:0000109	Sodium hydrogen cysteine vs potassium antiporter
+MBCO_NaGlu_Id:0000230	EAAT1 (SLC1A3)	MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter
+MBCO_NaGlu_Id:0000231	EAAT2 (SLC1A2)	MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter
+MBCO_NaGlu_Id:0000232	EAAT3 (SLC1A1)	MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter
+MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter	MBCO_NaGlu_Id:0000047	Sodium hydrogen symporter
+MBCO_NaGlu_Id:0000109	Sodium hydrogen cysteine vs potassium antiporter	MBCO_NaGlu_Id:0000047	Sodium hydrogen symporter
+MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter	MBCO_NaGlu_Id:0000047	Sodium hydrogen symporter
+MBCO_NaGlu_Id:0000234	SIT1 (SLC6A20)	MBCO_NaGlu_Id:0000131	Sodium L proline symporter
+MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter	MBCO_NaGlu_Id:0000006	Sodium L2B
+MBCO_NaGlu_Id:0000014	Sodium L2B by symporter	MBCO_NaGlu_Id:0000006	Sodium L2B
+MBCO_NaGlu_Id:0000015	Sodium L2B by unimolecular transport	MBCO_NaGlu_Id:0000006	Sodium L2B
+MBCO_NaGlu_Id:0000031	Sodium vs calcium antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000032	Sodium vs chloride antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000034	Sodium vs large neutral amino acid antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000035	Sodium vs neutral amino acid antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000036	Sodium vs organic cation antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000037	Sodium vs potassium antiporter	MBCO_NaGlu_Id:0000013	Sodium L2B by antiporter
+MBCO_NaGlu_Id:0000038	Sodium acetylcholine symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000039	Sodium amino acid symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000040	Sodium bicarbonate symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000041	Sodium biochemical cofactor symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000042	Sodium biologically active small organic molecule symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000043	Sodium borate symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000044	Sodium carnitine symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000045	Sodium chloride symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000046	Sodium creatine symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000030	Sodium glucose symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000047	Sodium hydrogen symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000048	Sodium iodide symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000049	Sodium large neutral amino acid symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000050	Sodium mono-, di- or tricarboxylate symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000051	Sodium nucleoside symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000052	Sodium organic molecule symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000053	Sodium phosphate symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000054	Sodium potassium symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000055	Sodium purine or pyrimidine symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000056	Sodium sugar symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000057	Sodium sulfate symporter	MBCO_NaGlu_Id:0000014	Sodium L2B by symporter
+MBCO_NaGlu_Id:0000058	Sodium transporter	MBCO_NaGlu_Id:0000015	Sodium L2B by unimolecular transport
+MBCO_NaGlu_Id:0000288	SMCT1 (SLC5A8)	MBCO_NaGlu_Id:0000260	Sodium lactate symporter
+MBCO_NaGlu_Id:0000289	SMCT2 (SLC5A12)	MBCO_NaGlu_Id:0000260	Sodium lactate symporter
+MBCO_NaGlu_Id:0000179	B0AT2 (SLC6A15)	MBCO_NaGlu_Id:0000049	Sodium large neutral amino acid symporter
+MBCO_NaGlu_Id:0000204	Cationic amino acid vs large neutral amino acid sodium antiporter	MBCO_NaGlu_Id:0000071	Sodium large neutral amino acid symporter B2L
+MBCO_NaGlu_Id:0000233	NTT4 (SLC6A17)	MBCO_NaGlu_Id:0000133	Sodium leucine symporter
+MBCO_NaGlu_Id:0000237	Sodium-dependent lipoate transporter	MBCO_NaGlu_Id:0000152	Sodium lipoate symporter
+MBCO_NaGlu_Id:0000238	SMVT (SLC5A)	MBCO_NaGlu_Id:0000153	Sodium lipoic acid symporter
+MBCO_NaGlu_Id:0000086	SGLT4 (SLC5A9)	MBCO_NaGlu_Id:0000198	Sodium mannose symporter
+MBCO_NaGlu_Id:0000275	SGLT5 (SLC5A10)	MBCO_NaGlu_Id:0000198	Sodium mannose symporter
+MBCO_NaGlu_Id:0000234	SIT1 (SLC6A20)	MBCO_NaGlu_Id:0000136	Sodium methylated amino acid symporter
+MBCO_NaGlu_Id:0000180	Sodium dicarboxylate symporter	MBCO_NaGlu_Id:0000050	Sodium mono-, di- or tricarboxylate symporter
+MBCO_NaGlu_Id:0000181	Sodium monocarboxylate symporter	MBCO_NaGlu_Id:0000050	Sodium mono-, di- or tricarboxylate symporter
+MBCO_NaGlu_Id:0000182	Sodium tricarboxylate symporter	MBCO_NaGlu_Id:0000050	Sodium mono-, di- or tricarboxylate symporter
+MBCO_NaGlu_Id:0000078	Sodium citrate symporter B2L	MBCO_NaGlu_Id:0000026	Sodium mono-, di- or tricarboxylate symporter B2L
+MBCO_NaGlu_Id:0000079	Sodium dicarboxylate symporter B2L	MBCO_NaGlu_Id:0000026	Sodium mono-, di- or tricarboxylate symporter B2L
+MBCO_NaGlu_Id:0000080	Sodium tricarboxylate symporter B2L	MBCO_NaGlu_Id:0000026	Sodium mono-, di- or tricarboxylate symporter B2L
+MBCO_NaGlu_Id:0000260	Sodium lactate symporter	MBCO_NaGlu_Id:0000181	Sodium monocarboxylate symporter
+MBCO_NaGlu_Id:0000261	Sodium nicotinate symporter	MBCO_NaGlu_Id:0000181	Sodium monocarboxylate symporter
+MBCO_NaGlu_Id:0000262	Sodium pyruvate symporter	MBCO_NaGlu_Id:0000181	Sodium monocarboxylate symporter
+MBCO_NaGlu_Id:0000276	SMIT2 (SLC5A11)	MBCO_NaGlu_Id:0000199	Sodium myo-inositol symporter
+MBCO_NaGlu_Id:0000227	SMIT1 (SLC5A3)	MBCO_NaGlu_Id:0000081	Sodium myo-inositol symporter B2L
+MBCO_NaGlu_Id:0000234	SIT1 (SLC6A20)	MBCO_NaGlu_Id:0000137	Sodium N methyl L proline symporter
+MBCO_NaGlu_Id:0000233	NTT4 (SLC6A17)	MBCO_NaGlu_Id:0000157	Sodium neurotransmitter symporter
+MBCO_NaGlu_Id:0000235	B0AT1 (SLC6A19)	MBCO_NaGlu_Id:0000138	Sodium neutral amino acid symporter
+MBCO_NaGlu_Id:0000174	Sodium chloride neutral amino acid symporter	MBCO_NaGlu_Id:0000138	Sodium neutral amino acid symporter
+MBCO_NaGlu_Id:0000219	SNAT2 (SLC38A2)	MBCO_NaGlu_Id:0000072	Sodium neutral amino acid symporter B2L
+MBCO_NaGlu_Id:0000220	SNAT4 (SLC38A4)	MBCO_NaGlu_Id:0000072	Sodium neutral amino acid symporter B2L
+MBCO_NaGlu_Id:0000288	SMCT1 (SLC5A8)	MBCO_NaGlu_Id:0000261	Sodium nicotinate symporter
+MBCO_NaGlu_Id:0000289	SMCT2 (SLC5A12)	MBCO_NaGlu_Id:0000261	Sodium nicotinate symporter
+MBCO_NaGlu_Id:0000175	Sodium chloride noradrenalin symporter	MBCO_NaGlu_Id:0000158	Sodium noradrenalin symporter
+MBCO_NaGlu_Id:0000183	CNT1 (SLC28A1)	MBCO_NaGlu_Id:0000051	Sodium nucleoside symporter
+MBCO_NaGlu_Id:0000184	CNT2 (SLC28A2)	MBCO_NaGlu_Id:0000051	Sodium nucleoside symporter
+MBCO_NaGlu_Id:0000185	CNT3 (SLC28A3)	MBCO_NaGlu_Id:0000051	Sodium nucleoside symporter
+MBCO_NaGlu_Id:0000186	Sodium bile salt symporter	MBCO_NaGlu_Id:0000052	Sodium organic molecule symporter
+MBCO_NaGlu_Id:0000187	Sodium small organic molecule symporter	MBCO_NaGlu_Id:0000052	Sodium organic molecule symporter
+MBCO_NaGlu_Id:0000188	Sodium taurine symporter	MBCO_NaGlu_Id:0000052	Sodium organic molecule symporter
+MBCO_NaGlu_Id:0000286	Sodium-dependent pantothenate transporter	MBCO_NaGlu_Id:0000241	Sodium pantothenate symporter
+MBCO_NaGlu_Id:0000189	NPT1 (SLC17A1)	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000190	NPT4 (SLC17A3)	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000191	S17A4 (SLC17A4)	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000192	SLC17A2	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000193	Sodium phosphate symporter, Type II	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000194	Sodium phosphate symporter, Type III	MBCO_NaGlu_Id:0000053	Sodium phosphate symporter
+MBCO_NaGlu_Id:0000270	NPT2a (SLC34A1)	MBCO_NaGlu_Id:0000193	Sodium phosphate symporter, Type II
+MBCO_NaGlu_Id:0000271	NPT2b (SLC34A2)	MBCO_NaGlu_Id:0000193	Sodium phosphate symporter, Type II
+MBCO_NaGlu_Id:0000272	NPT2c (SLC34A3)	MBCO_NaGlu_Id:0000193	Sodium phosphate symporter, Type II
+MBCO_NaGlu_Id:0000273	PiT-1 (SLC20A1)	MBCO_NaGlu_Id:0000194	Sodium phosphate symporter, Type III
+MBCO_NaGlu_Id:0000274	PiT-2 (SLC20A2)	MBCO_NaGlu_Id:0000194	Sodium phosphate symporter, Type III
+MBCO_NaGlu_Id:0000234	SIT1 (SLC6A20)	MBCO_NaGlu_Id:0000140	Sodium pipecolate symporter
+MBCO_NaGlu_Id:0000257	NKCC1 (SLC12A2)	MBCO_NaGlu_Id:0000178	Sodium potassium chloride symporter
+MBCO_NaGlu_Id:0000258	NKCC2 (SLC12A1)	MBCO_NaGlu_Id:0000178	Sodium potassium chloride symporter
+MBCO_NaGlu_Id:0000178	Sodium potassium chloride symporter	MBCO_NaGlu_Id:0000054	Sodium potassium symporter
+MBCO_NaGlu_Id:0000105	Sodium potassium vs hydrogen antiporter	MBCO_NaGlu_Id:0000054	Sodium potassium symporter
+MBCO_NaGlu_Id:0000229	Sodium potassium vs hydrogen antiporter ATPase	MBCO_NaGlu_Id:0000105	Sodium potassium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000236	PROT (SLC6A7)	MBCO_NaGlu_Id:0000141	Sodium proline symporter
+MBCO_NaGlu_Id:0000195	Sodium purine symporter	MBCO_NaGlu_Id:0000055	Sodium purine or pyrimidine symporter
+MBCO_NaGlu_Id:0000196	Sodium pyrimidine symporter	MBCO_NaGlu_Id:0000055	Sodium purine or pyrimidine symporter
+MBCO_NaGlu_Id:0000288	SMCT1 (SLC5A8)	MBCO_NaGlu_Id:0000262	Sodium pyruvate symporter
+MBCO_NaGlu_Id:0000289	SMCT2 (SLC5A12)	MBCO_NaGlu_Id:0000262	Sodium pyruvate symporter
+MBCO_NaGlu_Id:0000106	Sodium serine vs hydrogen antiporter	MBCO_NaGlu_Id:0000142	Sodium serine symporter
+MBCO_NaGlu_Id:0000176	Sodium chloride serotonin symporter	MBCO_NaGlu_Id:0000159	Sodium serotonin symporter
+MBCO_NaGlu_Id:0000267	Sodium carnitine, choline or betaine symporter	MBCO_NaGlu_Id:0000187	Sodium small organic molecule symporter
+MBCO_NaGlu_Id:0000268	Sodium organic cation symporter	MBCO_NaGlu_Id:0000187	Sodium small organic molecule symporter
+MBCO_NaGlu_Id:0000269	Sodium organic ion symporter	MBCO_NaGlu_Id:0000187	Sodium small organic molecule symporter
+MBCO_NaGlu_Id:0000197	Sodium fructose symporter	MBCO_NaGlu_Id:0000056	Sodium sugar symporter
+MBCO_NaGlu_Id:0000198	Sodium mannose symporter	MBCO_NaGlu_Id:0000056	Sodium sugar symporter
+MBCO_NaGlu_Id:0000199	Sodium myo-inositol symporter	MBCO_NaGlu_Id:0000056	Sodium sugar symporter
+MBCO_NaGlu_Id:0000081	Sodium myo-inositol symporter B2L	MBCO_NaGlu_Id:0000027	Sodium sugar symporter B2L
+MBCO_NaGlu_Id:0000200	NaS1 (SLC13A1)	MBCO_NaGlu_Id:0000057	Sodium sulfate symporter
+MBCO_NaGlu_Id:0000201	SUT1 (SLC13A4)	MBCO_NaGlu_Id:0000057	Sodium sulfate symporter
+MBCO_NaGlu_Id:0000177	Sodium chloride taurine symporter	MBCO_NaGlu_Id:0000188	Sodium taurine symporter
+MBCO_NaGlu_Id:0000077	Sodium chloride taurine symporter B2L	MBCO_NaGlu_Id:0000028	Sodium taurine symporter B2L
+MBCO_NaGlu_Id:0000290	NTCP (SLC10A1)	MBCO_NaGlu_Id:0000266	Sodium taurocholate symporter
+MBCO_NaGlu_Id:0000202	Sodium transporter - voltage-gated Calcium channels - two-pore channel	MBCO_NaGlu_Id:0000058	Sodium transporter
+MBCO_NaGlu_Id:0000263	Sodium citrate symporter	MBCO_NaGlu_Id:0000182	Sodium tricarboxylate symporter
+MBCO_NaGlu_Id:0000225	NaCT (SLC13A5)	MBCO_NaGlu_Id:0000080	Sodium tricarboxylate symporter B2L
+MBCO_NaGlu_Id:0000239	Sodium ascorbic acid symporter	MBCO_NaGlu_Id:0000154	Sodium vitamin symporter
+MBCO_NaGlu_Id:0000240	Sodium biotin symporter	MBCO_NaGlu_Id:0000154	Sodium vitamin symporter
+MBCO_NaGlu_Id:0000152	Sodium lipoate symporter	MBCO_NaGlu_Id:0000154	Sodium vitamin symporter
+MBCO_NaGlu_Id:0000241	Sodium pantothenate symporter	MBCO_NaGlu_Id:0000154	Sodium vitamin symporter
+MBCO_NaGlu_Id:0000087	Sodium bicarbonate vs chloride antiporter	MBCO_NaGlu_Id:0000032	Sodium vs chloride antiporter
+MBCO_NaGlu_Id:0000088	NHA1 (SLC9B1)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000089	NHA2 (SLC9B2)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000090	NHE	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000091	NHE11 (SLC9C2)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000092	NHE2 (SLC9A2)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000093	NHE3 (SLC9A3)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000094	NHE5 (SLC9A5)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000095	NHE6 (SLC9A6)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000096	NHE7 (SLC9A7)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000097	NHE8 (SLC9A8)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000098	NHE9 (SLC9A9)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000099	Sodium alanine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000100	Sodium amino acid vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000101	Sodium asparagine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000102	Sodium glutamine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000103	Sodium glycine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000104	Sodium histidine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000105	Sodium potassium vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000106	Sodium serine vs hydrogen antiporter	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000107	Sperm specific NHE (SLC9C1)	MBCO_NaGlu_Id:0000033	Sodium vs hydrogen antiporter
+MBCO_NaGlu_Id:0000108	Sodium hydrogen aspartate vs potassium antiporter	MBCO_NaGlu_Id:0000037	Sodium vs potassium antiporter
+MBCO_NaGlu_Id:0000109	Sodium hydrogen cysteine vs potassium antiporter	MBCO_NaGlu_Id:0000037	Sodium vs potassium antiporter
+MBCO_NaGlu_Id:0000110	Sodium hydrogen glutamate vs potassium antiporter	MBCO_NaGlu_Id:0000037	Sodium vs potassium antiporter

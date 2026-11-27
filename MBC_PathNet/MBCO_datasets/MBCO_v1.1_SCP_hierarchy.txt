@@ -1,0 +1,4727 @@
+[Term]
+id: MBCO:0000001
+name: Molecular Biology of the Cell
+level: 0
+
+[Term]
+id: MBCO:0000002
+name: Amino acid metabolism
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000003
+name: Cell cycle and cell division
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000004
+name: Cellular adhesion
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000005
+name: Cellular communication
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000006
+name: Cellular contraction
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000007
+name: Cellular detoxification
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000008
+name: Cellular protrusion dynamics
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000009
+name: Cellular redox homeostasis
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000010
+name: Cellular response to stress
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000011
+name: Chromatin and histone dynamics
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000012
+name: Coagulation, fibrinolysis, complement system and blood protein dynamics
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000013
+name: Cytoskeleton dynamics
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000014
+name: DNA replication, recombination and repair
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000015
+name: Energy generation and metabolism of cellular monomers
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000016
+name: Extracellular matrix homeostasis
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000017
+name: Gene expression
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000018
+name: Intracellular degradation pathways
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000019
+name: Intracellular vesicle traffic
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000020
+name: Iron, heme and hemoglobin homeostasis
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000021
+name: Lipid metabolism
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000022
+name: Membrane transport of small molecules and electrical properties of membranes
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000023
+name: Mitochondrial gene expression
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000024
+name: Electric transmission
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000025
+name: Nucleotide metabolism
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000026
+name: Organelle organization
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000027
+name: Posttranslational protein modification
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000028
+name: Regulated cell death
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000029
+name: Transmembrane protein import and translocation
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000030
+name: Vitamin metabolism
+level: 1
+part_of: MBCO:0000001 ! Molecular Biology of the Cell
+
+[Term]
+id: MBCO:0000031
+name: Actin filament dynamics
+level: 2
+part_of: MBCO:0000013 ! Cytoskeleton dynamics
+
+[Term]
+id: MBCO:0000032
+name: Ammonium metabolism
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000033
+name: Amyloid generation and aggregation
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000034
+name: Antigen presentation
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000035
+name: Apoptosis
+level: 2
+part_of: MBCO:0000028 ! Regulated cell death
+
+[Term]
+id: MBCO:0000036
+name: Autophagy
+level: 2
+part_of: MBCO:0000018 ! Intracellular degradation pathways
+
+[Term]
+id: MBCO:0000037
+name: Basement membrane dynamics
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000038
+name: Blood protein dynamics
+level: 2
+part_of: MBCO:0000012 ! Coagulation, fibrinolysis, complement system and blood protein dynamics
+
+[Term]
+id: MBCO:0000039
+name: Bombesin receptor signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000040
+name: Carbohydrate metabolism and transport
+level: 2
+part_of: MBCO:0000015 ! Energy generation and metabolism of cellular monomers
+
+[Term]
+id: MBCO:0000041
+name: Cardiomyocyte action potential generation and propagation
+level: 2
+part_of: MBCO:0000024 ! Electric transmission
+
+[Term]
+id: MBCO:0000042
+name: Cell-cell adhesion
+level: 2
+part_of: MBCO:0000004 ! Cellular adhesion
+
+[Term]
+id: MBCO:0000043
+name: Cell-matrix adhesion
+level: 2
+part_of: MBCO:0000004 ! Cellular adhesion
+
+[Term]
+id: MBCO:0000044
+name: Cellular antioxidant systems
+level: 2
+part_of: MBCO:0000009 ! Cellular redox homeostasis
+
+[Term]
+id: MBCO:0000045
+name: Cellular response to energy deprivation
+level: 2
+part_of: MBCO:0000010 ! Cellular response to stress
+
+[Term]
+id: MBCO:0000046
+name: Cellular response to hypoxia
+level: 2
+part_of: MBCO:0000010 ! Cellular response to stress
+
+[Term]
+id: MBCO:0000047
+name: Cellular response to oxidative stress
+level: 2
+part_of: MBCO:0000010 ! Cellular response to stress
+
+[Term]
+id: MBCO:0000048
+name: Cellular response to radiation
+level: 2
+part_of: MBCO:0000010 ! Cellular response to stress
+
+[Term]
+id: MBCO:0000049
+name: Centrosome cycle
+level: 2
+part_of: MBCO:0000003 ! Cell cycle and cell division
+
+[Term]
+id: MBCO:0000050
+name: Chromatin remodeling
+level: 2
+part_of: MBCO:0000011 ! Chromatin and histone dynamics
+
+[Term]
+id: MBCO:0000051
+name: Chromosome segregation by mitotic spindle
+level: 2
+part_of: MBCO:0000003 ! Cell cycle and cell division
+
+[Term]
+id: MBCO:0000052
+name: Coagulation cascade and fibrinolysis
+level: 2
+part_of: MBCO:0000012 ! Coagulation, fibrinolysis, complement system and blood protein dynamics
+
+[Term]
+id: MBCO:0000053
+name: Collagen biosynthesis
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000054
+name: Complement pathway and regulation
+level: 2
+part_of: MBCO:0000012 ! Coagulation, fibrinolysis, complement system and blood protein dynamics
+
+[Term]
+id: MBCO:0000055
+name: Control of postsynaptic potential
+level: 2
+part_of: MBCO:0000024 ! Electric transmission
+
+[Term]
+id: MBCO:0000056
+name: Cortical cytoskeleton dynamics
+level: 2
+part_of: MBCO:0000013 ! Cytoskeleton dynamics
+
+[Term]
+id: MBCO:0000057
+name: Cytokinesis
+level: 2
+part_of: MBCO:0000003 ! Cell cycle and cell division
+
+[Term]
+id: MBCO:0000058
+name: Cytosolic intermediate filament and septin dynamics
+level: 2
+part_of: MBCO:0000013 ! Cytoskeleton dynamics
+
+[Term]
+id: MBCO:0000059
+name: Cytosolic post-translational protein modification
+level: 2
+part_of: MBCO:0000027 ! Posttranslational protein modification
+
+[Term]
+id: MBCO:0000060
+name: Degradation by lysosomal enzymes
+level: 2
+part_of: MBCO:0000018 ! Intracellular degradation pathways
+
+[Term]
+id: MBCO:0000061
+name: DNA double-strand break repair
+level: 2
+part_of: MBCO:0000014 ! DNA replication, recombination and repair
+
+[Term]
+id: MBCO:0000062
+name: DNA interstrand cross-links repair
+level: 2
+part_of: MBCO:0000014 ! DNA replication, recombination and repair
+
+[Term]
+id: MBCO:0000063
+name: DNA recombination
+level: 2
+part_of: MBCO:0000014 ! DNA replication, recombination and repair
+
+[Term]
+id: MBCO:0000064
+name: DNA single-strand break and base damage repair
+level: 2
+part_of: MBCO:0000014 ! DNA replication, recombination and repair
+
+[Term]
+id: MBCO:0000065
+name: Drug and toxin export
+level: 2
+part_of: MBCO:0000007 ! Cellular detoxification
+
+[Term]
+id: MBCO:0000066
+name: Elastogenesis
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000067
+name: Endocytic pathway
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000068
+name: Endoplasmic reticulum and nuclear envelope organization
+level: 2
+part_of: MBCO:0000026 ! Organelle organization
+
+[Term]
+id: MBCO:0000069
+name: Endoplasmic reticulum membrane protein insertion and import
+level: 2
+part_of: MBCO:0000029 ! Transmembrane protein import and translocation
+
+[Term]
+id: MBCO:0000070
+name: Epidermal growth factor family signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000071
+name: Eukaryotic cilium and flagellum dynamics
+level: 2
+part_of: MBCO:0000008 ! Cellular protrusion dynamics
+
+[Term]
+id: MBCO:0000072
+name: Eukaryotic DNA replication
+level: 2
+part_of: MBCO:0000014 ! DNA replication, recombination and repair
+
+[Term]
+id: MBCO:0000073
+name: Extracellular matrix breakdown
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000074
+name: Fatty acid metabolism
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000075
+name: Fibronectin matrix dynamics
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000076
+name: Filopodium and lamellipodium organization
+level: 2
+part_of: MBCO:0000008 ! Cellular protrusion dynamics
+
+[Term]
+id: MBCO:0000077
+name: Free radical generation for respiratory burst
+level: 2
+part_of: MBCO:0000009 ! Cellular redox homeostasis
+
+[Term]
+id: MBCO:0000078
+name: Gastrointestinal hormone signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000079
+name: Glycosaminoglycan metabolism
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000080
+name: Heme, hemoglobin and bilirubin metabolism
+level: 2
+part_of: MBCO:0000020 ! Iron, heme and hemoglobin homeostasis
+
+[Term]
+id: MBCO:0000081
+name: Histone modification
+level: 2
+part_of: MBCO:0000011 ! Chromatin and histone dynamics
+
+[Term]
+id: MBCO:0000082
+name: Interferon signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000083
+name: Interleukin receptor signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000084
+name: Interphase nucleus and nuclear chromatin organization
+level: 2
+part_of: MBCO:0000026 ! Organelle organization
+
+[Term]
+id: MBCO:0000085
+name: Intracellular common signaling cascades of multiple pathways
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000086
+name: Iron homeostasis
+level: 2
+part_of: MBCO:0000020 ! Iron, heme and hemoglobin homeostasis
+
+[Term]
+id: MBCO:0000087
+name: Kinin–kallikrein system
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000088
+name: Lipid droplet dynamics
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000089
+name: Matricellular protein signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000090
+name: Membrane lipid metabolism
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000091
+name: Metabolism and transport of cholesterol, steroids and bile acids
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000092
+name: Metabolism of essential amino acids
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000093
+name: Metabolism of fat-soluble vitamins
+level: 2
+part_of: MBCO:0000030 ! Vitamin metabolism
+
+[Term]
+id: MBCO:0000094
+name: Metabolism of glutamate and histidine products
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000095
+name: Metabolism of non-essential amino acids
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000096
+name: Metabolism of phenylalanine products
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000097
+name: Metabolism of purines and pyrimidines
+level: 2
+part_of: MBCO:0000025 ! Nucleotide metabolism
+
+[Term]
+id: MBCO:0000098
+name: Metabolism of tryptophan products
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000099
+name: Metabolism of water-soluble vitamins
+level: 2
+part_of: MBCO:0000030 ! Vitamin metabolism
+
+[Term]
+id: MBCO:0000100
+name: Microtubule dynamics
+level: 2
+part_of: MBCO:0000013 ! Cytoskeleton dynamics
+
+[Term]
+id: MBCO:0000101
+name: Microtubule organization center dynamics
+level: 2
+part_of: MBCO:0000013 ! Cytoskeleton dynamics
+
+[Term]
+id: MBCO:0000102
+name: miRNA and endogenous siRNA biogenesis
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000103
+name: Mitochondrial dynamics
+level: 2
+part_of: MBCO:0000026 ! Organelle organization
+
+[Term]
+id: MBCO:0000104
+name: Mitochondrial energy production
+level: 2
+part_of: MBCO:0000015 ! Energy generation and metabolism of cellular monomers
+
+[Term]
+id: MBCO:0000105
+name: Mitochondrial protein import machinery
+level: 2
+part_of: MBCO:0000029 ! Transmembrane protein import and translocation
+
+[Term]
+id: MBCO:0000106
+name: Mitochondrial transcription
+level: 2
+part_of: MBCO:0000023 ! Mitochondrial gene expression
+
+[Term]
+id: MBCO:0000107
+name: Mitochondrial translation
+level: 2
+part_of: MBCO:0000023 ! Mitochondrial gene expression
+
+[Term]
+id: MBCO:0000108
+name: Mitotic cell cycle checkpoints
+level: 2
+part_of: MBCO:0000003 ! Cell cycle and cell division
+
+[Term]
+id: MBCO:0000109
+name: mRNA capping, editing, polyadenylation and nuclear export
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000110
+name: mRNA translation
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000111
+name: Myofibril formation and organization
+level: 2
+part_of: MBCO:0000006 ! Cellular contraction
+
+[Term]
+id: MBCO:0000112
+name: Necroptosis
+level: 2
+part_of: MBCO:0000028 ! Regulated cell death
+
+[Term]
+id: MBCO:0000113
+name: Neuronal action potential generation and propagation
+level: 2
+part_of: MBCO:0000024 ! Electric transmission
+
+[Term]
+id: MBCO:0000114
+name: Neuronal signaling pathways
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000115
+name: Non-vesicular lipid transport
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000116
+name: One carbon metabolism
+level: 2
+part_of: MBCO:0000002 ! Amino acid metabolism
+
+[Term]
+id: MBCO:0000117
+name: Pattern recognition signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000118
+name: Peroxisomal protein import machinery
+level: 2
+part_of: MBCO:0000029 ! Transmembrane protein import and translocation
+
+[Term]
+id: MBCO:0000119
+name: Phase I biotransformation
+level: 2
+part_of: MBCO:0000007 ! Cellular detoxification
+
+[Term]
+id: MBCO:0000120
+name: Phase II biotransformation
+level: 2
+part_of: MBCO:0000007 ! Cellular detoxification
+
+[Term]
+id: MBCO:0000121
+name: Post-translational protein modification and quality control during biosynthetic-secretory pathway
+level: 2
+part_of: MBCO:0000027 ! Posttranslational protein modification
+
+[Term]
+id: MBCO:0000122
+name: Post-translational protein modification in Mitochondria
+level: 2
+part_of: MBCO:0000027 ! Posttranslational protein modification
+
+[Term]
+id: MBCO:0000123
+name: Pre-mRNA splicing
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000124
+name: Prostanoid receptor signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000125
+name: Protein prenylation
+level: 2
+part_of: MBCO:0000027 ! Posttranslational protein modification
+
+[Term]
+id: MBCO:0000126
+name: Protein transport across the nuclear membrane
+level: 2
+part_of: MBCO:0000029 ! Transmembrane protein import and translocation
+
+[Term]
+id: MBCO:0000127
+name: Proteoglycan synthesis
+level: 2
+part_of: MBCO:0000016 ! Extracellular matrix homeostasis
+
+[Term]
+id: MBCO:0000128
+name: Purinergic signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000129
+name: Regulation of mRNA fate by exon-junction complex
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000130
+name: Ribonucleoprotein biogenesis
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000131
+name: RNA surveillance and degradation
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000132
+name: Rolling cell adhesion
+level: 2
+part_of: MBCO:0000004 ! Cellular adhesion
+
+[Term]
+id: MBCO:0000133
+name: Signaling by extracellular matrix components
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000134
+name: Signaling pathways involved in glucose and lipid homeostasis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000135
+name: Signaling pathways involved in hematopoiesis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000136
+name: Signaling pathways regulating calcium homeostasis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000137
+name: Signaling pathways regulating cardiovascular homeostasis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000138
+name: Signaling pathways regulating steroid and sex hormone synthesis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000139
+name: Signaling pathways regulating water homeostasis
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000140
+name: Signaling pathways that control cell proliferation and differentiation
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000141
+name: snRNA expression and spliceosome generation
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000142
+name: Steroid and sex hormone signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000143
+name: Steroid hormone metabolism
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000144
+name: Structural golgi apparatus organization
+level: 2
+part_of: MBCO:0000026 ! Organelle organization
+
+[Term]
+id: MBCO:0000145
+name: TGF-beta superfamily signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000146
+name: Thyroid hormone related signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000147
+name: TNF superfamily signaling
+level: 2
+part_of: MBCO:0000005 ! Cellular communication
+
+[Term]
+id: MBCO:0000148
+name: Transcription
+level: 2
+part_of: MBCO:0000017 ! Gene expression
+
+[Term]
+id: MBCO:0000149
+name: Transmembrane ion transport involved in membrane potential generation
+level: 2
+part_of: MBCO:0000022 ! Membrane transport of small molecules and electrical properties of membranes
+
+[Term]
+id: MBCO:0000150
+name: Transmembrane water and ion transport not involved in membrane potential generatation
+level: 2
+part_of: MBCO:0000022 ! Membrane transport of small molecules and electrical properties of membranes
+
+[Term]
+id: MBCO:0000151
+name: Triacylglycerol metabolism and transport
+level: 2
+part_of: MBCO:0000021 ! Lipid metabolism
+
+[Term]
+id: MBCO:0000152
+name: Ubiquitin mediated proteasomal degradation
+level: 2
+part_of: MBCO:0000018 ! Intracellular degradation pathways
+
+[Term]
+id: MBCO:0000153
+name: Vesicle exocytosis
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000154
+name: Vesicle traffic between ER and Golgi
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000155
+name: Vesicle traffic between TGN and endosomal lysosomal system
+level: 2
+part_of: MBCO:0000019 ! Intracellular vesicle traffic
+
+[Term]
+id: MBCO:0000156
+name: Acetylcholine-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000157
+name: Actin filament bundling and crosslinking
+level: 3
+part_of: MBCO:0000031 ! Actin filament dynamics
+
+[Term]
+id: MBCO:0000158
+name: Actin filament capping
+level: 3
+part_of: MBCO:0000031 ! Actin filament dynamics
+
+[Term]
+id: MBCO:0000159
+name: Actin filament nucleation and branching
+level: 3
+part_of: MBCO:0000031 ! Actin filament dynamics
+
+[Term]
+id: MBCO:0000160
+name: Actin filament severing and depolymerization
+level: 3
+part_of: MBCO:0000031 ! Actin filament dynamics
+
+[Term]
+id: MBCO:0000161
+name: Actin polymerization
+level: 3
+part_of: MBCO:0000031 ! Actin filament dynamics
+
+[Term]
+id: MBCO:0000162
+name: Activin receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000163
+name: Acute-phase response
+level: 3
+part_of: MBCO:0000038 ! Blood protein dynamics
+
+[Term]
+id: MBCO:0000164
+name: Adenylyl cyclase signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000165
+name: Adherens junction organization
+level: 3
+part_of: MBCO:0000042 ! Cell-cell adhesion
+
+[Term]
+id: MBCO:0000166
+name: Adiponectin receptor signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000167
+name: Adrenergic receptor signaling
+level: 3
+part_of: MBCO:0000137 ! Signaling pathways regulating cardiovascular homeostasis
+
+[Term]
+id: MBCO:0000168
+name: Adrenocorticotropic hormone receptor signaling
+level: 3
+part_of: MBCO:0000138 ! Signaling pathways regulating steroid and sex hormone synthesis
+
+[Term]
+id: MBCO:0000169
+name: Aggrecan synthesis
+level: 3
+part_of: MBCO:0000127 ! Proteoglycan synthesis
+
+[Term]
+id: MBCO:0000170
+name: Albumin mediated blood protein transport
+level: 3
+part_of: MBCO:0000038 ! Blood protein dynamics
+
+[Term]
+id: MBCO:0000171
+name: Alternative complement pathway
+level: 3
+part_of: MBCO:0000054 ! Complement pathway and regulation
+
+[Term]
+id: MBCO:0000172
+name: Alternative end joining DSB repair
+level: 3
+part_of: MBCO:0000061 ! DNA double-strand break repair
+
+[Term]
+id: MBCO:0000173
+name: Amination of alpha-keto acids and deamination of amino acids
+level: 3
+part_of: MBCO:0000032 ! Ammonium metabolism
+
+[Term]
+id: MBCO:0000174
+name: Amyloid plaque organization
+level: 3
+part_of: MBCO:0000033 ! Amyloid generation and aggregation
+
+[Term]
+id: MBCO:0000175
+name: Amyloid precursor protein cleavage
+level: 3
+part_of: MBCO:0000033 ! Amyloid generation and aggregation
+
+[Term]
+id: MBCO:0000176
+name: Anchoring of nuclear membrane to cytoskeleton
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000177
+name: Androgen receptor signaling
+level: 3
+part_of: MBCO:0000142 ! Steroid and sex hormone signaling
+
+[Term]
+id: MBCO:0000178
+name: Androgen synthesis
+level: 3
+part_of: MBCO:0000143 ! Steroid hormone metabolism
+
+[Term]
+id: MBCO:0000179
+name: Angiotensin receptor signaling
+level: 3
+part_of: MBCO:0000137 ! Signaling pathways regulating cardiovascular homeostasis
+
+[Term]
+id: MBCO:0000180
+name: Anterograde vesicle traffic from ER to Golgi
+level: 3
+part_of: MBCO:0000154 ! Vesicle traffic between ER and Golgi
+
+[Term]
+id: MBCO:0000181
+name: Antidiuretic hormone receptor signaling
+level: 3
+part_of: MBCO:0000139 ! Signaling pathways regulating water homeostasis
+
+[Term]
+id: MBCO:0000182
+name: Antigen presentation via MHC class I molecules
+level: 3
+part_of: MBCO:0000034 ! Antigen presentation
+
+[Term]
+id: MBCO:0000183
+name: Antigen presentation via MHC class II molecules
+level: 3
+part_of: MBCO:0000034 ! Antigen presentation
+
+[Term]
+id: MBCO:0000184
+name: Apoptosis caspase pathway
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000185
+name: Apoptosome assembly
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000186
+name: Apoptotic DNA degradation and nuclear disassembly
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000187
+name: Aspartate and arginine metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000188
+name: Axonal intermediate filament dynamics
+level: 3
+part_of: MBCO:0000058 ! Cytosolic intermediate filament and septin dynamics
+
+[Term]
+id: MBCO:0000189
+name: Base excision repair
+level: 3
+part_of: MBCO:0000064 ! DNA single-strand break and base damage repair
+
+[Term]
+id: MBCO:0000190
+name: Basement membrane assembly and organization
+level: 3
+part_of: MBCO:0000037 ! Basement membrane dynamics
+
+[Term]
+id: MBCO:0000191
+name: Basement membrane attachment to cell surface
+level: 3
+part_of: MBCO:0000037 ! Basement membrane dynamics
+
+[Term]
+id: MBCO:0000192
+name: Betaglycan signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000193
+name: Beta-oxidation
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000194
+name: Bicarbonate transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000195
+name: Biglycan synthesis
+level: 3
+part_of: MBCO:0000127 ! Proteoglycan synthesis
+
+[Term]
+id: MBCO:0000196
+name: Bile acid secretion and re-absorbtion
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000197
+name: Bile acid synthesis from cholesterol
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000198
+name: Bilirubin conjugation
+level: 3
+part_of: MBCO:0000080 ! Heme, hemoglobin and bilirubin metabolism
+
+[Term]
+id: MBCO:0000199
+name: Biotin metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000200
+name: Bone morphogenetic protein receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000201
+name: Bradykinin receptor signaling
+level: 3
+part_of: MBCO:0000087 ! Kinin–kallikrein system
+
+[Term]
+id: MBCO:0000202
+name: Brain derived neurotrophic factor receptor signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000203
+name: Calcineurin-NFAT signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000204
+name: Calcitonin receptor signaling
+level: 3
+part_of: MBCO:0000136 ! Signaling pathways regulating calcium homeostasis
+
+[Term]
+id: MBCO:0000205
+name: Calcium transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000206
+name: CAM kinase signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000207
+name: Cannabinoid receptor signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000208
+name: Cardiomyocyte depolarization during action potential
+level: 3
+part_of: MBCO:0000041 ! Cardiomyocyte action potential generation and propagation
+
+[Term]
+id: MBCO:0000209
+name: Cardiomyocyte pacemaker current generation
+level: 3
+part_of: MBCO:0000041 ! Cardiomyocyte action potential generation and propagation
+
+[Term]
+id: MBCO:0000210
+name: Cardiomyocyte repolarization during action potential and hyperpolarization
+level: 3
+part_of: MBCO:0000041 ! Cardiomyocyte action potential generation and propagation
+
+[Term]
+id: MBCO:0000211
+name: Carnitine biosynthesis and transport
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000212
+name: Catecholamine metabolism
+level: 3
+part_of: MBCO:0000096 ! Metabolism of phenylalanine products
+
+[Term]
+id: MBCO:0000213
+name: Caveolin-mediated endocytosis
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000214
+name: CCN intercellular signaling protein family receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000215
+name: CD44-Mediated leukocyte rolling
+level: 3
+part_of: MBCO:0000132 ! Rolling cell adhesion
+
+[Term]
+id: MBCO:0000216
+name: Cell cycle arrest in response to DNA damage
+level: 3
+part_of: MBCO:0000108 ! Mitotic cell cycle checkpoints
+
+[Term]
+id: MBCO:0000217
+name: Cellular cholesterol uptake and efflux
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000218
+name: Cellular fatty acid uptake
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000219
+name: Cellular iron storage
+level: 3
+part_of: MBCO:0000086 ! Iron homeostasis
+
+[Term]
+id: MBCO:0000220
+name: Cellular iron uptake and export
+level: 3
+part_of: MBCO:0000086 ! Iron homeostasis
+
+[Term]
+id: MBCO:0000221
+name: Centriolar satelites organization
+level: 3
+part_of: MBCO:0000101 ! Microtubule organization center dynamics
+
+[Term]
+id: MBCO:0000222
+name: Centrosome duplication
+level: 3
+part_of: MBCO:0000049 ! Centrosome cycle
+
+[Term]
+id: MBCO:0000223
+name: Centrosome maturation
+level: 3
+part_of: MBCO:0000049 ! Centrosome cycle
+
+[Term]
+id: MBCO:0000224
+name: Centrosome organization
+level: 3
+part_of: MBCO:0000101 ! Microtubule organization center dynamics
+
+[Term]
+id: MBCO:0000225
+name: Centrosome separation
+level: 3
+part_of: MBCO:0000049 ! Centrosome cycle
+
+[Term]
+id: MBCO:0000226
+name: Chaperone mediated protein folding in ER
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000227
+name: Chaperone-mediated autophagy
+level: 3
+part_of: MBCO:0000036 ! Autophagy
+
+[Term]
+id: MBCO:0000228
+name: Chloride transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000229
+name: Cholesterol esterification
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000230
+name: Cholesterol synthesis
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000231
+name: Cholesterol transport by lipoproteins
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000232
+name: Cholesterol-sensitive control of SREBP activation
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000233
+name: Chondroitin sulfate and dermatan sulfate synthesis
+level: 3
+part_of: MBCO:0000079 ! Glycosaminoglycan metabolism
+
+[Term]
+id: MBCO:0000234
+name: Chromatin organization by insulator proteins
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000235
+name: Chromatin organization by Polycomb repressive complexes
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000236
+name: Chromatin organization by transcription factories
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000237
+name: Chromatin targeting to lamina
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000238
+name: Ciliary transition zone organization
+level: 3
+part_of: MBCO:0000071 ! Eukaryotic cilium and flagellum dynamics
+
+[Term]
+id: MBCO:0000239
+name: Citric acid cycle
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000240
+name: Class switch recombination
+level: 3
+part_of: MBCO:0000063 ! DNA recombination
+
+[Term]
+id: MBCO:0000241
+name: Classical complement pathway
+level: 3
+part_of: MBCO:0000054 ! Complement pathway and regulation
+
+[Term]
+id: MBCO:0000242
+name: Clathrin-mediated endocytosis
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000243
+name: Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system
+level: 3
+part_of: MBCO:0000155 ! Vesicle traffic between TGN and endosomal lysosomal system
+
+[Term]
+id: MBCO:0000244
+name: Cleavage of ER signal peptide
+level: 3
+part_of: MBCO:0000069 ! Endoplasmic reticulum membrane protein insertion and import
+
+[Term]
+id: MBCO:0000245
+name: Coagulation cascade
+level: 3
+part_of: MBCO:0000052 ! Coagulation cascade and fibrinolysis
+
+[Term]
+id: MBCO:0000246
+name: Coagulation factor synthesis and vitamin K metabolism
+level: 3
+part_of: MBCO:0000052 ! Coagulation cascade and fibrinolysis
+
+[Term]
+id: MBCO:0000247
+name: Cobalamin metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000248
+name: Collagen fiber crosslinking
+level: 3
+part_of: MBCO:0000053 ! Collagen biosynthesis
+
+[Term]
+id: MBCO:0000249
+name: Collagen fibril organization by fibril-associated bridges
+level: 3
+part_of: MBCO:0000053 ! Collagen biosynthesis
+
+[Term]
+id: MBCO:0000250
+name: Connection of muscle sarcomere to extracellular matrix
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000251
+name: Connection of muscle sarcomere to plasma membrane
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000252
+name: Conservative site-specific recombination
+level: 3
+part_of: MBCO:0000063 ! DNA recombination
+
+[Term]
+id: MBCO:0000253
+name: Contractile ring constriction
+level: 3
+part_of: MBCO:0000057 ! Cytokinesis
+
+[Term]
+id: MBCO:0000254
+name: Contractile ring formation
+level: 3
+part_of: MBCO:0000057 ! Cytokinesis
+
+[Term]
+id: MBCO:0000255
+name: Copper transmembrane transport
+level: 3
+part_of: MBCO:0000150 ! Transmembrane water and ion transport not involved in membrane potential generatation
+
+[Term]
+id: MBCO:0000256
+name: Corticotropin-releasing hormone receptor signaling
+level: 3
+part_of: MBCO:0000138 ! Signaling pathways regulating steroid and sex hormone synthesis
+
+[Term]
+id: MBCO:0000257
+name: Co-translational translocation membrane protein insertion and import
+level: 3
+part_of: MBCO:0000069 ! Endoplasmic reticulum membrane protein insertion and import
+
+[Term]
+id: MBCO:0000258
+name: C-type lectin receptor signaling
+level: 3
+part_of: MBCO:0000117 ! Pattern recognition signaling
+
+[Term]
+id: MBCO:0000259
+name: Cytosolic core snRNP assembly
+level: 3
+part_of: MBCO:0000141 ! snRNA expression and spliceosome generation
+
+[Term]
+id: MBCO:0000260
+name: Cytosolic Dicer-mediated microRNA and endogenous siRNA processing
+level: 3
+part_of: MBCO:0000102 ! miRNA and endogenous siRNA biogenesis
+
+[Term]
+id: MBCO:0000261
+name: Cytosolic protein acetylation and deacetylation
+level: 3
+part_of: MBCO:0000059 ! Cytosolic post-translational protein modification
+
+[Term]
+id: MBCO:0000262
+name: Cytosolic protein folding
+level: 3
+part_of: MBCO:0000059 ! Cytosolic post-translational protein modification
+
+[Term]
+id: MBCO:0000263
+name: Cytosolic protein tyrosination and detyrosination
+level: 3
+part_of: MBCO:0000059 ! Cytosolic post-translational protein modification
+
+[Term]
+id: MBCO:0000264
+name: Cytosolic RNA deadadenylation
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000265
+name: Decorin synthesis
+level: 3
+part_of: MBCO:0000127 ! Proteoglycan synthesis
+
+[Term]
+id: MBCO:0000266
+name: Desaturation of fatty acids
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000267
+name: Desmosome organization
+level: 3
+part_of: MBCO:0000042 ! Cell-cell adhesion
+
+[Term]
+id: MBCO:0000268
+name: Direct lesion reversal
+level: 3
+part_of: MBCO:0000064 ! DNA single-strand break and base damage repair
+
+[Term]
+id: MBCO:0000269
+name: Discoidin domain receptor signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000270
+name: DNA cleavage
+level: 3
+part_of: MBCO:0000072 ! Eukaryotic DNA replication
+
+[Term]
+id: MBCO:0000271
+name: DNA replication elongation
+level: 3
+part_of: MBCO:0000072 ! Eukaryotic DNA replication
+
+[Term]
+id: MBCO:0000272
+name: DNA replication initiation
+level: 3
+part_of: MBCO:0000072 ! Eukaryotic DNA replication
+
+[Term]
+id: MBCO:0000273
+name: DNA supercoiling during transcription elongation
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000274
+name: Dopamine-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000275
+name: Drug and toxin export via membrane transport proteins
+level: 3
+part_of: MBCO:0000065 ! Drug and toxin export
+
+[Term]
+id: MBCO:0000276
+name: Early endosome dynamics
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000277
+name: Eicosanoid metabolism
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000278
+name: Elastin cross-linking and assembly
+level: 3
+part_of: MBCO:0000066 ! Elastogenesis
+
+[Term]
+id: MBCO:0000279
+name: Electron transport chain
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000280
+name: Endogenous control of complement activity
+level: 3
+part_of: MBCO:0000054 ! Complement pathway and regulation
+
+[Term]
+id: MBCO:0000281
+name: Endoplasmic reticulum quality control system
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000282
+name: Endoplasmic reticulum tubulus maintenance
+level: 3
+part_of: MBCO:0000068 ! Endoplasmic reticulum and nuclear envelope organization
+
+[Term]
+id: MBCO:0000283
+name: Endoplasmic sheet maintenance
+level: 3
+part_of: MBCO:0000068 ! Endoplasmic reticulum and nuclear envelope organization
+
+[Term]
+id: MBCO:0000284
+name: Endothelin receptor signaling
+level: 3
+part_of: MBCO:0000137 ! Signaling pathways regulating cardiovascular homeostasis
+
+[Term]
+id: MBCO:0000285
+name: Ephrin receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000286
+name: Epidermal growth factor receptor signaling
+level: 3
+part_of: MBCO:0000070 ! Epidermal growth factor family signaling
+
+[Term]
+id: MBCO:0000287
+name: Epithelial intermediate filament dynamics
+level: 3
+part_of: MBCO:0000058 ! Cytosolic intermediate filament and septin dynamics
+
+[Term]
+id: MBCO:0000288
+name: Equatorial RhoA activation
+level: 3
+part_of: MBCO:0000057 ! Cytokinesis
+
+[Term]
+id: MBCO:0000289
+name: ER unfolded protein response pathway
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000290
+name: Erythropoietin receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000291
+name: Estrogen receptor signaling
+level: 3
+part_of: MBCO:0000142 ! Steroid and sex hormone signaling
+
+[Term]
+id: MBCO:0000292
+name: Estrogen synthesis
+level: 3
+part_of: MBCO:0000143 ! Steroid hormone metabolism
+
+[Term]
+id: MBCO:0000293
+name: Eukaryotic axoneme organization
+level: 3
+part_of: MBCO:0000071 ! Eukaryotic cilium and flagellum dynamics
+
+[Term]
+id: MBCO:0000294
+name: Eukaryotic basal body organization
+level: 3
+part_of: MBCO:0000071 ! Eukaryotic cilium and flagellum dynamics
+
+[Term]
+id: MBCO:0000295
+name: Eukaryotic intraflagellar transport
+level: 3
+part_of: MBCO:0000071 ! Eukaryotic cilium and flagellum dynamics
+
+[Term]
+id: MBCO:0000296
+name: Eukaryotic kinetochore dynamics
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000297
+name: Eukaryotic transition zone organization
+level: 3
+part_of: MBCO:0000071 ! Eukaryotic cilium and flagellum dynamics
+
+[Term]
+id: MBCO:0000298
+name: Exomer-mediated vesicle traffic from TGN to plasma membrane
+level: 3
+part_of: MBCO:0000153 ! Vesicle exocytosis
+
+[Term]
+id: MBCO:0000299
+name: Exosome secretion
+level: 3
+part_of: MBCO:0000153 ! Vesicle exocytosis
+
+[Term]
+id: MBCO:0000300
+name: Extracellular matrix breakdown and membrane shedding by adamalysins
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000301
+name: Extracellular matrix breakdown by cathepsins
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000302
+name: Extracellular matrix breakdown by heparanases and sulfatases
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000303
+name: Extracellular matrix breakdown by matrix metalloproteases
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000304
+name: Extracellular matrix breakdown by meprins
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000305
+name: Extracellular matrix breakdown by serine proteases
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000306
+name: Extrinsic apoptosis pathway
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000307
+name: Fanconi anemia interstrand cross-link repair pathway
+level: 3
+part_of: MBCO:0000062 ! DNA interstrand cross-links repair
+
+[Term]
+id: MBCO:0000308
+name: Fatty acid elongation
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000309
+name: Fatty acid omega-hydroxylation
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000310
+name: Fatty acid transfer between membranes
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000311
+name: Carnitine shuttle
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000312
+name: Fibrillar collagen core structure organization
+level: 3
+part_of: MBCO:0000053 ! Collagen biosynthesis
+
+[Term]
+id: MBCO:0000313
+name: Fibrillin synthesis
+level: 3
+part_of: MBCO:0000066 ! Elastogenesis
+
+[Term]
+id: MBCO:0000314
+name: Fibroblast growth factor receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000315
+name: Fibronectin assembly
+level: 3
+part_of: MBCO:0000075 ! Fibronectin matrix dynamics
+
+[Term]
+id: MBCO:0000316
+name: Fibronectin synthesis and extracellular assembly
+level: 3
+part_of: MBCO:0000075 ! Fibronectin matrix dynamics
+
+[Term]
+id: MBCO:0000317
+name: Fibulin receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000318
+name: Filopodium organization
+level: 3
+part_of: MBCO:0000076 ! Filopodium and lamellipodium organization
+
+[Term]
+id: MBCO:0000319
+name: Focal adhesion organization
+level: 3
+part_of: MBCO:0000043 ! Cell-matrix adhesion
+
+[Term]
+id: MBCO:0000320
+name: Folate cycle
+level: 3
+part_of: MBCO:0000116 ! One carbon metabolism
+
+[Term]
+id: MBCO:0000321
+name: Follicle stimulating hormone receptor signaling
+level: 3
+part_of: MBCO:0000138 ! Signaling pathways regulating steroid and sex hormone synthesis
+
+[Term]
+id: MBCO:0000322
+name: Free radical generation by Myeloperoxidase
+level: 3
+part_of: MBCO:0000077 ! Free radical generation for respiratory burst
+
+[Term]
+id: MBCO:0000323
+name: Free radical generation by NADPH oxidase
+level: 3
+part_of: MBCO:0000077 ! Free radical generation for respiratory burst
+
+[Term]
+id: MBCO:0000324
+name: Fructose and mannose metabolism
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000325
+name: G2 M transition checkpoint
+level: 3
+part_of: MBCO:0000108 ! Mitotic cell cycle checkpoints
+
+[Term]
+id: MBCO:0000326
+name: GABA metabolism
+level: 3
+part_of: MBCO:0000094 ! Metabolism of glutamate and histidine products
+
+[Term]
+id: MBCO:0000327
+name: GABA-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000328
+name: Galactose metabolism
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000329
+name: Gap junction organization
+level: 3
+part_of: MBCO:0000042 ! Cell-cell adhesion
+
+[Term]
+id: MBCO:0000330
+name: Gastric inhibitory polypeptide receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000331
+name: Gastrin and cholecystokinin B receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000332
+name: Gastrin-releasing peptide receptor signaling
+level: 3
+part_of: MBCO:0000039 ! Bombesin receptor signaling
+
+[Term]
+id: MBCO:0000333
+name: Ghrelin receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000334
+name: Glucagon receptor signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000335
+name: Glucagon-like peptide-1 receptor signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000336
+name: Glucocorticoid and Mineralocorticoid synthesis
+level: 3
+part_of: MBCO:0000143 ! Steroid hormone metabolism
+
+[Term]
+id: MBCO:0000337
+name: Glucocorticoid receptor signaling
+level: 3
+part_of: MBCO:0000142 ! Steroid and sex hormone signaling
+
+[Term]
+id: MBCO:0000338
+name: Glucuronidation
+level: 3
+part_of: MBCO:0000120 ! Phase II biotransformation
+
+[Term]
+id: MBCO:0000339
+name: Glutamate and glutamine metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000340
+name: Glutamate-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000341
+name: Gluthatione conjugation
+level: 3
+part_of: MBCO:0000120 ! Phase II biotransformation
+
+[Term]
+id: MBCO:0000342
+name: Glycine-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000343
+name: Glycogen synthesis and glycogenolysis
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000344
+name: Glycolysis and Gluconeogenesis
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000345
+name: Glyoxylate metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000346
+name: GPI-anchor synthesis and attachment to protein
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000347
+name: G-protein coupled receptor signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000348
+name: Granulocyte macrophage colony-stimulating factor receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000349
+name: Granulocyte-colony stimulating factor receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000350
+name: Growth differentiation factor receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000351
+name: Growth hormone receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000352
+name: Hedgehog receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000353
+name: Heme degradation to bilirubin
+level: 3
+part_of: MBCO:0000080 ! Heme, hemoglobin and bilirubin metabolism
+
+[Term]
+id: MBCO:0000354
+name: Heme synthesis
+level: 3
+part_of: MBCO:0000080 ! Heme, hemoglobin and bilirubin metabolism
+
+[Term]
+id: MBCO:0000355
+name: Hemidesmosome organization
+level: 3
+part_of: MBCO:0000043 ! Cell-matrix adhesion
+
+[Term]
+id: MBCO:0000356
+name: Hemoglobin and myoglobin synthesis
+level: 3
+part_of: MBCO:0000080 ! Heme, hemoglobin and bilirubin metabolism
+
+[Term]
+id: MBCO:0000357
+name: Heparin and heparan sulfate synthesis
+level: 3
+part_of: MBCO:0000079 ! Glycosaminoglycan metabolism
+
+[Term]
+id: MBCO:0000358
+name: Heparin-binding EGF-like growth factor receptor signaling
+level: 3
+part_of: MBCO:0000070 ! Epidermal growth factor family signaling
+
+[Term]
+id: MBCO:0000359
+name: Hepatocyte growth factor receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000360
+name: HIF-1 receptor signaling pathway
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000361
+name: Hippo signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000362
+name: Histamine metabolism
+level: 3
+part_of: MBCO:0000094 ! Metabolism of glutamate and histidine products
+
+[Term]
+id: MBCO:0000363
+name: Histone acetylation and deactylation
+level: 3
+part_of: MBCO:0000081 ! Histone modification
+
+[Term]
+id: MBCO:0000364
+name: Histone methylation and demethylation
+level: 3
+part_of: MBCO:0000081 ! Histone modification
+
+[Term]
+id: MBCO:0000365
+name: Histone phosphorylation and dephosphorylation
+level: 3
+part_of: MBCO:0000081 ! Histone modification
+
+[Term]
+id: MBCO:0000366
+name: Histone ubiquitination and deubiquitination
+level: 3
+part_of: MBCO:0000081 ! Histone modification
+
+[Term]
+id: MBCO:0000367
+name: Homologous recombination DSB repair
+level: 3
+part_of: MBCO:0000061 ! DNA double-strand break repair
+
+[Term]
+id: MBCO:0000368
+name: Hyaluronan receptor CD44 signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000369
+name: Hyaluronan synthesis
+level: 3
+part_of: MBCO:0000079 ! Glycosaminoglycan metabolism
+
+[Term]
+id: MBCO:0000370
+name: Hyaluronan-mediated motility receptor signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000371
+name: Hydrogen transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000372
+name: Immunglobulin dynamics
+level: 3
+part_of: MBCO:0000038 ! Blood protein dynamics
+
+[Term]
+id: MBCO:0000373
+name: Immunoproteasome organization
+level: 3
+part_of: MBCO:0000152 ! Ubiquitin mediated proteasomal degradation
+
+[Term]
+id: MBCO:0000374
+name: Inhibin receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000375
+name: Inhibition of amyloid aggregation, amyloid degradation and uptake
+level: 3
+part_of: MBCO:0000033 ! Amyloid generation and aggregation
+
+[Term]
+id: MBCO:0000376
+name: Inhibition of apoptosis
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000377
+name: Inhibition of matrix metalloproteinase and adamalysin activity
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000378
+name: Inhibition of meprin activity
+level: 3
+part_of: MBCO:0000073 ! Extracellular matrix breakdown
+
+[Term]
+id: MBCO:0000379
+name: Inositol metabolism and transport
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000380
+name: Insulin receptor signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000381
+name: Insulin-like growth factor receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000382
+name: Integrin receptor signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000383
+name: Integrin-mediated leukocyte rolling
+level: 3
+part_of: MBCO:0000132 ! Rolling cell adhesion
+
+[Term]
+id: MBCO:0000384
+name: Interferon alpha receptor signaling
+level: 3
+part_of: MBCO:0000082 ! Interferon signaling
+
+[Term]
+id: MBCO:0000385
+name: Interferon beta receptor signaling
+level: 3
+part_of: MBCO:0000082 ! Interferon signaling
+
+[Term]
+id: MBCO:0000386
+name: Interferon gamma receptor signaling
+level: 3
+part_of: MBCO:0000082 ! Interferon signaling
+
+[Term]
+id: MBCO:0000387
+name: Interferon receptor signaling
+level: 3
+part_of: MBCO:0000082 ! Interferon signaling
+
+[Term]
+id: MBCO:0000388
+name: Interleukin 1 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000389
+name: Interleukin 11 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000390
+name: Interleukin 12 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000391
+name: Interleukin 13 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000392
+name: Interleukin 15 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000393
+name: Interleukin 18 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000394
+name: Interleukin 2 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000395
+name: Interleukin 21 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000396
+name: Interleukin 23 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000397
+name: Interleukin 27 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000398
+name: Interleukin 3 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000399
+name: Interleukin 33 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000400
+name: Interleukin 4 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000401
+name: Interleukin 5 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000402
+name: Interleukin 6 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000403
+name: Interleukin 7 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000404
+name: Interleukin 8 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000405
+name: Interleukin 9 receptor signaling
+level: 3
+part_of: MBCO:0000083 ! Interleukin receptor signaling
+
+[Term]
+id: MBCO:0000406
+name: Intestinal absorption and excretion of cholesterol
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000407
+name: Intracellular bridge abscission
+level: 3
+part_of: MBCO:0000057 ! Cytokinesis
+
+[Term]
+id: MBCO:0000408
+name: Intracellular bridge assembly
+level: 3
+part_of: MBCO:0000057 ! Cytokinesis
+
+[Term]
+id: MBCO:0000409
+name: Intrinsic apoptosis pathway
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000410
+name: JAK-STAT signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000411
+name: Kallidin receptor signaling
+level: 3
+part_of: MBCO:0000087 ! Kinin–kallikrein system
+
+[Term]
+id: MBCO:0000412
+name: Ketone body metabolism
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000413
+name: Lamellipodium organization
+level: 3
+part_of: MBCO:0000076 ! Filopodium and lamellipodium organization
+
+[Term]
+id: MBCO:0000414
+name: Large ribosomal subunit organization
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000415
+name: Late endosome dynamics
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000416
+name: Lectin complement pathway
+level: 3
+part_of: MBCO:0000054 ! Complement pathway and regulation
+
+[Term]
+id: MBCO:0000417
+name: Leptin receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000418
+name: Leukemia inhibitory factor receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000419
+name: Leukocyte transmigration through endothelium
+level: 3
+part_of: MBCO:0000132 ! Rolling cell adhesion
+
+[Term]
+id: MBCO:0000420
+name: Linkage of nucleoskeleton and cytoskeleton
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000421
+name: Lipid droplet biogenesis
+level: 3
+part_of: MBCO:0000088 ! Lipid droplet dynamics
+
+[Term]
+id: MBCO:0000422
+name: Lipid droplet fusion
+level: 3
+part_of: MBCO:0000088 ! Lipid droplet dynamics
+
+[Term]
+id: MBCO:0000423
+name: Lipid droplet mitochondria interaction
+level: 3
+part_of: MBCO:0000088 ! Lipid droplet dynamics
+
+[Term]
+id: MBCO:0000424
+name: Lipid transfer between membrane leaflets
+level: 3
+part_of: MBCO:0000090 ! Membrane lipid metabolism
+
+[Term]
+id: MBCO:0000425
+name: Lipogenesis
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000426
+name: Luteinizing hormone hormone receptor signaling
+level: 3
+part_of: MBCO:0000138 ! Signaling pathways regulating steroid and sex hormone synthesis
+
+[Term]
+id: MBCO:0000427
+name: Lysine metabolism
+level: 3
+part_of: MBCO:0000092 ! Metabolism of essential amino acids
+
+[Term]
+id: MBCO:0000428
+name: Lysosomal acidification
+level: 3
+part_of: MBCO:0000060 ! Degradation by lysosomal enzymes
+
+[Term]
+id: MBCO:0000429
+name: Lysosomal glycoprotein degradation
+level: 3
+part_of: MBCO:0000060 ! Degradation by lysosomal enzymes
+
+[Term]
+id: MBCO:0000430
+name: Lysosomal glycosaminoglycan degradation
+level: 3
+part_of: MBCO:0000060 ! Degradation by lysosomal enzymes
+
+[Term]
+id: MBCO:0000431
+name: Lysosomal lipid degradation
+level: 3
+part_of: MBCO:0000060 ! Degradation by lysosomal enzymes
+
+[Term]
+id: MBCO:0000432
+name: Macroautophagy
+level: 3
+part_of: MBCO:0000036 ! Autophagy
+
+[Term]
+id: MBCO:0000433
+name: Macrophage migration inhibitory factor signaling
+level: 3
+part_of: MBCO:0000070 ! Epidermal growth factor family signaling
+
+[Term]
+id: MBCO:0000434
+name: Mammalian target of rapamycin signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000435
+name: MAPK signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000436
+name: MDA-5 receptor signaling
+level: 3
+part_of: MBCO:0000117 ! Pattern recognition signaling
+
+[Term]
+id: MBCO:0000437
+name: Membrane attack complex formation
+level: 3
+part_of: MBCO:0000054 ! Complement pathway and regulation
+
+[Term]
+id: MBCO:0000438
+name: Metabolism of branched-chain amino acids
+level: 3
+part_of: MBCO:0000092 ! Metabolism of essential amino acids
+
+[Term]
+id: MBCO:0000439
+name: Metaphase to anaphase checkpoint
+level: 3
+part_of: MBCO:0000108 ! Mitotic cell cycle checkpoints
+
+[Term]
+id: MBCO:0000440
+name: Methionine cycle
+level: 3
+part_of: MBCO:0000116 ! One carbon metabolism
+
+[Term]
+id: MBCO:0000441
+name: Microfibril scaffold organization
+level: 3
+part_of: MBCO:0000066 ! Elastogenesis
+
+[Term]
+id: MBCO:0000442
+name: Microtubule assistance of vesicle traffic between Golgi and ER
+level: 3
+part_of: MBCO:0000154 ! Vesicle traffic between ER and Golgi
+
+[Term]
+id: MBCO:0000443
+name: Microtubule crosslinking and bundling
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000444
+name: Microtubule depolymerization, severing and catastrophe
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000445
+name: Microtubule destabilization
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000446
+name: Microtubule nucleation and rescue
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000447
+name: Microtubule plus-end tracking
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000448
+name: Microtubule polymerization
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000449
+name: Microtubule stabilization
+level: 3
+part_of: MBCO:0000100 ! Microtubule dynamics
+
+[Term]
+id: MBCO:0000450
+name: Microtubule-based secretory vesicle traffic
+level: 3
+part_of: MBCO:0000153 ! Vesicle exocytosis
+
+[Term]
+id: MBCO:0000451
+name: Mineralocorticoid receptor signaling
+level: 3
+part_of: MBCO:0000139 ! Signaling pathways regulating water homeostasis
+
+[Term]
+id: MBCO:0000452
+name: Mismatch repair
+level: 3
+part_of: MBCO:0000064 ! DNA single-strand break and base damage repair
+
+[Term]
+id: MBCO:0000453
+name: Mitochondrial ADP import and ATP export
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000454
+name: Mitochondrial ATP-synthesis
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000455
+name: Mitochondrial fission
+level: 3
+part_of: MBCO:0000103 ! Mitochondrial dynamics
+
+[Term]
+id: MBCO:0000456
+name: Mitochondrial fusion
+level: 3
+part_of: MBCO:0000103 ! Mitochondrial dynamics
+
+[Term]
+id: MBCO:0000457
+name: Mitochondrial transport
+level: 3
+part_of: MBCO:0000103 ! Mitochondrial dynamics
+
+[Term]
+id: MBCO:0000458
+name: Mitochondrial uncoupling by mitochondrial anion carrier proteins
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000459
+name: Mitotic chromosome condensation
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000460
+name: Mitotic H3 phosphorylation and dephosphorylation
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000461
+name: Mitotic spindle assembly
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000462
+name: Mitotic spindle disassembly
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000463
+name: Motilin receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000464
+name: mRNA decapping and 5' degradation
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000465
+name: mRNA degradation, storing and translational repression by cytoplasmic processing bodies
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000466
+name: Multivesicular body dynamics
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000467
+name: Muscarinic receptor signaling
+level: 3
+part_of: MBCO:0000137 ! Signaling pathways regulating cardiovascular homeostasis
+
+[Term]
+id: MBCO:0000468
+name: Myelin biogenesis and maturation
+level: 3
+part_of: MBCO:0000113 ! Neuronal action potential generation and propagation
+
+[Term]
+id: MBCO:0000469
+name: Myofibril formation
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000470
+name: Natriuretic peptide receptor signaling
+level: 3
+part_of: MBCO:0000139 ! Signaling pathways regulating water homeostasis
+
+[Term]
+id: MBCO:0000471
+name: Necroptosis induction
+level: 3
+part_of: MBCO:0000112 ! Necroptosis
+
+[Term]
+id: MBCO:0000472
+name: Necroptotic release of damage-associated molecular patterns
+level: 3
+part_of: MBCO:0000112 ! Necroptosis
+
+[Term]
+id: MBCO:0000473
+name: Necrosome formation
+level: 3
+part_of: MBCO:0000112 ! Necroptosis
+
+[Term]
+id: MBCO:0000474
+name: Nerve growth factor receptor signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000475
+name: Neuregulin receptor signaling
+level: 3
+part_of: MBCO:0000070 ! Epidermal growth factor family signaling
+
+[Term]
+id: MBCO:0000476
+name: Neuromedin B receptor signaling
+level: 3
+part_of: MBCO:0000039 ! Bombesin receptor signaling
+
+[Term]
+id: MBCO:0000477
+name: Neuronal membrane depolarization during action potential
+level: 3
+part_of: MBCO:0000113 ! Neuronal action potential generation and propagation
+
+[Term]
+id: MBCO:0000478
+name: Neuronal membrane repolarization during action potential and hyperpolarization
+level: 3
+part_of: MBCO:0000113 ! Neuronal action potential generation and propagation
+
+[Term]
+id: MBCO:0000479
+name: Neuronal pacemaker current generation
+level: 3
+part_of: MBCO:0000113 ! Neuronal action potential generation and propagation
+
+[Term]
+id: MBCO:0000480
+name: NFkB signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000481
+name: Niacin metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000482
+name: Nitric oxide signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000483
+name: Nodal growth differentiation factor receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000484
+name: NOD-like receptor signaling
+level: 3
+part_of: MBCO:0000117 ! Pattern recognition signaling
+
+[Term]
+id: MBCO:0000485
+name: Non-homologous end joining DSB repair
+level: 3
+part_of: MBCO:0000061 ! DNA double-strand break repair
+
+[Term]
+id: MBCO:0000486
+name: Nonsense-mediated mRNA decay pathway
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000487
+name: Nonstop mRNA decay pathway
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000488
+name: Non-vesicular ceramide transport
+level: 3
+part_of: MBCO:0000115 ! Non-vesicular lipid transport
+
+[Term]
+id: MBCO:0000489
+name: Non-vesicular oxysterol transport
+level: 3
+part_of: MBCO:0000115 ! Non-vesicular lipid transport
+
+[Term]
+id: MBCO:0000490
+name: Non-vesicular phospholipid transport
+level: 3
+part_of: MBCO:0000115 ! Non-vesicular lipid transport
+
+[Term]
+id: MBCO:0000491
+name: Notch receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000492
+name: Nuclear Drosha-mediated microRNA processing
+level: 3
+part_of: MBCO:0000102 ! miRNA and endogenous siRNA biogenesis
+
+[Term]
+id: MBCO:0000493
+name: Nuclear envelope maintenance
+level: 3
+part_of: MBCO:0000068 ! Endoplasmic reticulum and nuclear envelope organization
+
+[Term]
+id: MBCO:0000494
+name: Nuclear import of core snRNP
+level: 3
+part_of: MBCO:0000141 ! snRNA expression and spliceosome generation
+
+[Term]
+id: MBCO:0000495
+name: Nuclear intermediate filaments
+level: 3
+part_of: MBCO:0000084 ! Interphase nucleus and nuclear chromatin organization
+
+[Term]
+id: MBCO:0000496
+name: Nuclear mRNA export
+level: 3
+part_of: MBCO:0000109 ! mRNA capping, editing, polyadenylation and nuclear export
+
+[Term]
+id: MBCO:0000497
+name: Nuclear pore complex organization
+level: 3
+part_of: MBCO:0000126 ! Protein transport across the nuclear membrane
+
+[Term]
+id: MBCO:0000498
+name: Nuclear protein export
+level: 3
+part_of: MBCO:0000126 ! Protein transport across the nuclear membrane
+
+[Term]
+id: MBCO:0000499
+name: Nuclear protein import
+level: 3
+part_of: MBCO:0000126 ! Protein transport across the nuclear membrane
+
+[Term]
+id: MBCO:0000500
+name: Nuclear snRNA processing
+level: 3
+part_of: MBCO:0000141 ! snRNA expression and spliceosome generation
+
+[Term]
+id: MBCO:0000501
+name: Nucleosome assembly
+level: 3
+part_of: MBCO:0000050 ! Chromatin remodeling
+
+[Term]
+id: MBCO:0000502
+name: Nucleosome disassembly
+level: 3
+part_of: MBCO:0000050 ! Chromatin remodeling
+
+[Term]
+id: MBCO:0000503
+name: Nucleosome remodeling
+level: 3
+part_of: MBCO:0000050 ! Chromatin remodeling
+
+[Term]
+id: MBCO:0000504
+name: Nucleotide excision repair
+level: 3
+part_of: MBCO:0000064 ! DNA single-strand break and base damage repair
+
+[Term]
+id: MBCO:0000505
+name: Oncostatin-M receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000506
+name: Osteonectin receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000507
+name: Osteopontin receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000508
+name: Parathyroid hormone receptor signaling
+level: 3
+part_of: MBCO:0000136 ! Signaling pathways regulating calcium homeostasis
+
+[Term]
+id: MBCO:0000509
+name: Pentose phosphate pathway
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000510
+name: Perlecan synthesis
+level: 3
+part_of: MBCO:0000037 ! Basement membrane dynamics
+
+[Term]
+id: MBCO:0000511
+name: Peroxisome proliferator-activated receptor alpha signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000512
+name: Peroxisome proliferator-activated receptor gamma signaling
+level: 3
+part_of: MBCO:0000134 ! Signaling pathways involved in glucose and lipid homeostasis
+
+[Term]
+id: MBCO:0000513
+name: Phase I biotransformation via alcohol dehydrogenases
+level: 3
+part_of: MBCO:0000119 ! Phase I biotransformation
+
+[Term]
+id: MBCO:0000514
+name: Phase I biotransformation via cytochrome P450
+level: 3
+part_of: MBCO:0000119 ! Phase I biotransformation
+
+[Term]
+id: MBCO:0000515
+name: Phase I biotransformation via flavin-containing monooxygenases
+level: 3
+part_of: MBCO:0000119 ! Phase I biotransformation
+
+[Term]
+id: MBCO:0000516
+name: Phenylalanine catabolism
+level: 3
+part_of: MBCO:0000092 ! Metabolism of essential amino acids
+
+[Term]
+id: MBCO:0000517
+name: Phosphate transmembrane transport
+level: 3
+part_of: MBCO:0000150 ! Transmembrane water and ion transport not involved in membrane potential generatation
+
+[Term]
+id: MBCO:0000518
+name: Phosphoglyceride biosynthesis
+level: 3
+part_of: MBCO:0000090 ! Membrane lipid metabolism
+
+[Term]
+id: MBCO:0000519
+name: Phosphoglyceride remodelling via Lands cycle
+level: 3
+part_of: MBCO:0000090 ! Membrane lipid metabolism
+
+[Term]
+id: MBCO:0000520
+name: Phospholipase C signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000521
+name: PI3 kinase AKT signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000522
+name: Platelet-derived growth factor receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000523
+name: Polyol pathway
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000524
+name: Potassium transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000525
+name: Pre-catalytic spliceosome assembly and processing
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000526
+name: Pre-mRNA 3-end-cleavage and polyadenylation
+level: 3
+part_of: MBCO:0000109 ! mRNA capping, editing, polyadenylation and nuclear export
+
+[Term]
+id: MBCO:0000527
+name: Pre-mRNA capping
+level: 3
+part_of: MBCO:0000109 ! mRNA capping, editing, polyadenylation and nuclear export
+
+[Term]
+id: MBCO:0000528
+name: Pre-spliceosome assembly
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000529
+name: Procollagen cleavage into collagen
+level: 3
+part_of: MBCO:0000053 ! Collagen biosynthesis
+
+[Term]
+id: MBCO:0000530
+name: Procollagen processing in the ER
+level: 3
+part_of: MBCO:0000053 ! Collagen biosynthesis
+
+[Term]
+id: MBCO:0000531
+name: Progestagen synthesis
+level: 3
+part_of: MBCO:0000143 ! Steroid hormone metabolism
+
+[Term]
+id: MBCO:0000532
+name: Progesterone receptor signaling
+level: 3
+part_of: MBCO:0000142 ! Steroid and sex hormone signaling
+
+[Term]
+id: MBCO:0000533
+name: Prolactin receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000534
+name: Proline metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000535
+name: Prostacycline receptor signaling
+level: 3
+part_of: MBCO:0000124 ! Prostanoid receptor signaling
+
+[Term]
+id: MBCO:0000536
+name: Prostaglandin D2 receptor signaling
+level: 3
+part_of: MBCO:0000124 ! Prostanoid receptor signaling
+
+[Term]
+id: MBCO:0000537
+name: Prostaglandin E2 receptor signaling
+level: 3
+part_of: MBCO:0000124 ! Prostanoid receptor signaling
+
+[Term]
+id: MBCO:0000538
+name: Prostaglandin PGF2 alpha receptor signaling
+level: 3
+part_of: MBCO:0000124 ! Prostanoid receptor signaling
+
+[Term]
+id: MBCO:0000539
+name: Proteasomal core organization
+level: 3
+part_of: MBCO:0000152 ! Ubiquitin mediated proteasomal degradation
+
+[Term]
+id: MBCO:0000540
+name: Proteasomal regulatory particle organization
+level: 3
+part_of: MBCO:0000152 ! Ubiquitin mediated proteasomal degradation
+
+[Term]
+id: MBCO:0000541
+name: Protein acylation
+level: 3
+part_of: MBCO:0000125 ! Protein prenylation
+
+[Term]
+id: MBCO:0000542
+name: Protein and carbohydrate sulfation in Golgi Apparatus
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000543
+name: Protein farnesylation and geranylation
+level: 3
+part_of: MBCO:0000125 ! Protein prenylation
+
+[Term]
+id: MBCO:0000544
+name: Protein folding in mitochondria
+level: 3
+part_of: MBCO:0000122 ! Post-translational protein modification in Mitochondria
+
+[Term]
+id: MBCO:0000545
+name: Protein import accross inner mitochondrial membrane machinery
+level: 3
+part_of: MBCO:0000105 ! Mitochondrial protein import machinery
+
+[Term]
+id: MBCO:0000546
+name: Protein import accross outer mitochondrial membrane machinery
+level: 3
+part_of: MBCO:0000105 ! Mitochondrial protein import machinery
+
+[Term]
+id: MBCO:0000547
+name: Protein import accross peroxisomal membrane
+level: 3
+part_of: MBCO:0000118 ! Peroxisomal protein import machinery
+
+[Term]
+id: MBCO:0000548
+name: Protein kinase C signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000549
+name: Protein myristoylation
+level: 3
+part_of: MBCO:0000125 ! Protein prenylation
+
+[Term]
+id: MBCO:0000550
+name: Protein N-linked glycosylation in ER
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000551
+name: Protein O-linked glycosylation in Golgi Apparatus
+level: 3
+part_of: MBCO:0000121 ! Post-translational protein modification and quality control during biosynthetic-secretory pathway
+
+[Term]
+id: MBCO:0000552
+name: Protein palmitoylation
+level: 3
+part_of: MBCO:0000125 ! Protein prenylation
+
+[Term]
+id: MBCO:0000553
+name: Protein polyubiquitination
+level: 3
+part_of: MBCO:0000152 ! Ubiquitin mediated proteasomal degradation
+
+[Term]
+id: MBCO:0000554
+name: P-selectin-mediated platelet rolling
+level: 3
+part_of: MBCO:0000132 ! Rolling cell adhesion
+
+[Term]
+id: MBCO:0000555
+name: Purine catabolism
+level: 3
+part_of: MBCO:0000097 ! Metabolism of purines and pyrimidines
+
+[Term]
+id: MBCO:0000556
+name: Purine synthesis and salvage
+level: 3
+part_of: MBCO:0000097 ! Metabolism of purines and pyrimidines
+
+[Term]
+id: MBCO:0000557
+name: Purinergic P1 receptor signaling
+level: 3
+part_of: MBCO:0000128 ! Purinergic signaling
+
+[Term]
+id: MBCO:0000558
+name: Purinergic P2X receptor signaling
+level: 3
+part_of: MBCO:0000128 ! Purinergic signaling
+
+[Term]
+id: MBCO:0000559
+name: Purinergic P2Y receptor signaling
+level: 3
+part_of: MBCO:0000128 ! Purinergic signaling
+
+[Term]
+id: MBCO:0000560
+name: Pyrimidine catabolism
+level: 3
+part_of: MBCO:0000097 ! Metabolism of purines and pyrimidines
+
+[Term]
+id: MBCO:0000561
+name: Pyrimidine synthesis and salvage
+level: 3
+part_of: MBCO:0000097 ! Metabolism of purines and pyrimidines
+
+[Term]
+id: MBCO:0000562
+name: Rank signaling
+level: 3
+part_of: MBCO:0000147 ! TNF superfamily signaling
+
+[Term]
+id: MBCO:0000563
+name: Ras signaling pathway
+level: 3
+part_of: MBCO:0000085 ! Intracellular common signaling cascades of multiple pathways
+
+[Term]
+id: MBCO:0000564
+name: Recognition of lysosomal enzymes by mannose 6-phosphate receptor
+level: 3
+part_of: MBCO:0000155 ! Vesicle traffic between TGN and endosomal lysosomal system
+
+[Term]
+id: MBCO:0000565
+name: Recycling endosome dynamics
+level: 3
+part_of: MBCO:0000067 ! Endocytic pathway
+
+[Term]
+id: MBCO:0000566
+name: Regulation of coagulation cascade by protein C
+level: 3
+part_of: MBCO:0000052 ! Coagulation cascade and fibrinolysis
+
+[Term]
+id: MBCO:0000567
+name: Regulation of iron homeostasis
+level: 3
+part_of: MBCO:0000086 ! Iron homeostasis
+
+[Term]
+id: MBCO:0000568
+name: Regulation of proteasomal proteolysis by signalosome
+level: 3
+part_of: MBCO:0000152 ! Ubiquitin mediated proteasomal degradation
+
+[Term]
+id: MBCO:0000569
+name: Regulation of RNA polymerase II elongation activity
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000570
+name: Restriction point
+level: 3
+part_of: MBCO:0000108 ! Mitotic cell cycle checkpoints
+
+[Term]
+id: MBCO:0000571
+name: Retinoic acid receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000572
+name: Retinol metabolism
+level: 3
+part_of: MBCO:0000093 ! Metabolism of fat-soluble vitamins
+
+[Term]
+id: MBCO:0000573
+name: Retrograde vesicle traffic from endosome to TGN
+level: 3
+part_of: MBCO:0000155 ! Vesicle traffic between TGN and endosomal lysosomal system
+
+[Term]
+id: MBCO:0000574
+name: Retrograde vesicle traffic from Golgi to ER
+level: 3
+part_of: MBCO:0000154 ! Vesicle traffic between ER and Golgi
+
+[Term]
+id: MBCO:0000575
+name: Riboflavin metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000576
+name: Ribonucleoprotein assembly
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000577
+name: Ribonucleoprotein nuclear export
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000578
+name: Ribonucleoprotein nuclear re-import
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000579
+name: Ribonucleotide reduction
+level: 3
+part_of: MBCO:0000097 ! Metabolism of purines and pyrimidines
+
+[Term]
+id: MBCO:0000580
+name: RIG-I-like receptor signaling
+level: 3
+part_of: MBCO:0000117 ! Pattern recognition signaling
+
+[Term]
+id: MBCO:0000581
+name: RNA 3' degradation by exosome
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000582
+name: RNA editing
+level: 3
+part_of: MBCO:0000109 ! mRNA capping, editing, polyadenylation and nuclear export
+
+[Term]
+id: MBCO:0000583
+name: Roundabout signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000584
+name: rRNA processing
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000585
+name: rRNA transcription
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000586
+name: Sarcoplasmic reticulum organization
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000587
+name: Secretin receptor signaling
+level: 3
+part_of: MBCO:0000139 ! Signaling pathways regulating water homeostasis
+
+[Term]
+id: MBCO:0000588
+name: Selectin-mediated Leukocyte rolling
+level: 3
+part_of: MBCO:0000132 ! Rolling cell adhesion
+
+[Term]
+id: MBCO:0000589
+name: Semaphorin signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000590
+name: Serine and glycine metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000591
+name: Serotonin and melatonin synthesis
+level: 3
+part_of: MBCO:0000098 ! Metabolism of tryptophan products
+
+[Term]
+id: MBCO:0000592
+name: Serotonin inactivation
+level: 3
+part_of: MBCO:0000098 ! Metabolism of tryptophan products
+
+[Term]
+id: MBCO:0000593
+name: Serotonin-mediated control of postsynaptic potential
+level: 3
+part_of: MBCO:0000055 ! Control of postsynaptic potential
+
+[Term]
+id: MBCO:0000594
+name: Single strand annealing DSB repair
+level: 3
+part_of: MBCO:0000061 ! DNA double-strand break repair
+
+[Term]
+id: MBCO:0000595
+name: Sister chromatid attachment to mitotic spindle
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000596
+name: Sister chromatid cohesion
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000597
+name: Sister chromatid segregation
+level: 3
+part_of: MBCO:0000051 ! Chromosome segregation by mitotic spindle
+
+[Term]
+id: MBCO:0000598
+name: Removal of caspase inhibition
+level: 3
+part_of: MBCO:0000035 ! Apoptosis
+
+[Term]
+id: MBCO:0000599
+name: Small ribosomal subunit organization
+level: 3
+part_of: MBCO:0000130 ! Ribonucleoprotein biogenesis
+
+[Term]
+id: MBCO:0000600
+name: snRNA transcription
+level: 3
+part_of: MBCO:0000141 ! snRNA expression and spliceosome generation
+
+[Term]
+id: MBCO:0000601
+name: Sodium transmembrane transport
+level: 3
+part_of: MBCO:0000149 ! Transmembrane ion transport involved in membrane potential generation
+
+[Term]
+id: MBCO:0000602
+name: Somatostatin receptor signaling
+level: 3
+part_of: MBCO:0000114 ! Neuronal signaling pathways
+
+[Term]
+id: MBCO:0000603
+name: Sphingolipid metabolism
+level: 3
+part_of: MBCO:0000090 ! Membrane lipid metabolism
+
+[Term]
+id: MBCO:0000604
+name: Spliceosome disassembly and mRNA release
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000605
+name: Step 1 and step 2 catalysis during pre-mRNA splicing
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000606
+name: Sulfonation
+level: 3
+part_of: MBCO:0000120 ! Phase II biotransformation
+
+[Term]
+id: MBCO:0000607
+name: Syndecan ectodomain shedding
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000608
+name: Syndecan receptor signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000609
+name: Target RNA degradation, inhibition or destabilization by RICS or RITS
+level: 3
+part_of: MBCO:0000131 ! RNA surveillance and degradation
+
+[Term]
+id: MBCO:0000610
+name: Telomere replication and maintenance
+level: 3
+part_of: MBCO:0000072 ! Eukaryotic DNA replication
+
+[Term]
+id: MBCO:0000611
+name: Tenascin receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000612
+name: Thiamine metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000613
+name: Thick myofilament organization
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000614
+name: Thin myofilament organization
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000615
+name: Thrombopoietin receptor signaling
+level: 3
+part_of: MBCO:0000135 ! Signaling pathways involved in hematopoiesis
+
+[Term]
+id: MBCO:0000616
+name: Thrombospondin receptor signaling
+level: 3
+part_of: MBCO:0000089 ! Matricellular protein signaling
+
+[Term]
+id: MBCO:0000617
+name: Thromboxane receptor signaling
+level: 3
+part_of: MBCO:0000124 ! Prostanoid receptor signaling
+
+[Term]
+id: MBCO:0000618
+name: Thyroid hormone receptor signaling
+level: 3
+part_of: MBCO:0000146 ! Thyroid hormone related signaling
+
+[Term]
+id: MBCO:0000619
+name: Thyroid-hormone synthesis
+level: 3
+part_of: MBCO:0000096 ! Metabolism of phenylalanine products
+
+[Term]
+id: MBCO:0000620
+name: Thyroid-stimulating hormone receptor signaling
+level: 3
+part_of: MBCO:0000146 ! Thyroid hormone related signaling
+
+[Term]
+id: MBCO:0000621
+name: Thyrotropin-releasing hormone receptor signaling
+level: 3
+part_of: MBCO:0000146 ! Thyroid hormone related signaling
+
+[Term]
+id: MBCO:0000622
+name: Tight junction organization
+level: 3
+part_of: MBCO:0000042 ! Cell-cell adhesion
+
+[Term]
+id: MBCO:0000623
+name: Toll-like receptor signaling
+level: 3
+part_of: MBCO:0000117 ! Pattern recognition signaling
+
+[Term]
+id: MBCO:0000624
+name: Transamination pathways
+level: 3
+part_of: MBCO:0000032 ! Ammonium metabolism
+
+[Term]
+id: MBCO:0000625
+name: Transcription by rna polymerase II
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000626
+name: Transcription initiation by general transcription factors
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000627
+name: Transcription regulation by chromatin remodeling
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000628
+name: Transcription regulation by mediator
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000629
+name: Transcription repression
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000630
+name: Transcription termination
+level: 3
+part_of: MBCO:0000148 ! Transcription
+
+[Term]
+id: MBCO:0000631
+name: Transforming growth factor alpha receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000632
+name: Transforming growth factor beta receptor signaling
+level: 3
+part_of: MBCO:0000145 ! TGF-beta superfamily signaling
+
+[Term]
+id: MBCO:0000633
+name: Translation elongation
+level: 3
+part_of: MBCO:0000110 ! mRNA translation
+
+[Term]
+id: MBCO:0000634
+name: Translation initiation
+level: 3
+part_of: MBCO:0000110 ! mRNA translation
+
+[Term]
+id: MBCO:0000635
+name: Translation termination
+level: 3
+part_of: MBCO:0000110 ! mRNA translation
+
+[Term]
+id: MBCO:0000636
+name: Transmembrane fatty acid translocation
+level: 3
+part_of: MBCO:0000074 ! Fatty acid metabolism
+
+[Term]
+id: MBCO:0000637
+name: Transmembrane glucose transport
+level: 3
+part_of: MBCO:0000040 ! Carbohydrate metabolism and transport
+
+[Term]
+id: MBCO:0000638
+name: Transpositional recombination
+level: 3
+part_of: MBCO:0000063 ! DNA recombination
+
+[Term]
+id: MBCO:0000639
+name: Transsulfuration pathway
+level: 3
+part_of: MBCO:0000116 ! One carbon metabolism
+
+[Term]
+id: MBCO:0000640
+name: Triacylglycerol hydrolysis and mobilization
+level: 3
+part_of: MBCO:0000151 ! Triacylglycerol metabolism and transport
+
+[Term]
+id: MBCO:0000641
+name: Triacylglycerol metabolism
+level: 3
+part_of: MBCO:0000151 ! Triacylglycerol metabolism and transport
+
+[Term]
+id: MBCO:0000642
+name: Triacylglycerol transport by lipoproteins
+level: 3
+part_of: MBCO:0000151 ! Triacylglycerol metabolism and transport
+
+[Term]
+id: MBCO:0000643
+name: tRNA amino acid activation
+level: 3
+part_of: MBCO:0000110 ! mRNA translation
+
+[Term]
+id: MBCO:0000644
+name: Tropoelastin synthesis
+level: 3
+part_of: MBCO:0000066 ! Elastogenesis
+
+[Term]
+id: MBCO:0000645
+name: Tryptophan metabolism
+level: 3
+part_of: MBCO:0000092 ! Metabolism of essential amino acids
+
+[Term]
+id: MBCO:0000646
+name: Tumor necrosis factor alpha receptor signaling
+level: 3
+part_of: MBCO:0000147 ! TNF superfamily signaling
+
+[Term]
+id: MBCO:0000647
+name: Tumor necrosis factor beta receptor signaling
+level: 3
+part_of: MBCO:0000147 ! TNF superfamily signaling
+
+[Term]
+id: MBCO:0000648
+name: Tyrosine metabolism
+level: 3
+part_of: MBCO:0000095 ! Metabolism of non-essential amino acids
+
+[Term]
+id: MBCO:0000649
+name: U1 snRNP assembly
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000650
+name: U2 snRNP assembly
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000651
+name: U4-U6-U5 tri-snRNP assembly
+level: 3
+part_of: MBCO:0000123 ! Pre-mRNA splicing
+
+[Term]
+id: MBCO:0000652
+name: Ubiquinone biosynthesis
+level: 3
+part_of: MBCO:0000104 ! Mitochondrial energy production
+
+[Term]
+id: MBCO:0000653
+name: Urea cycle
+level: 3
+part_of: MBCO:0000032 ! Ammonium metabolism
+
+[Term]
+id: MBCO:0000654
+name: Vascular endothelial growth factor receptor signaling
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000655
+name: Vasoactive intestinal peptide receptor signaling
+level: 3
+part_of: MBCO:0000078 ! Gastrointestinal hormone signaling
+
+[Term]
+id: MBCO:0000656
+name: VDJ recombination
+level: 3
+part_of: MBCO:0000063 ! DNA recombination
+
+[Term]
+id: MBCO:0000657
+name: Versican receptor signaling
+level: 3
+part_of: MBCO:0000133 ! Signaling by extracellular matrix components
+
+[Term]
+id: MBCO:0000658
+name: Versican synthesis
+level: 3
+part_of: MBCO:0000127 ! Proteoglycan synthesis
+
+[Term]
+id: MBCO:0000659
+name: Vesicle fusion with plasma membrane
+level: 3
+part_of: MBCO:0000153 ! Vesicle exocytosis
+
+[Term]
+id: MBCO:0000660
+name: Vesicle tethering at plasma membrane
+level: 3
+part_of: MBCO:0000153 ! Vesicle exocytosis
+
+[Term]
+id: MBCO:0000661
+name: Vimentin-like intermediate filament dynamics
+level: 3
+part_of: MBCO:0000058 ! Cytosolic intermediate filament and septin dynamics
+
+[Term]
+id: MBCO:0000662
+name: Vitamin C metabolism
+level: 3
+part_of: MBCO:0000099 ! Metabolism of water-soluble vitamins
+
+[Term]
+id: MBCO:0000663
+name: Vitamin D metabolism
+level: 3
+part_of: MBCO:0000091 ! Metabolism and transport of cholesterol, steroids and bile acids
+
+[Term]
+id: MBCO:0000664
+name: Vitamin D receptor signaling
+level: 3
+part_of: MBCO:0000136 ! Signaling pathways regulating calcium homeostasis
+
+[Term]
+id: MBCO:0000665
+name: Vitamin K metabolism
+level: 3
+part_of: MBCO:0000093 ! Metabolism of fat-soluble vitamins
+
+[Term]
+id: MBCO:0000666
+name: Water transmembrane transport
+level: 3
+part_of: MBCO:0000150 ! Transmembrane water and ion transport not involved in membrane potential generatation
+
+[Term]
+id: MBCO:0000667
+name: WNT-Beta-catenin signaling pathway
+level: 3
+part_of: MBCO:0000140 ! Signaling pathways that control cell proliferation and differentiation
+
+[Term]
+id: MBCO:0000668
+name: Z-disc organization
+level: 3
+part_of: MBCO:0000111 ! Myofibril formation and organization
+
+[Term]
+id: MBCO:0000669
+name: Zinc transmembrane transport
+level: 3
+part_of: MBCO:0000150 ! Transmembrane water and ion transport not involved in membrane potential generatation
+
+[Term]
+id: MBCO:0000670
+name: Acidic keratin dynamics
+level: 4
+part_of: MBCO:0000287 ! Epithelial intermediate filament dynamics
+
+[Term]
+id: MBCO:0000671
+name: Actin filament branching
+level: 4
+part_of: MBCO:0000159 ! Actin filament nucleation and branching
+
+[Term]
+id: MBCO:0000672
+name: Actin filament depolymerization
+level: 4
+part_of: MBCO:0000160 ! Actin filament severing and depolymerization
+
+[Term]
+id: MBCO:0000673
+name: Actin filament minus end capping
+level: 4
+part_of: MBCO:0000158 ! Actin filament capping
+
+[Term]
+id: MBCO:0000674
+name: Actin filament nucleation
+level: 4
+part_of: MBCO:0000159 ! Actin filament nucleation and branching
+
+[Term]
+id: MBCO:0000675
+name: Actin filament plus end capping
+level: 4
+part_of: MBCO:0000158 ! Actin filament capping
+
+[Term]
+id: MBCO:0000676
+name: Actin filament severing
+level: 4
+part_of: MBCO:0000160 ! Actin filament severing and depolymerization
+
+[Term]
+id: MBCO:0000677
+name: Activation of M-Cdk at the onset of mitosis
+level: 4
+part_of: MBCO:0000570 ! Restriction point
+
+[Term]
+id: MBCO:0000678
+name: Apoptosis effector caspase cascade
+level: 4
+part_of: MBCO:0000184 ! Apoptosis caspase pathway
+
+[Term]
+id: MBCO:0000679
+name: Apoptosis initator caspase cascade
+level: 4
+part_of: MBCO:0000184 ! Apoptosis caspase pathway
+
+[Term]
+id: MBCO:0000680
+name: Atrial natriuretic peptide receptor signaling
+level: 4
+part_of: MBCO:0000470 ! Natriuretic peptide receptor signaling
+
+[Term]
+id: MBCO:0000681
+name: Autophagosome elongation
+level: 4
+part_of: MBCO:0000432 ! Macroautophagy
+
+[Term]
+id: MBCO:0000682
+name: Autophagosome nucleation
+level: 4
+part_of: MBCO:0000432 ! Macroautophagy
+
+[Term]
+id: MBCO:0000683
+name: Bile acid synthesis from cholesterol via alternate pathway
+level: 4
+part_of: MBCO:0000197 ! Bile acid synthesis from cholesterol
+
+[Term]
+id: MBCO:0000684
+name: Bile acid synthesis from cholesterol via classical pathway
+level: 4
+part_of: MBCO:0000197 ! Bile acid synthesis from cholesterol
+
+[Term]
+id: MBCO:0000685
+name: Brain natriuretic peptide receptor signaling
+level: 4
+part_of: MBCO:0000470 ! Natriuretic peptide receptor signaling
+
+[Term]
+id: MBCO:0000686
+name: Catecholamine inactivation
+level: 4
+part_of: MBCO:0000212 ! Catecholamine metabolism
+
+[Term]
+id: MBCO:0000687
+name: Catecholamine synthesis
+level: 4
+part_of: MBCO:0000212 ! Catecholamine metabolism
+
+[Term]
+id: MBCO:0000688
+name: Centriole organization
+level: 4
+part_of: MBCO:0000224 ! Centrosome organization
+
+[Term]
+id: MBCO:0000689
+name: Ceramide biosynthesis
+level: 4
+part_of: MBCO:0000603 ! Sphingolipid metabolism
+
+[Term]
+id: MBCO:0000690
+name: Cholesterol metabolism
+level: 4
+part_of: MBCO:0000230 ! Cholesterol synthesis
+
+[Term]
+id: MBCO:0000691
+name: Cholesterol transport by HDL
+level: 4
+part_of: MBCO:0000231 ! Cholesterol transport by lipoproteins
+
+[Term]
+id: MBCO:0000692
+name: Cholesterol transport by LDL
+level: 4
+part_of: MBCO:0000231 ! Cholesterol transport by lipoproteins
+
+[Term]
+id: MBCO:0000693
+name: Clathrin coated pit assembly
+level: 4
+part_of: MBCO:0000242 ! Clathrin-mediated endocytosis
+
+[Term]
+id: MBCO:0000694
+name: Clathrin coated pit invagination and vesicle scission
+level: 4
+part_of: MBCO:0000242 ! Clathrin-mediated endocytosis
+
+[Term]
+id: MBCO:0000695
+name: Clathrin-coated vesicle uncoating
+level: 4
+part_of: MBCO:0000242 ! Clathrin-mediated endocytosis
+
+[Term]
+id: MBCO:0000696
+name: Clathrin-mediated vesicle traffic from TGN to lysosome
+level: 4
+part_of: MBCO:0000243 ! Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system
+
+[Term]
+id: MBCO:0000697
+name: Common coagulation pathway
+level: 4
+part_of: MBCO:0000245 ! Coagulation cascade
+
+[Term]
+id: MBCO:0000698
+name: C-type natriuretic peptide receptor signaling
+level: 4
+part_of: MBCO:0000470 ! Natriuretic peptide receptor signaling
+
+[Term]
+id: MBCO:0000699
+name: Cut-and-paste transposition
+level: 4
+part_of: MBCO:0000638 ! Transpositional recombination
+
+[Term]
+id: MBCO:0000700
+name: Cytosolic heme synthesis reactions
+level: 4
+part_of: MBCO:0000354 ! Heme synthesis
+
+[Term]
+id: MBCO:0000701
+name: Cytosolic protein acetylation
+level: 4
+part_of: MBCO:0000261 ! Cytosolic protein acetylation and deacetylation
+
+[Term]
+id: MBCO:0000702
+name: Cytosolic protein deacetylation
+level: 4
+part_of: MBCO:0000261 ! Cytosolic protein acetylation and deacetylation
+
+[Term]
+id: MBCO:0000703
+name: Cytosolic urea cycle reactions
+level: 4
+part_of: MBCO:0000653 ! Urea cycle
+
+[Term]
+id: MBCO:0000704
+name: De-novo synthesis of purines
+level: 4
+part_of: MBCO:0000556 ! Purine synthesis and salvage
+
+[Term]
+id: MBCO:0000705
+name: De-novo synthesis of pyrimidines
+level: 4
+part_of: MBCO:0000561 ! Pyrimidine synthesis and salvage
+
+[Term]
+id: MBCO:0000706
+name: Desmin dynamics
+level: 4
+part_of: MBCO:0000661 ! Vimentin-like intermediate filament dynamics
+
+[Term]
+id: MBCO:0000707
+name: DNA damage response
+level: 4
+part_of: MBCO:0000325 ! G2 M transition checkpoint
+
+[Term]
+id: MBCO:0000708
+name: DNA polymerase assembly
+level: 4
+part_of: MBCO:0000272 ! DNA replication initiation
+
+[Term]
+id: MBCO:0000709
+name: DNA replication fork assembly
+level: 4
+part_of: MBCO:0000272 ! DNA replication initiation
+
+[Term]
+id: MBCO:0000710
+name: Dolichol-mediated precursor oligosaccharide synthesis
+level: 4
+part_of: MBCO:0000550 ! Protein N-linked glycosylation in ER
+
+[Term]
+id: MBCO:0000711
+name: Electron transport chain for electrons from FADH
+level: 4
+part_of: MBCO:0000279 ! Electron transport chain
+
+[Term]
+id: MBCO:0000712
+name: Electron transport chain for electrons from NADH
+level: 4
+part_of: MBCO:0000279 ! Electron transport chain
+
+[Term]
+id: MBCO:0000713
+name: Endocytic clathrin coated vesicle organization
+level: 4
+part_of: MBCO:0000242 ! Clathrin-mediated endocytosis
+
+[Term]
+id: MBCO:0000714
+name: Endoplasmic reticulum three way junctions stabalization
+level: 4
+part_of: MBCO:0000282 ! Endoplasmic reticulum tubulus maintenance
+
+[Term]
+id: MBCO:0000715
+name: Endoplasmic reticulum tubular membrane shaping
+level: 4
+part_of: MBCO:0000282 ! Endoplasmic reticulum tubulus maintenance
+
+[Term]
+id: MBCO:0000716
+name: Epoxide metabolism
+level: 4
+part_of: MBCO:0000277 ! Eicosanoid metabolism
+
+[Term]
+id: MBCO:0000717
+name: Erk signaling pathway
+level: 4
+part_of: MBCO:0000435 ! MAPK signaling pathway
+
+[Term]
+id: MBCO:0000718
+name: Extracellular triacylglycerol hydrolysis
+level: 4
+part_of: MBCO:0000640 ! Triacylglycerol hydrolysis and mobilization
+
+[Term]
+id: MBCO:0000719
+name: Extrinsic coagulation pathway
+level: 4
+part_of: MBCO:0000245 ! Coagulation cascade
+
+[Term]
+id: MBCO:0000720
+name: Fructose metabolism
+level: 4
+part_of: MBCO:0000324 ! Fructose and mannose metabolism
+
+[Term]
+id: MBCO:0000721
+name: Ganglioside biosynthesis
+level: 4
+part_of: MBCO:0000603 ! Sphingolipid metabolism
+
+[Term]
+id: MBCO:0000722
+name: Glial fibrillary acidic protein dynamics
+level: 4
+part_of: MBCO:0000661 ! Vimentin-like intermediate filament dynamics
+
+[Term]
+id: MBCO:0000723
+name: Gluconeogenesis
+level: 4
+part_of: MBCO:0000344 ! Glycolysis and Gluconeogenesis
+
+[Term]
+id: MBCO:0000724
+name: Glycogen synthesis
+level: 4
+part_of: MBCO:0000343 ! Glycogen synthesis and glycogenolysis
+
+[Term]
+id: MBCO:0000725
+name: Glycogenolysis
+level: 4
+part_of: MBCO:0000343 ! Glycogen synthesis and glycogenolysis
+
+[Term]
+id: MBCO:0000726
+name: Glycolysis
+level: 4
+part_of: MBCO:0000344 ! Glycolysis and Gluconeogenesis
+
+[Term]
+id: MBCO:0000727
+name: Hemoglobin synthesis
+level: 4
+part_of: MBCO:0000356 ! Hemoglobin and myoglobin synthesis
+
+[Term]
+id: MBCO:0000728
+name: Histone acetylation
+level: 4
+part_of: MBCO:0000363 ! Histone acetylation and deactylation
+
+[Term]
+id: MBCO:0000729
+name: Histone deacetylation
+level: 4
+part_of: MBCO:0000363 ! Histone acetylation and deactylation
+
+[Term]
+id: MBCO:0000730
+name: Histone demethylation
+level: 4
+part_of: MBCO:0000364 ! Histone methylation and demethylation
+
+[Term]
+id: MBCO:0000731
+name: Histone dephosphorylation
+level: 4
+part_of: MBCO:0000365 ! Histone phosphorylation and dephosphorylation
+
+[Term]
+id: MBCO:0000732
+name: Histone deubiquitination
+level: 4
+part_of: MBCO:0000366 ! Histone ubiquitination and deubiquitination
+
+[Term]
+id: MBCO:0000733
+name: Histone methylation
+level: 4
+part_of: MBCO:0000364 ! Histone methylation and demethylation
+
+[Term]
+id: MBCO:0000734
+name: Histone phosphorylation
+level: 4
+part_of: MBCO:0000365 ! Histone phosphorylation and dephosphorylation
+
+[Term]
+id: MBCO:0000735
+name: Histone ubiquitination
+level: 4
+part_of: MBCO:0000366 ! Histone ubiquitination and deubiquitination
+
+[Term]
+id: MBCO:0000736
+name: HPETE, HETE and EET metabolism
+level: 4
+part_of: MBCO:0000277 ! Eicosanoid metabolism
+
+[Term]
+id: MBCO:0000737
+name: Intracellular triacylglycerol mobilization
+level: 4
+part_of: MBCO:0000640 ! Triacylglycerol hydrolysis and mobilization
+
+[Term]
+id: MBCO:0000738
+name: Intrinsic coagulation pathway
+level: 4
+part_of: MBCO:0000245 ! Coagulation cascade
+
+[Term]
+id: MBCO:0000739
+name: Isoleucine catabolism
+level: 4
+part_of: MBCO:0000438 ! Metabolism of branched-chain amino acids
+
+[Term]
+id: MBCO:0000740
+name: Ketogenesis
+level: 4
+part_of: MBCO:0000412 ! Ketone body metabolism
+
+[Term]
+id: MBCO:0000741
+name: Ketone utilization
+level: 4
+part_of: MBCO:0000412 ! Ketone body metabolism
+
+[Term]
+id: MBCO:0000742
+name: Leucine catabolism
+level: 4
+part_of: MBCO:0000438 ! Metabolism of branched-chain amino acids
+
+[Term]
+id: MBCO:0000743
+name: Leukotriene metabolism
+level: 4
+part_of: MBCO:0000277 ! Eicosanoid metabolism
+
+[Term]
+id: MBCO:0000744
+name: Mannose metabolism
+level: 4
+part_of: MBCO:0000324 ! Fructose and mannose metabolism
+
+[Term]
+id: MBCO:0000745
+name: Membrane curvature generation and sensing during endocytosis
+level: 4
+part_of: MBCO:0000242 ! Clathrin-mediated endocytosis
+
+[Term]
+id: MBCO:0000746
+name: Microtubule catastrophe
+level: 4
+part_of: MBCO:0000444 ! Microtubule depolymerization, severing and catastrophe
+
+[Term]
+id: MBCO:0000747
+name: Microtubule depolymerization
+level: 4
+part_of: MBCO:0000444 ! Microtubule depolymerization, severing and catastrophe
+
+[Term]
+id: MBCO:0000748
+name: Microtubule nucleation
+level: 4
+part_of: MBCO:0000446 ! Microtubule nucleation and rescue
+
+[Term]
+id: MBCO:0000749
+name: Microtubule rescue
+level: 4
+part_of: MBCO:0000446 ! Microtubule nucleation and rescue
+
+[Term]
+id: MBCO:0000750
+name: Microtubule severing
+level: 4
+part_of: MBCO:0000444 ! Microtubule depolymerization, severing and catastrophe
+
+[Term]
+id: MBCO:0000751
+name: Mitochondrial beta-oxidation
+level: 4
+part_of: MBCO:0000193 ! Beta-oxidation
+
+[Term]
+id: MBCO:0000752
+name: Mitochondrial heme synthesis reactions
+level: 4
+part_of: MBCO:0000354 ! Heme synthesis
+
+[Term]
+id: MBCO:0000753
+name: Mitochondrial urea cycle reactions
+level: 4
+part_of: MBCO:0000653 ! Urea cycle
+
+[Term]
+id: MBCO:0000754
+name: Myoglobin synthesis
+level: 4
+part_of: MBCO:0000356 ! Hemoglobin and myoglobin synthesis
+
+[Term]
+id: MBCO:0000755
+name: Neurofilament dynamics
+level: 4
+part_of: MBCO:0000188 ! Axonal intermediate filament dynamics
+
+[Term]
+id: MBCO:0000756
+name: Neutral and basic keratin dynamics
+level: 4
+part_of: MBCO:0000287 ! Epithelial intermediate filament dynamics
+
+[Term]
+id: MBCO:0000757
+name: Peripherin dynamics
+level: 4
+part_of: MBCO:0000661 ! Vimentin-like intermediate filament dynamics
+
+[Term]
+id: MBCO:0000758
+name: Peroxisomal beta-oxidation
+level: 4
+part_of: MBCO:0000193 ! Beta-oxidation
+
+[Term]
+id: MBCO:0000759
+name: Phosphatidylcholine and phosphatidylethanolamine biosynthesis via Kennedy pathway
+level: 4
+part_of: MBCO:0000518 ! Phosphoglyceride biosynthesis
+
+[Term]
+id: MBCO:0000760
+name: Phosphatidylcholine, phoshpatidylethanolamine and phosphatidylserine interconversion
+level: 4
+part_of: MBCO:0000518 ! Phosphoglyceride biosynthesis
+
+[Term]
+id: MBCO:0000761
+name: Phosphatidylinositol biosynthesis
+level: 4
+part_of: MBCO:0000518 ! Phosphoglyceride biosynthesis
+
+[Term]
+id: MBCO:0000762
+name: Precursor oligosaccharide transfer from dolichol to protein
+level: 4
+part_of: MBCO:0000550 ! Protein N-linked glycosylation in ER
+
+[Term]
+id: MBCO:0000763
+name: Pre-mRNA 3-end-cleavage
+level: 4
+part_of: MBCO:0000526 ! Pre-mRNA 3-end-cleavage and polyadenylation
+
+[Term]
+id: MBCO:0000764
+name: Pre-mRNA polyadenylation
+level: 4
+part_of: MBCO:0000526 ! Pre-mRNA 3-end-cleavage and polyadenylation
+
+[Term]
+id: MBCO:0000765
+name: Prereplicative complex formation
+level: 4
+part_of: MBCO:0000272 ! DNA replication initiation
+
+[Term]
+id: MBCO:0000766
+name: Prostanoid metabolism
+level: 4
+part_of: MBCO:0000277 ! Eicosanoid metabolism
+
+[Term]
+id: MBCO:0000767
+name: Purine salvage
+level: 4
+part_of: MBCO:0000556 ! Purine synthesis and salvage
+
+[Term]
+id: MBCO:0000768
+name: Pyrimidine salvage
+level: 4
+part_of: MBCO:0000561 ! Pyrimidine synthesis and salvage
+
+[Term]
+id: MBCO:0000769
+name: Replicative transposition
+level: 4
+part_of: MBCO:0000638 ! Transpositional recombination
+
+[Term]
+id: MBCO:0000770
+name: RNA cleavage by exosome
+level: 4
+part_of: MBCO:0000581 ! RNA 3' degradation by exosome
+
+[Term]
+id: MBCO:0000771
+name: SAPK-JNK signaling pathway
+level: 4
+part_of: MBCO:0000435 ! MAPK signaling pathway
+
+[Term]
+id: MBCO:0000772
+name: Sphingomyelin metabolism
+level: 4
+part_of: MBCO:0000603 ! Sphingolipid metabolism
+
+[Term]
+id: MBCO:0000773
+name: Structural organization of exosome core
+level: 4
+part_of: MBCO:0000581 ! RNA 3' degradation by exosome
+
+[Term]
+id: MBCO:0000774
+name: Transcription regulation by Non-vesicular lipid transport modification
+level: 4
+part_of: MBCO:0000627 ! Transcription regulation by chromatin remodeling
+
+[Term]
+id: MBCO:0000775
+name: Transcription regulation by nucleosome remodeling
+level: 4
+part_of: MBCO:0000627 ! Transcription regulation by chromatin remodeling
+
+[Term]
+id: MBCO:0000776
+name: Transcription regulation by nucleosome removal
+level: 4
+part_of: MBCO:0000627 ! Transcription regulation by chromatin remodeling
+
+[Term]
+id: MBCO:0000777
+name: Triacylglycerol biosynthesis
+level: 4
+part_of: MBCO:0000641 ! Triacylglycerol metabolism
+
+[Term]
+id: MBCO:0000778
+name: Triacylglycerol catabolism
+level: 4
+part_of: MBCO:0000641 ! Triacylglycerol metabolism
+
+[Term]
+id: MBCO:0000779
+name: Triacylglycerol transport by chylomicrons
+level: 4
+part_of: MBCO:0000642 ! Triacylglycerol transport by lipoproteins
+
+[Term]
+id: MBCO:0000780
+name: Triacylglycerol transport by VLDL
+level: 4
+part_of: MBCO:0000642 ! Triacylglycerol transport by lipoproteins
+
+[Term]
+id: MBCO:0000781
+name: Ubiquitin activation
+level: 4
+part_of: MBCO:0000553 ! Protein polyubiquitination
+
+[Term]
+id: MBCO:0000782
+name: Ubiquitin conjugation
+level: 4
+part_of: MBCO:0000553 ! Protein polyubiquitination
+
+[Term]
+id: MBCO:0000783
+name: Ubiquitin ligation
+level: 4
+part_of: MBCO:0000553 ! Protein polyubiquitination
+
+[Term]
+id: MBCO:0000784
+name: Valine catabolism
+level: 4
+part_of: MBCO:0000438 ! Metabolism of branched-chain amino acids
+
+[Term]
+id: MBCO:0000785
+name: Vesicle biogenesis at cis-Golgi membrane
+level: 4
+part_of: MBCO:0000574 ! Retrograde vesicle traffic from Golgi to ER
+
+[Term]
+id: MBCO:0000786
+name: Vesicle biogenesis at ER membrane
+level: 4
+part_of: MBCO:0000180 ! Anterograde vesicle traffic from ER to Golgi
+
+[Term]
+id: MBCO:0000787
+name: Vesicle traffic from TGN to lysosome-related organelles
+level: 4
+part_of: MBCO:0000243 ! Clathrin-mediated vesicle traffic from TGN to endosomal lysosomal system
+
+[Term]
+id: MBCO:0000788
+name: Vimentin dynamics
+level: 4
+part_of: MBCO:0000661 ! Vimentin-like intermediate filament dynamics
+

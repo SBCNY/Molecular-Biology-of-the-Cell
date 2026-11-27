@@ -1,0 +1,34 @@
+Custom ontologies:
+
+To upload any ontology that cannot explicitly be selected within the application, select 'Custom 1'
+or 'Custom 2' in the ontology list box within the 'Ontology / Species'-menu. The appliation will
+search the 'Other_datasets'-directory for two files.
+
+The first file is a tab-delimiterd file that starts with 'Custom_1[or '2']_scpGeneAssociations_'
+and ends with the selected species plus the extension '.txt' (e.g.,
+'Custom_1_scpGeneAssociations_human.txt). Species can be specified using the following terms:
+'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish', 'frog', 'c_elegans' or 'fly'.
+
+This gene-pathway annotation file should contain the two columns 'Scp' and 'Symbol' listing the pathway
+names and annotated NCBI official gene symbols, respectively. Those column names are case sensitive.
+'Scp' is an abbreviation for 'Subcellular process', i.e. pathway. While pathways are case-sensitive, gene
+symbols will always be transformed into upper case letters, for simplicity.
+
+If a species is selected in the 'Ontology / Species'-menu without supplying a species-selective gene-pathway
+annotation file, the application will search for the human gene-pathway annotation file and map human genes
+to the species genes using NCBI and, if available for the species of interest, MGI orthologues. For download
+instructions of the necessary databases see 'Download_all_datasets_linux.txt' or '...windows.txt'.
+
+Additional ontology background genes that are not part of any pathway (but extend the ontology background
+gene set beyond those genes annotated to pathways) can be added under the SCP name 'Background genes'.
+The 'Background genes' gene set will not be tested for enrichment of user-supplied gene lists. 
+
+A second tab-delimited file, 'Custom_1_scpHierarchy.txt' or 'Custom_2_scpHierarchy.txt', needs to be
+generated that contains the columns 'Child_scp' and 'Parent_scp'. This file allows specification
+of hierarchical parent-child relationships. SCP names in both files are case-sensitive. It is not
+necessary to add parent-child relationships for all SCPs specified in the related custom scpGeneAssociations
+file or to add any at all. The only requirement is that the custom scp hierarchy file has a headline
+that contains both column names, even if no rows will follow.
+
+Please note that parent pathways will NOT be populated with the genes of their child pathways, in case of
+the custom ontologies.

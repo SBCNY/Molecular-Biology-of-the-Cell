@@ -1,0 +1,1145 @@
+Integration_group	Center	Dataset_name	Dataset_color	NCBI_official_gene_symbol	Minus_log10_pval_or_adj_pval	Significance_value_type	Log2_fold_change	Fold_change_value_type
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PDLIM2	4.4294570601181	Minus_log10_pvalue	5.12610876902271	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CLIC5	3.91864549002537	Minus_log10_pvalue	4.78659636189081	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PODXL	3.84863627956971	Minus_log10_pvalue	5.41953889151378	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TLN1	3.6496182240549	Minus_log10_pvalue	1.70188777128893	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARRB1	3.52083946127806	Minus_log10_pvalue	4.36923380989841	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARPC4	3.49026938484482	Minus_log10_pvalue	1.15200309330078	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ZYX	3.48757844747341	Minus_log10_pvalue	3.01559685509756	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARPC1B	3.46098415433219	Minus_log10_pvalue	2.29956028183637	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NES	3.46077581446664	Minus_log10_pvalue	9	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PECAM1	3.42121070362814	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PITPNB	3.39918495931339	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD109	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GNG5	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TMEM150C	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FERMT2	3.34765114277856	Minus_log10_pvalue	3.05062607311972	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MAPK1	3.32361645014513	Minus_log10_pvalue	1.85561009064584	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DAG1	3.32092295149001	Minus_log10_pvalue	4.50250034074134	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MAP4	3.23523897321281	Minus_log10_pvalue	1.08658768485602	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CRIP2	3.15507633320073	Minus_log10_pvalue	1.62593428173707	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RRAS	3.14851538775531	Minus_log10_pvalue	2.97862634917513	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RSU1	3.1393667735447	Minus_log10_pvalue	2	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LPP	3.06634874379356	Minus_log10_pvalue	1.55849028913733	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NDRG2	3.0098921198436	Minus_log10_pvalue	1.71369581484336	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	VCL	2.99979549545606	Minus_log10_pvalue	1.37775648332024	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ITGB1	2.94478073516755	Minus_log10_pvalue	3.12199052438836	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ANXA2	2.93842803097142	Minus_log10_pvalue	1.60522133950378	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CAP1	2.90766505936385	Minus_log10_pvalue	0.719412700575045	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PDLIM1	2.88579715076399	Minus_log10_pvalue	1.72869797805824	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SLC9A3R2	2.87441789859869	Minus_log10_pvalue	5.8073549220576	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARL8B	2.87382571761318	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EML1	2.87382571761318	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CLIC2	2.87250807429814	Minus_log10_pvalue	3.26303440583379	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PSMA6	2.86897673345115	Minus_log10_pvalue	0.787006276600225	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CAPN2	2.84407851531912	Minus_log10_pvalue	2.53841991490238	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LGALS1	2.74231950560144	Minus_log10_pvalue	1.36017556418561	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DPYSL3	2.7345804824583	Minus_log10_pvalue	4.55019708264845	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CNN3	2.71890001572397	Minus_log10_pvalue	1.14585086617214	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EHD3	2.70805846285719	Minus_log10_pvalue	6.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NID1	2.69734033568509	Minus_log10_pvalue	5.5025003404231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NPHS2	2.6824928344268	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD47	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TSPAN9	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PCMT1	2.63019212406877	Minus_log10_pvalue	2	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ACTB	2.61887986308445	Minus_log10_pvalue	0.474642104834495	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TJP1	2.61422040064447	Minus_log10_pvalue	5.68929916053589	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EHD4	2.6019333695176	Minus_log10_pvalue	2.06413033748244	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PDLIM7	2.60113558116313	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ICAM1	2.60005782563532	Minus_log10_pvalue	3.88752527074159	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SLK	2.59023420521736	Minus_log10_pvalue	4.30116953440694	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TPPP3	2.57676953149918	Minus_log10_pvalue	5.71881824754726	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PDLIM5	2.55745783498346	Minus_log10_pvalue	2.54596836910529	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD34	2.54862826042328	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CSRP2	2.53592497382063	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ANXA1	2.5294098888086	Minus_log10_pvalue	2.5081469036985	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	WARS	2.52055570327965	Minus_log10_pvalue	1.33014860152839	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ACTN4	2.50221146467907	Minus_log10_pvalue	1.03017814883158	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARF6	2.47477282757481	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TOM1L2	2.46252810161108	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SRI	2.41851456489726	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EML2	2.41350046318485	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	COX20	2.40342786327993	Minus_log10_pvalue	0.125530882204084	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HBE1	2.40342786327993	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CHMP2A	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GNG11	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MARCKSL1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PLPP1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SCAMP4	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ITGA3	2.3951499620347	Minus_log10_pvalue	6.88264304936184	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LASP1	2.38327931285813	Minus_log10_pvalue	1.13940305684575	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYH9	2.38036601709782	Minus_log10_pvalue	2.03408099528521	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARHGDIB	2.36458280989292	Minus_log10_pvalue	1.97654102718784	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A10	2.32769169883996	Minus_log10_pvalue	1.86875546670457	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	INF2	2.30162947502836	Minus_log10_pvalue	5.95419631038688	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EIF4H	2.28732479694554	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HSPA1B	2.28642798183192	Minus_log10_pvalue	0.393606118470571	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	AIF1	2.28249267927537	Minus_log10_pvalue	3.48542682717024	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	AHNAK	2.27536406111251	Minus_log10_pvalue	1.7751962541219	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	COPS5	2.26834017425738	Minus_log10_pvalue	1.69187770474072	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	VAMP2	2.23121121657203	Minus_log10_pvalue	2.24100809942056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	OSTF1	2.23121121657203	Minus_log10_pvalue	2.47393118844783	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MAP1B	2.22677850514248	Minus_log10_pvalue	6.6724253419715	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CNN2	2.20436262995458	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EIF3I	2.2026589054717	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GOLIM4	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SMCO3	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RAB14	2.19769659321438	Minus_log10_pvalue	1.03476541829808	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A11	2.18839463478928	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SNCA	2.18839463478928	Minus_log10_pvalue	5.64385618977472	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	IQGAP2	2.1835588379328	Minus_log10_pvalue	2.7983661388033	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TMOD3	2.17905824310266	Minus_log10_pvalue	1.53433642758249	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PARVA	2.17320286008129	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ATP2B4	2.14584875254292	Minus_log10_pvalue	3.93859945502223	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NQO1	2.12819550247481	Minus_log10_pvalue	2.65207669664527	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EVA1B	2.1171695714819	Minus_log10_pvalue	5.08746284125034	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYL12A	2.11522003764081	Minus_log10_pvalue	1.82491329350008	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A8	2.09608991694856	Minus_log10_pvalue	1.88452278245984	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FSCN1	2.09263798390165	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FHL2	2.09263798390165	Minus_log10_pvalue	3.20645087750349	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	YAP1	2.09263798390165	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PTPRO	2.09049194904317	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SYNPO	2.08501571369667	Minus_log10_pvalue	6.97727992349992	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DCTD	2.06975093510536	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DBNL	2.04201149600782	Minus_log10_pvalue	1.93586966276062	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PTPA	2.0376660913226	Minus_log10_pvalue	1.33441903882182	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CRK	2.03192921964831	Minus_log10_pvalue	2.25375659217598	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	BCAM	2.01739670390143	Minus_log10_pvalue	2.63471553596716	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	AGRN	2.01383647983774	Minus_log10_pvalue	4.37345839571727	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FHL1	2.01126954404386	Minus_log10_pvalue	1.36257007914426	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FGF1	1.99917141874714	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TNS2	1.99169895575311	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARPC3	1.96457094227738	Minus_log10_pvalue	1.27130202154947	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RAC1	1.96410707466359	Minus_log10_pvalue	0.721698837497548	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ELOC	1.96410707466359	Minus_log10_pvalue	1.14438990947257	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NAE1	1.96410707466359	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A6	1.95339274518592	Minus_log10_pvalue	1.22948184599547	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARPC5	1.93498112238134	Minus_log10_pvalue	1.13326653079982	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A4	1.92815100769029	Minus_log10_pvalue	2.07800251192534	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ENPEP	1.89945118946157	Minus_log10_pvalue	1.42576390577572	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HBB	1.89916280464467	Minus_log10_pvalue	0.795986107759263	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ITGAV	1.88103841522941	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SERPINB6	1.87454921731147	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD151	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GNG2	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LMNB1	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MXRA7	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PLPP3	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PYGL	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RHOG	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EPB41L5	1.87454921731147	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RAN	1.86739695004928	Minus_log10_pvalue	0.64091890678926	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CORO1B	1.85855207666661	Minus_log10_pvalue	1.56187888742196	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PALLD	1.85855207666661	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CLDN5	1.85855207666661	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYLK	1.85658086926893	Minus_log10_pvalue	2.55942740858826	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A9	1.83868696195847	Minus_log10_pvalue	1.36838740608162	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	KHSRP	1.83263454099913	Minus_log10_pvalue	1.28379296618093	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD81	1.83263454099913	Minus_log10_pvalue	1.67807190511264	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GDI1	1.83143001243991	Minus_log10_pvalue	1.23606735850573	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	BANF1	1.80132653110701	Minus_log10_pvalue	2.84799690655495	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ITGA1	1.79340695202472	Minus_log10_pvalue	2.40053792958373	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HSPA12A	1.79089274342438	Minus_log10_pvalue	1.70853718587199	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	APPL1	1.76578718364432	Minus_log10_pvalue	5.39231742277876	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CSRP1	1.75451430369771	Minus_log10_pvalue	1.05771549781386	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CDH13	1.73554503523573	Minus_log10_pvalue	3.0703893278914	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FBLIM1	1.73336369926961	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LIMS1	1.73053873055992	Minus_log10_pvalue	3.66296501310209	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LANCL1	1.70591431192837	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	AIP	1.69250195107266	Minus_log10_pvalue	1.89308479597251	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ZNF185	1.69250195107266	Minus_log10_pvalue	5.90689059560852	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DPYSL2	1.67296194892357	Minus_log10_pvalue	1.21197580564649	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARPC2	1.6698536232943	Minus_log10_pvalue	1.11783649032215	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CAST	1.66675415990243	Minus_log10_pvalue	1.11103131238874	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	UBE2L3	1.66534666000056	Minus_log10_pvalue	1.05658352836637	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HBA1	1.65110830125332	Minus_log10_pvalue	0.674013688558604	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ILK	1.64382842032506	Minus_log10_pvalue	5.4594316186373	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	B2M	1.634552432584	Minus_log10_pvalue	0.962525294790148	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CAPNS1	1.60890310420599	Minus_log10_pvalue	2.41503749918868	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NPHS1	1.6070067198955	Minus_log10_pvalue	4.27301849415768	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SERPINH1	1.60103758102324	Minus_log10_pvalue	1.93288580407276	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GSTO1	1.59594577166503	Minus_log10_pvalue	0.454258808910736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CYB5R3	1.59475540269046	Minus_log10_pvalue	1.14201900505276	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GPD1L	1.57659215623423	Minus_log10_pvalue	0.703018262469578	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SERPINB9	1.57659215623423	Minus_log10_pvalue	6	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	YBX3	1.55761210099015	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SKP1	1.55619974321586	Minus_log10_pvalue	1.16046467242104	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NT5C	1.54501481697305	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CACNA2D1	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PPM1F	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SYNPO2	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TNKS1BP1	1.54088336174381	Minus_log10_pvalue	5.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ACTR2	1.53490005264665	Minus_log10_pvalue	0.844721774243387	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SNCG	1.53092495005265	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CAPZB	1.52537819518121	Minus_log10_pvalue	0.757143476043724	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PAK2	1.51520883157064	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RTN3	1.50006818719333	Minus_log10_pvalue	2.28950661722777	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARHGAP1	1.4970595551648	Minus_log10_pvalue	1.40053792958373	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ELOB	1.47197862447465	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYL6	1.4716717303368	Minus_log10_pvalue	0.784732012906233	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ITGA8	1.47132951682303	Minus_log10_pvalue	5	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SH3BGRL2	1.47037701510161	Minus_log10_pvalue	1.55942740858826	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ATP2A2	1.47037701510161	Minus_log10_pvalue	1.79354912267129	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MAPRE1	1.46884353855592	Minus_log10_pvalue	1.91073266190291	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	COA6	1.452653611847	Minus_log10_pvalue	0.082462159630925	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PRMT5	1.452653611847	Minus_log10_pvalue	0.106915204019562	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RTCA	1.452653611847	Minus_log10_pvalue	1.09310940416606	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYO1C	1.44962455001546	Minus_log10_pvalue	5.16992500144231	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	AKAP12	1.4456914035064	Minus_log10_pvalue	1.56352532986881	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PGM2	1.44557692804802	Minus_log10_pvalue	1.14937762391997	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PLCG2	1.4380540076057	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ACTR3	1.42180975478538	Minus_log10_pvalue	1.35147237054037	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PON2	1.40517994082266	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GORASP2	1.39828188953052	Minus_log10_pvalue	0.347923303729456	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	GLUD2	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MMAB	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MUC16	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NUDT6	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	OSGEP	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SEPHS1	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NPLOC4	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SLTM	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	BST2	1.39828188953052	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ALDOC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	APOL2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CARS	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	COL4A5	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	EIF3H	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	FLNC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MCTS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MPDZ	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NID2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RBMS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RERG	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	S100A16	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SLC29A1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	UBA6	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SNX2	1.38732930762399	Minus_log10_pvalue	0.773229138076239	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PLIN3	1.38732930762399	Minus_log10_pvalue	1.7198920807815	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TGFB1I1	1.38676241553395	Minus_log10_pvalue	3.03952836414765	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARHGDIA	1.37751189830116	Minus_log10_pvalue	0.442782489792663	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MYO1B	1.36501918988401	Minus_log10_pvalue	5	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MACROD1	1.35571680939788	Minus_log10_pvalue	1.61005348170886	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	NSFL1C	1.35467793453645	Minus_log10_pvalue	0.904842767320334	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DCTN2	1.3540130336532	Minus_log10_pvalue	1.03316686400078	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	HBD	1.33700718417489	Minus_log10_pvalue	0.672835257153068	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PEA15	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	SYNGR2	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	F3	1.33700718417489	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TAX1BP3	1.33561833131704	Minus_log10_pvalue	1.55254102286484	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	TSC22D1	1.33561833131704	Minus_log10_pvalue	1.63742992056377	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ATL3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	COPS6	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	MACF1	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RBM3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	STAT3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	ARL3	1.31308812163772	Minus_log10_pvalue	1.27563444286433	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	UBA2	1.31308812163772	Minus_log10_pvalue	2.67807190511264	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	CD2AP	1.30798581237215	Minus_log10_pvalue	1.41503749945918	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	RHOC	1.30333296153829	Minus_log10_pvalue	1.54748779526453	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	BROX	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	DCTN3	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	PPBP	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Endothelial glomerula	NSC Proteomics	NSC Proteomics - Glom - EC	Blue	LMO7	1.30333296153829	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PDLIM2	4.4294570601181	Minus_log10_pvalue	5.12610876902271	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CLIC5	3.91864549002537	Minus_log10_pvalue	4.78659636189081	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PODXL	3.84863627956971	Minus_log10_pvalue	5.41953889151378	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TLN1	3.6496182240549	Minus_log10_pvalue	1.70188777128893	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARRB1	3.52083946127806	Minus_log10_pvalue	4.36923380989841	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARPC4	3.49026938484482	Minus_log10_pvalue	1.15200309330078	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ZYX	3.48757844747341	Minus_log10_pvalue	3.01559685509756	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARPC1B	3.46098415433219	Minus_log10_pvalue	2.29956028183637	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NES	3.46077581446664	Minus_log10_pvalue	9	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PECAM1	3.42121070362814	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PITPNB	3.39918495931339	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD109	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GNG5	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TMEM150C	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FERMT2	3.34765114277856	Minus_log10_pvalue	3.05062607311972	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MAPK1	3.32361645014513	Minus_log10_pvalue	1.85561009064584	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DAG1	3.32092295149001	Minus_log10_pvalue	4.50250034074134	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MAP4	3.23523897321281	Minus_log10_pvalue	1.08658768485602	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CRIP2	3.15507633320073	Minus_log10_pvalue	1.62593428173707	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RRAS	3.14851538775531	Minus_log10_pvalue	2.97862634917513	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RSU1	3.1393667735447	Minus_log10_pvalue	2	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LPP	3.06634874379356	Minus_log10_pvalue	1.55849028913733	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NDRG2	3.0098921198436	Minus_log10_pvalue	1.71369581484336	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	VCL	2.99979549545606	Minus_log10_pvalue	1.37775648332024	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ITGB1	2.94478073516755	Minus_log10_pvalue	3.12199052438836	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ANXA2	2.93842803097142	Minus_log10_pvalue	1.60522133950378	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CAP1	2.90766505936385	Minus_log10_pvalue	0.719412700575045	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PDLIM1	2.88579715076399	Minus_log10_pvalue	1.72869797805824	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SLC9A3R2	2.87441789859869	Minus_log10_pvalue	5.8073549220576	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARL8B	2.87382571761318	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EML1	2.87382571761318	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CLIC2	2.87250807429814	Minus_log10_pvalue	3.26303440583379	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PSMA6	2.86897673345115	Minus_log10_pvalue	0.787006276600225	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CAPN2	2.84407851531912	Minus_log10_pvalue	2.53841991490238	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LGALS1	2.74231950560144	Minus_log10_pvalue	1.36017556418561	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DPYSL3	2.7345804824583	Minus_log10_pvalue	4.55019708264845	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CNN3	2.71890001572397	Minus_log10_pvalue	1.14585086617214	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EHD3	2.70805846285719	Minus_log10_pvalue	6.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NID1	2.69734033568509	Minus_log10_pvalue	5.5025003404231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NPHS2	2.6824928344268	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD47	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TSPAN9	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PCMT1	2.63019212406877	Minus_log10_pvalue	2	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ACTB	2.61887986308445	Minus_log10_pvalue	0.474642104834495	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TJP1	2.61422040064447	Minus_log10_pvalue	5.68929916053589	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EHD4	2.6019333695176	Minus_log10_pvalue	2.06413033748244	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PDLIM7	2.60113558116313	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ICAM1	2.60005782563532	Minus_log10_pvalue	3.88752527074159	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SLK	2.59023420521736	Minus_log10_pvalue	4.30116953440694	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TPPP3	2.57676953149918	Minus_log10_pvalue	5.71881824754726	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PDLIM5	2.55745783498346	Minus_log10_pvalue	2.54596836910529	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD34	2.54862826042328	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CSRP2	2.53592497382063	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ANXA1	2.5294098888086	Minus_log10_pvalue	2.5081469036985	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	WARS	2.52055570327965	Minus_log10_pvalue	1.33014860152839	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ACTN4	2.50221146467907	Minus_log10_pvalue	1.03017814883158	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARF6	2.47477282757481	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TOM1L2	2.46252810161108	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SRI	2.41851456489726	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EML2	2.41350046318485	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	COX20	2.40342786327993	Minus_log10_pvalue	0.125530882204084	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HBE1	2.40342786327993	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CHMP2A	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GNG11	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MARCKSL1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PLPP1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SCAMP4	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ITGA3	2.3951499620347	Minus_log10_pvalue	6.88264304936184	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LASP1	2.38327931285813	Minus_log10_pvalue	1.13940305684575	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYH9	2.38036601709782	Minus_log10_pvalue	2.03408099528521	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARHGDIB	2.36458280989292	Minus_log10_pvalue	1.97654102718784	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A10	2.32769169883996	Minus_log10_pvalue	1.86875546670457	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	INF2	2.30162947502836	Minus_log10_pvalue	5.95419631038688	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EIF4H	2.28732479694554	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HSPA1B	2.28642798183192	Minus_log10_pvalue	0.393606118470571	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	AIF1	2.28249267927537	Minus_log10_pvalue	3.48542682717024	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	AHNAK	2.27536406111251	Minus_log10_pvalue	1.7751962541219	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	COPS5	2.26834017425738	Minus_log10_pvalue	1.69187770474072	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	VAMP2	2.23121121657203	Minus_log10_pvalue	2.24100809942056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	OSTF1	2.23121121657203	Minus_log10_pvalue	2.47393118844783	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MAP1B	2.22677850514248	Minus_log10_pvalue	6.6724253419715	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CNN2	2.20436262995458	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EIF3I	2.2026589054717	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GOLIM4	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SMCO3	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RAB14	2.19769659321438	Minus_log10_pvalue	1.03476541829808	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A11	2.18839463478928	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SNCA	2.18839463478928	Minus_log10_pvalue	5.64385618977472	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	IQGAP2	2.1835588379328	Minus_log10_pvalue	2.7983661388033	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TMOD3	2.17905824310266	Minus_log10_pvalue	1.53433642758249	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PARVA	2.17320286008129	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ATP2B4	2.14584875254292	Minus_log10_pvalue	3.93859945502223	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NQO1	2.12819550247481	Minus_log10_pvalue	2.65207669664527	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EVA1B	2.1171695714819	Minus_log10_pvalue	5.08746284125034	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYL12A	2.11522003764081	Minus_log10_pvalue	1.82491329350008	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A8	2.09608991694856	Minus_log10_pvalue	1.88452278245984	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FSCN1	2.09263798390165	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FHL2	2.09263798390165	Minus_log10_pvalue	3.20645087750349	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	YAP1	2.09263798390165	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PTPRO	2.09049194904317	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SYNPO	2.08501571369667	Minus_log10_pvalue	6.97727992349992	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DCTD	2.06975093510536	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DBNL	2.04201149600782	Minus_log10_pvalue	1.93586966276062	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PTPA	2.0376660913226	Minus_log10_pvalue	1.33441903882182	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CRK	2.03192921964831	Minus_log10_pvalue	2.25375659217598	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	BCAM	2.01739670390143	Minus_log10_pvalue	2.63471553596716	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	AGRN	2.01383647983774	Minus_log10_pvalue	4.37345839571727	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FHL1	2.01126954404386	Minus_log10_pvalue	1.36257007914426	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FGF1	1.99917141874714	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TNS2	1.99169895575311	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARPC3	1.96457094227738	Minus_log10_pvalue	1.27130202154947	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RAC1	1.96410707466359	Minus_log10_pvalue	0.721698837497548	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ELOC	1.96410707466359	Minus_log10_pvalue	1.14438990947257	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NAE1	1.96410707466359	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A6	1.95339274518592	Minus_log10_pvalue	1.22948184599547	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARPC5	1.93498112238134	Minus_log10_pvalue	1.13326653079982	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A4	1.92815100769029	Minus_log10_pvalue	2.07800251192534	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ENPEP	1.89945118946157	Minus_log10_pvalue	1.42576390577572	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HBB	1.89916280464467	Minus_log10_pvalue	0.795986107759263	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ITGAV	1.88103841522941	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SERPINB6	1.87454921731147	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD151	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GNG2	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LMNB1	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MXRA7	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PLPP3	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PYGL	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RHOG	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EPB41L5	1.87454921731147	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RAN	1.86739695004928	Minus_log10_pvalue	0.64091890678926	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CORO1B	1.85855207666661	Minus_log10_pvalue	1.56187888742196	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PALLD	1.85855207666661	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CLDN5	1.85855207666661	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYLK	1.85658086926893	Minus_log10_pvalue	2.55942740858826	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A9	1.83868696195847	Minus_log10_pvalue	1.36838740608162	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	KHSRP	1.83263454099913	Minus_log10_pvalue	1.28379296618093	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD81	1.83263454099913	Minus_log10_pvalue	1.67807190511264	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GDI1	1.83143001243991	Minus_log10_pvalue	1.23606735850573	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	BANF1	1.80132653110701	Minus_log10_pvalue	2.84799690655495	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ITGA1	1.79340695202472	Minus_log10_pvalue	2.40053792958373	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HSPA12A	1.79089274342438	Minus_log10_pvalue	1.70853718587199	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	APPL1	1.76578718364432	Minus_log10_pvalue	5.39231742277876	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CSRP1	1.75451430369771	Minus_log10_pvalue	1.05771549781386	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CDH13	1.73554503523573	Minus_log10_pvalue	3.0703893278914	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FBLIM1	1.73336369926961	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LIMS1	1.73053873055992	Minus_log10_pvalue	3.66296501310209	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LANCL1	1.70591431192837	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	AIP	1.69250195107266	Minus_log10_pvalue	1.89308479597251	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ZNF185	1.69250195107266	Minus_log10_pvalue	5.90689059560852	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DPYSL2	1.67296194892357	Minus_log10_pvalue	1.21197580564649	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARPC2	1.6698536232943	Minus_log10_pvalue	1.11783649032215	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CAST	1.66675415990243	Minus_log10_pvalue	1.11103131238874	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	UBE2L3	1.66534666000056	Minus_log10_pvalue	1.05658352836637	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HBA1	1.65110830125332	Minus_log10_pvalue	0.674013688558604	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ILK	1.64382842032506	Minus_log10_pvalue	5.4594316186373	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	B2M	1.634552432584	Minus_log10_pvalue	0.962525294790148	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CAPNS1	1.60890310420599	Minus_log10_pvalue	2.41503749918868	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NPHS1	1.6070067198955	Minus_log10_pvalue	4.27301849415768	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SERPINH1	1.60103758102324	Minus_log10_pvalue	1.93288580407276	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GSTO1	1.59594577166503	Minus_log10_pvalue	0.454258808910736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CYB5R3	1.59475540269046	Minus_log10_pvalue	1.14201900505276	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GPD1L	1.57659215623423	Minus_log10_pvalue	0.703018262469578	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SERPINB9	1.57659215623423	Minus_log10_pvalue	6	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	YBX3	1.55761210099015	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SKP1	1.55619974321586	Minus_log10_pvalue	1.16046467242104	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NT5C	1.54501481697305	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CACNA2D1	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PPM1F	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SYNPO2	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TNKS1BP1	1.54088336174381	Minus_log10_pvalue	5.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ACTR2	1.53490005264665	Minus_log10_pvalue	0.844721774243387	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SNCG	1.53092495005265	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CAPZB	1.52537819518121	Minus_log10_pvalue	0.757143476043724	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PAK2	1.51520883157064	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RTN3	1.50006818719333	Minus_log10_pvalue	2.28950661722777	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARHGAP1	1.4970595551648	Minus_log10_pvalue	1.40053792958373	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ELOB	1.47197862447465	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYL6	1.4716717303368	Minus_log10_pvalue	0.784732012906233	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ITGA8	1.47132951682303	Minus_log10_pvalue	5	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SH3BGRL2	1.47037701510161	Minus_log10_pvalue	1.55942740858826	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ATP2A2	1.47037701510161	Minus_log10_pvalue	1.79354912267129	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MAPRE1	1.46884353855592	Minus_log10_pvalue	1.91073266190291	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	COA6	1.452653611847	Minus_log10_pvalue	0.082462159630925	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PRMT5	1.452653611847	Minus_log10_pvalue	0.106915204019562	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RTCA	1.452653611847	Minus_log10_pvalue	1.09310940416606	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYO1C	1.44962455001546	Minus_log10_pvalue	5.16992500144231	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	AKAP12	1.4456914035064	Minus_log10_pvalue	1.56352532986881	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PGM2	1.44557692804802	Minus_log10_pvalue	1.14937762391997	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PLCG2	1.4380540076057	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ACTR3	1.42180975478538	Minus_log10_pvalue	1.35147237054037	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PON2	1.40517994082266	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GORASP2	1.39828188953052	Minus_log10_pvalue	0.347923303729456	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	GLUD2	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MMAB	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MUC16	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NUDT6	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	OSGEP	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SEPHS1	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NPLOC4	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SLTM	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	BST2	1.39828188953052	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ALDOC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	APOL2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CARS	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	COL4A5	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	EIF3H	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	FLNC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MCTS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MPDZ	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NID2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RBMS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RERG	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	S100A16	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SLC29A1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	UBA6	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SNX2	1.38732930762399	Minus_log10_pvalue	0.773229138076239	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PLIN3	1.38732930762399	Minus_log10_pvalue	1.7198920807815	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TGFB1I1	1.38676241553395	Minus_log10_pvalue	3.03952836414765	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARHGDIA	1.37751189830116	Minus_log10_pvalue	0.442782489792663	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MYO1B	1.36501918988401	Minus_log10_pvalue	5	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MACROD1	1.35571680939788	Minus_log10_pvalue	1.61005348170886	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	NSFL1C	1.35467793453645	Minus_log10_pvalue	0.904842767320334	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DCTN2	1.3540130336532	Minus_log10_pvalue	1.03316686400078	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	HBD	1.33700718417489	Minus_log10_pvalue	0.672835257153068	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PEA15	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	SYNGR2	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	F3	1.33700718417489	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TAX1BP3	1.33561833131704	Minus_log10_pvalue	1.55254102286484	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	TSC22D1	1.33561833131704	Minus_log10_pvalue	1.63742992056377	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ATL3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	COPS6	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	MACF1	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RBM3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	STAT3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	ARL3	1.31308812163772	Minus_log10_pvalue	1.27563444286433	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	UBA2	1.31308812163772	Minus_log10_pvalue	2.67807190511264	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	CD2AP	1.30798581237215	Minus_log10_pvalue	1.41503749945918	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	RHOC	1.30333296153829	Minus_log10_pvalue	1.54748779526453	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	BROX	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	DCTN3	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	PPBP	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Epithelial Cell	NSC Proteomics	NSC Proteomics - Glom - EPC	Blue	LMO7	1.30333296153829	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PDLIM2	4.4294570601181	Minus_log10_pvalue	5.12610876902271	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CLIC5	3.91864549002537	Minus_log10_pvalue	4.78659636189081	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PODXL	3.84863627956971	Minus_log10_pvalue	5.41953889151378	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TLN1	3.6496182240549	Minus_log10_pvalue	1.70188777128893	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARRB1	3.52083946127806	Minus_log10_pvalue	4.36923380989841	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARPC4	3.49026938484482	Minus_log10_pvalue	1.15200309330078	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ZYX	3.48757844747341	Minus_log10_pvalue	3.01559685509756	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARPC1B	3.46098415433219	Minus_log10_pvalue	2.29956028183637	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NES	3.46077581446664	Minus_log10_pvalue	9	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PECAM1	3.42121070362814	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PITPNB	3.39918495931339	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD109	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GNG5	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TMEM150C	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FERMT2	3.34765114277856	Minus_log10_pvalue	3.05062607311972	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MAPK1	3.32361645014513	Minus_log10_pvalue	1.85561009064584	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DAG1	3.32092295149001	Minus_log10_pvalue	4.50250034074134	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MAP4	3.23523897321281	Minus_log10_pvalue	1.08658768485602	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CRIP2	3.15507633320073	Minus_log10_pvalue	1.62593428173707	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RRAS	3.14851538775531	Minus_log10_pvalue	2.97862634917513	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RSU1	3.1393667735447	Minus_log10_pvalue	2	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LPP	3.06634874379356	Minus_log10_pvalue	1.55849028913733	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NDRG2	3.0098921198436	Minus_log10_pvalue	1.71369581484336	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	VCL	2.99979549545606	Minus_log10_pvalue	1.37775648332024	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ITGB1	2.94478073516755	Minus_log10_pvalue	3.12199052438836	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ANXA2	2.93842803097142	Minus_log10_pvalue	1.60522133950378	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CAP1	2.90766505936385	Minus_log10_pvalue	0.719412700575045	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PDLIM1	2.88579715076399	Minus_log10_pvalue	1.72869797805824	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SLC9A3R2	2.87441789859869	Minus_log10_pvalue	5.8073549220576	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARL8B	2.87382571761318	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EML1	2.87382571761318	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CLIC2	2.87250807429814	Minus_log10_pvalue	3.26303440583379	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PSMA6	2.86897673345115	Minus_log10_pvalue	0.787006276600225	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CAPN2	2.84407851531912	Minus_log10_pvalue	2.53841991490238	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LGALS1	2.74231950560144	Minus_log10_pvalue	1.36017556418561	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DPYSL3	2.7345804824583	Minus_log10_pvalue	4.55019708264845	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CNN3	2.71890001572397	Minus_log10_pvalue	1.14585086617214	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EHD3	2.70805846285719	Minus_log10_pvalue	6.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NID1	2.69734033568509	Minus_log10_pvalue	5.5025003404231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NPHS2	2.6824928344268	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD47	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TSPAN9	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PCMT1	2.63019212406877	Minus_log10_pvalue	2	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ACTB	2.61887986308445	Minus_log10_pvalue	0.474642104834495	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TJP1	2.61422040064447	Minus_log10_pvalue	5.68929916053589	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EHD4	2.6019333695176	Minus_log10_pvalue	2.06413033748244	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PDLIM7	2.60113558116313	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ICAM1	2.60005782563532	Minus_log10_pvalue	3.88752527074159	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SLK	2.59023420521736	Minus_log10_pvalue	4.30116953440694	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TPPP3	2.57676953149918	Minus_log10_pvalue	5.71881824754726	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PDLIM5	2.55745783498346	Minus_log10_pvalue	2.54596836910529	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD34	2.54862826042328	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CSRP2	2.53592497382063	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ANXA1	2.5294098888086	Minus_log10_pvalue	2.5081469036985	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	WARS	2.52055570327965	Minus_log10_pvalue	1.33014860152839	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ACTN4	2.50221146467907	Minus_log10_pvalue	1.03017814883158	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARF6	2.47477282757481	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TOM1L2	2.46252810161108	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SRI	2.41851456489726	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EML2	2.41350046318485	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	COX20	2.40342786327993	Minus_log10_pvalue	0.125530882204084	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HBE1	2.40342786327993	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CHMP2A	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GNG11	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MARCKSL1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PLPP1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SCAMP4	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ITGA3	2.3951499620347	Minus_log10_pvalue	6.88264304936184	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LASP1	2.38327931285813	Minus_log10_pvalue	1.13940305684575	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYH9	2.38036601709782	Minus_log10_pvalue	2.03408099528521	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARHGDIB	2.36458280989292	Minus_log10_pvalue	1.97654102718784	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A10	2.32769169883996	Minus_log10_pvalue	1.86875546670457	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	INF2	2.30162947502836	Minus_log10_pvalue	5.95419631038688	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EIF4H	2.28732479694554	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HSPA1B	2.28642798183192	Minus_log10_pvalue	0.393606118470571	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	AIF1	2.28249267927537	Minus_log10_pvalue	3.48542682717024	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	AHNAK	2.27536406111251	Minus_log10_pvalue	1.7751962541219	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	COPS5	2.26834017425738	Minus_log10_pvalue	1.69187770474072	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	VAMP2	2.23121121657203	Minus_log10_pvalue	2.24100809942056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	OSTF1	2.23121121657203	Minus_log10_pvalue	2.47393118844783	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MAP1B	2.22677850514248	Minus_log10_pvalue	6.6724253419715	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CNN2	2.20436262995458	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EIF3I	2.2026589054717	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GOLIM4	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SMCO3	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RAB14	2.19769659321438	Minus_log10_pvalue	1.03476541829808	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A11	2.18839463478928	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SNCA	2.18839463478928	Minus_log10_pvalue	5.64385618977472	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	IQGAP2	2.1835588379328	Minus_log10_pvalue	2.7983661388033	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TMOD3	2.17905824310266	Minus_log10_pvalue	1.53433642758249	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PARVA	2.17320286008129	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ATP2B4	2.14584875254292	Minus_log10_pvalue	3.93859945502223	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NQO1	2.12819550247481	Minus_log10_pvalue	2.65207669664527	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EVA1B	2.1171695714819	Minus_log10_pvalue	5.08746284125034	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYL12A	2.11522003764081	Minus_log10_pvalue	1.82491329350008	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A8	2.09608991694856	Minus_log10_pvalue	1.88452278245984	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FSCN1	2.09263798390165	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FHL2	2.09263798390165	Minus_log10_pvalue	3.20645087750349	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	YAP1	2.09263798390165	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PTPRO	2.09049194904317	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SYNPO	2.08501571369667	Minus_log10_pvalue	6.97727992349992	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DCTD	2.06975093510536	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DBNL	2.04201149600782	Minus_log10_pvalue	1.93586966276062	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PTPA	2.0376660913226	Minus_log10_pvalue	1.33441903882182	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CRK	2.03192921964831	Minus_log10_pvalue	2.25375659217598	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	BCAM	2.01739670390143	Minus_log10_pvalue	2.63471553596716	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	AGRN	2.01383647983774	Minus_log10_pvalue	4.37345839571727	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FHL1	2.01126954404386	Minus_log10_pvalue	1.36257007914426	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FGF1	1.99917141874714	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TNS2	1.99169895575311	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARPC3	1.96457094227738	Minus_log10_pvalue	1.27130202154947	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RAC1	1.96410707466359	Minus_log10_pvalue	0.721698837497548	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ELOC	1.96410707466359	Minus_log10_pvalue	1.14438990947257	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NAE1	1.96410707466359	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A6	1.95339274518592	Minus_log10_pvalue	1.22948184599547	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARPC5	1.93498112238134	Minus_log10_pvalue	1.13326653079982	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A4	1.92815100769029	Minus_log10_pvalue	2.07800251192534	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ENPEP	1.89945118946157	Minus_log10_pvalue	1.42576390577572	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HBB	1.89916280464467	Minus_log10_pvalue	0.795986107759263	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ITGAV	1.88103841522941	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SERPINB6	1.87454921731147	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD151	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GNG2	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LMNB1	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MXRA7	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PLPP3	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PYGL	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RHOG	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EPB41L5	1.87454921731147	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RAN	1.86739695004928	Minus_log10_pvalue	0.64091890678926	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CORO1B	1.85855207666661	Minus_log10_pvalue	1.56187888742196	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PALLD	1.85855207666661	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CLDN5	1.85855207666661	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYLK	1.85658086926893	Minus_log10_pvalue	2.55942740858826	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A9	1.83868696195847	Minus_log10_pvalue	1.36838740608162	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	KHSRP	1.83263454099913	Minus_log10_pvalue	1.28379296618093	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD81	1.83263454099913	Minus_log10_pvalue	1.67807190511264	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GDI1	1.83143001243991	Minus_log10_pvalue	1.23606735850573	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	BANF1	1.80132653110701	Minus_log10_pvalue	2.84799690655495	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ITGA1	1.79340695202472	Minus_log10_pvalue	2.40053792958373	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HSPA12A	1.79089274342438	Minus_log10_pvalue	1.70853718587199	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	APPL1	1.76578718364432	Minus_log10_pvalue	5.39231742277876	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CSRP1	1.75451430369771	Minus_log10_pvalue	1.05771549781386	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CDH13	1.73554503523573	Minus_log10_pvalue	3.0703893278914	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FBLIM1	1.73336369926961	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LIMS1	1.73053873055992	Minus_log10_pvalue	3.66296501310209	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LANCL1	1.70591431192837	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	AIP	1.69250195107266	Minus_log10_pvalue	1.89308479597251	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ZNF185	1.69250195107266	Minus_log10_pvalue	5.90689059560852	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DPYSL2	1.67296194892357	Minus_log10_pvalue	1.21197580564649	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARPC2	1.6698536232943	Minus_log10_pvalue	1.11783649032215	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CAST	1.66675415990243	Minus_log10_pvalue	1.11103131238874	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	UBE2L3	1.66534666000056	Minus_log10_pvalue	1.05658352836637	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HBA1	1.65110830125332	Minus_log10_pvalue	0.674013688558604	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ILK	1.64382842032506	Minus_log10_pvalue	5.4594316186373	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	B2M	1.634552432584	Minus_log10_pvalue	0.962525294790148	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CAPNS1	1.60890310420599	Minus_log10_pvalue	2.41503749918868	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NPHS1	1.6070067198955	Minus_log10_pvalue	4.27301849415768	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SERPINH1	1.60103758102324	Minus_log10_pvalue	1.93288580407276	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GSTO1	1.59594577166503	Minus_log10_pvalue	0.454258808910736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CYB5R3	1.59475540269046	Minus_log10_pvalue	1.14201900505276	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GPD1L	1.57659215623423	Minus_log10_pvalue	0.703018262469578	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SERPINB9	1.57659215623423	Minus_log10_pvalue	6	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	YBX3	1.55761210099015	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SKP1	1.55619974321586	Minus_log10_pvalue	1.16046467242104	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NT5C	1.54501481697305	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CACNA2D1	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PPM1F	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SYNPO2	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TNKS1BP1	1.54088336174381	Minus_log10_pvalue	5.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ACTR2	1.53490005264665	Minus_log10_pvalue	0.844721774243387	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SNCG	1.53092495005265	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CAPZB	1.52537819518121	Minus_log10_pvalue	0.757143476043724	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PAK2	1.51520883157064	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RTN3	1.50006818719333	Minus_log10_pvalue	2.28950661722777	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARHGAP1	1.4970595551648	Minus_log10_pvalue	1.40053792958373	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ELOB	1.47197862447465	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYL6	1.4716717303368	Minus_log10_pvalue	0.784732012906233	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ITGA8	1.47132951682303	Minus_log10_pvalue	5	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SH3BGRL2	1.47037701510161	Minus_log10_pvalue	1.55942740858826	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ATP2A2	1.47037701510161	Minus_log10_pvalue	1.79354912267129	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MAPRE1	1.46884353855592	Minus_log10_pvalue	1.91073266190291	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	COA6	1.452653611847	Minus_log10_pvalue	0.082462159630925	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PRMT5	1.452653611847	Minus_log10_pvalue	0.106915204019562	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RTCA	1.452653611847	Minus_log10_pvalue	1.09310940416606	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYO1C	1.44962455001546	Minus_log10_pvalue	5.16992500144231	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	AKAP12	1.4456914035064	Minus_log10_pvalue	1.56352532986881	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PGM2	1.44557692804802	Minus_log10_pvalue	1.14937762391997	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PLCG2	1.4380540076057	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ACTR3	1.42180975478538	Minus_log10_pvalue	1.35147237054037	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PON2	1.40517994082266	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GORASP2	1.39828188953052	Minus_log10_pvalue	0.347923303729456	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	GLUD2	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MMAB	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MUC16	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NUDT6	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	OSGEP	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SEPHS1	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NPLOC4	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SLTM	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	BST2	1.39828188953052	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ALDOC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	APOL2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CARS	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	COL4A5	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	EIF3H	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	FLNC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MCTS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MPDZ	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NID2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RBMS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RERG	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	S100A16	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SLC29A1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	UBA6	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SNX2	1.38732930762399	Minus_log10_pvalue	0.773229138076239	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PLIN3	1.38732930762399	Minus_log10_pvalue	1.7198920807815	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TGFB1I1	1.38676241553395	Minus_log10_pvalue	3.03952836414765	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARHGDIA	1.37751189830116	Minus_log10_pvalue	0.442782489792663	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MYO1B	1.36501918988401	Minus_log10_pvalue	5	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MACROD1	1.35571680939788	Minus_log10_pvalue	1.61005348170886	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	NSFL1C	1.35467793453645	Minus_log10_pvalue	0.904842767320334	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DCTN2	1.3540130336532	Minus_log10_pvalue	1.03316686400078	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	HBD	1.33700718417489	Minus_log10_pvalue	0.672835257153068	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PEA15	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	SYNGR2	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	F3	1.33700718417489	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TAX1BP3	1.33561833131704	Minus_log10_pvalue	1.55254102286484	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	TSC22D1	1.33561833131704	Minus_log10_pvalue	1.63742992056377	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ATL3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	COPS6	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	MACF1	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RBM3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	STAT3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	ARL3	1.31308812163772	Minus_log10_pvalue	1.27563444286433	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	UBA2	1.31308812163772	Minus_log10_pvalue	2.67807190511264	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	CD2AP	1.30798581237215	Minus_log10_pvalue	1.41503749945918	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	RHOC	1.30333296153829	Minus_log10_pvalue	1.54748779526453	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	BROX	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	DCTN3	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	PPBP	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Mesangial	NSC Proteomics	NSC Proteomics - Glom - Mesangial	Blue	LMO7	1.30333296153829	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PDLIM2	4.4294570601181	Minus_log10_pvalue	5.12610876902271	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CLIC5	3.91864549002537	Minus_log10_pvalue	4.78659636189081	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PODXL	3.84863627956971	Minus_log10_pvalue	5.41953889151378	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TLN1	3.6496182240549	Minus_log10_pvalue	1.70188777128893	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARRB1	3.52083946127806	Minus_log10_pvalue	4.36923380989841	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARPC4	3.49026938484482	Minus_log10_pvalue	1.15200309330078	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ZYX	3.48757844747341	Minus_log10_pvalue	3.01559685509756	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARPC1B	3.46098415433219	Minus_log10_pvalue	2.29956028183637	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NES	3.46077581446664	Minus_log10_pvalue	9	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PECAM1	3.42121070362814	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PITPNB	3.39918495931339	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD109	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GNG5	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TMEM150C	3.35032348790032	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FERMT2	3.34765114277856	Minus_log10_pvalue	3.05062607311972	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MAPK1	3.32361645014513	Minus_log10_pvalue	1.85561009064584	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DAG1	3.32092295149001	Minus_log10_pvalue	4.50250034074134	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MAP4	3.23523897321281	Minus_log10_pvalue	1.08658768485602	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CRIP2	3.15507633320073	Minus_log10_pvalue	1.62593428173707	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RRAS	3.14851538775531	Minus_log10_pvalue	2.97862634917513	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RSU1	3.1393667735447	Minus_log10_pvalue	2	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LPP	3.06634874379356	Minus_log10_pvalue	1.55849028913733	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NDRG2	3.0098921198436	Minus_log10_pvalue	1.71369581484336	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	VCL	2.99979549545606	Minus_log10_pvalue	1.37775648332024	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ITGB1	2.94478073516755	Minus_log10_pvalue	3.12199052438836	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ANXA2	2.93842803097142	Minus_log10_pvalue	1.60522133950378	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CAP1	2.90766505936385	Minus_log10_pvalue	0.719412700575045	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PDLIM1	2.88579715076399	Minus_log10_pvalue	1.72869797805824	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SLC9A3R2	2.87441789859869	Minus_log10_pvalue	5.8073549220576	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARL8B	2.87382571761318	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EML1	2.87382571761318	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CLIC2	2.87250807429814	Minus_log10_pvalue	3.26303440583379	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PSMA6	2.86897673345115	Minus_log10_pvalue	0.787006276600225	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CAPN2	2.84407851531912	Minus_log10_pvalue	2.53841991490238	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LGALS1	2.74231950560144	Minus_log10_pvalue	1.36017556418561	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DPYSL3	2.7345804824583	Minus_log10_pvalue	4.55019708264845	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CNN3	2.71890001572397	Minus_log10_pvalue	1.14585086617214	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EHD3	2.70805846285719	Minus_log10_pvalue	6.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NID1	2.69734033568509	Minus_log10_pvalue	5.5025003404231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NPHS2	2.6824928344268	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD47	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TSPAN9	2.65654138150436	Minus_log10_pvalue	3.11547721747542	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PCMT1	2.63019212406877	Minus_log10_pvalue	2	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ACTB	2.61887986308445	Minus_log10_pvalue	0.474642104834495	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TJP1	2.61422040064447	Minus_log10_pvalue	5.68929916053589	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EHD4	2.6019333695176	Minus_log10_pvalue	2.06413033748244	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PDLIM7	2.60113558116313	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ICAM1	2.60005782563532	Minus_log10_pvalue	3.88752527074159	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SLK	2.59023420521736	Minus_log10_pvalue	4.30116953440694	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TPPP3	2.57676953149918	Minus_log10_pvalue	5.71881824754726	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PDLIM5	2.55745783498346	Minus_log10_pvalue	2.54596836910529	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD34	2.54862826042328	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CSRP2	2.53592497382063	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ANXA1	2.5294098888086	Minus_log10_pvalue	2.5081469036985	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	WARS	2.52055570327965	Minus_log10_pvalue	1.33014860152839	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ACTN4	2.50221146467907	Minus_log10_pvalue	1.03017814883158	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARF6	2.47477282757481	Minus_log10_pvalue	2.4947646916565	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TOM1L2	2.46252810161108	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SRI	2.41851456489726	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EML2	2.41350046318485	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	COX20	2.40342786327993	Minus_log10_pvalue	0.125530882204084	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HBE1	2.40342786327993	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CHMP2A	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GNG11	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MARCKSL1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PLPP1	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SCAMP4	2.40342786327993	Minus_log10_pvalue	4.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ITGA3	2.3951499620347	Minus_log10_pvalue	6.88264304936184	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LASP1	2.38327931285813	Minus_log10_pvalue	1.13940305684575	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYH9	2.38036601709782	Minus_log10_pvalue	2.03408099528521	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARHGDIB	2.36458280989292	Minus_log10_pvalue	1.97654102718784	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A10	2.32769169883996	Minus_log10_pvalue	1.86875546670457	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	INF2	2.30162947502836	Minus_log10_pvalue	5.95419631038688	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EIF4H	2.28732479694554	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HSPA1B	2.28642798183192	Minus_log10_pvalue	0.393606118470571	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	AIF1	2.28249267927537	Minus_log10_pvalue	3.48542682717024	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	AHNAK	2.27536406111251	Minus_log10_pvalue	1.7751962541219	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	COPS5	2.26834017425738	Minus_log10_pvalue	1.69187770474072	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	VAMP2	2.23121121657203	Minus_log10_pvalue	2.24100809942056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	OSTF1	2.23121121657203	Minus_log10_pvalue	2.47393118844783	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MAP1B	2.22677850514248	Minus_log10_pvalue	6.6724253419715	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CNN2	2.20436262995458	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EIF3I	2.2026589054717	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GOLIM4	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SMCO3	2.2026589054717	Minus_log10_pvalue	4.8073549220576	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RAB14	2.19769659321438	Minus_log10_pvalue	1.03476541829808	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A11	2.18839463478928	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SNCA	2.18839463478928	Minus_log10_pvalue	5.64385618977472	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	IQGAP2	2.1835588379328	Minus_log10_pvalue	2.7983661388033	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TMOD3	2.17905824310266	Minus_log10_pvalue	1.53433642758249	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PARVA	2.17320286008129	Minus_log10_pvalue	1.62148837678234	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ATP2B4	2.14584875254292	Minus_log10_pvalue	3.93859945502223	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NQO1	2.12819550247481	Minus_log10_pvalue	2.65207669664527	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EVA1B	2.1171695714819	Minus_log10_pvalue	5.08746284125034	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYL12A	2.11522003764081	Minus_log10_pvalue	1.82491329350008	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A8	2.09608991694856	Minus_log10_pvalue	1.88452278245984	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FSCN1	2.09263798390165	Minus_log10_pvalue	2.73696559423834	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FHL2	2.09263798390165	Minus_log10_pvalue	3.20645087750349	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	YAP1	2.09263798390165	Minus_log10_pvalue	4.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PTPRO	2.09049194904317	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SYNPO	2.08501571369667	Minus_log10_pvalue	6.97727992349992	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DCTD	2.06975093510536	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DBNL	2.04201149600782	Minus_log10_pvalue	1.93586966276062	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PTPA	2.0376660913226	Minus_log10_pvalue	1.33441903882182	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CRK	2.03192921964831	Minus_log10_pvalue	2.25375659217598	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	BCAM	2.01739670390143	Minus_log10_pvalue	2.63471553596716	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	AGRN	2.01383647983774	Minus_log10_pvalue	4.37345839571727	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FHL1	2.01126954404386	Minus_log10_pvalue	1.36257007914426	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FGF1	1.99917141874714	Minus_log10_pvalue	5.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TNS2	1.99169895575311	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARPC3	1.96457094227738	Minus_log10_pvalue	1.27130202154947	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RAC1	1.96410707466359	Minus_log10_pvalue	0.721698837497548	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ELOC	1.96410707466359	Minus_log10_pvalue	1.14438990947257	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NAE1	1.96410707466359	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A6	1.95339274518592	Minus_log10_pvalue	1.22948184599547	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARPC5	1.93498112238134	Minus_log10_pvalue	1.13326653079982	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A4	1.92815100769029	Minus_log10_pvalue	2.07800251192534	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ENPEP	1.89945118946157	Minus_log10_pvalue	1.42576390577572	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HBB	1.89916280464467	Minus_log10_pvalue	0.795986107759263	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ITGAV	1.88103841522941	Minus_log10_pvalue	3.92599941855622	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SERPINB6	1.87454921731147	Minus_log10_pvalue	1.25153876702482	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD151	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GNG2	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LMNB1	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MXRA7	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PLPP3	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PYGL	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RHOG	1.87454921731147	Minus_log10_pvalue	4.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EPB41L5	1.87454921731147	Minus_log10_pvalue	4.90689059560852	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RAN	1.86739695004928	Minus_log10_pvalue	0.64091890678926	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CORO1B	1.85855207666661	Minus_log10_pvalue	1.56187888742196	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PALLD	1.85855207666661	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CLDN5	1.85855207666661	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYLK	1.85658086926893	Minus_log10_pvalue	2.55942740858826	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A9	1.83868696195847	Minus_log10_pvalue	1.36838740608162	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	KHSRP	1.83263454099913	Minus_log10_pvalue	1.28379296618093	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD81	1.83263454099913	Minus_log10_pvalue	1.67807190511264	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GDI1	1.83143001243991	Minus_log10_pvalue	1.23606735850573	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	BANF1	1.80132653110701	Minus_log10_pvalue	2.84799690655495	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ITGA1	1.79340695202472	Minus_log10_pvalue	2.40053792958373	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HSPA12A	1.79089274342438	Minus_log10_pvalue	1.70853718587199	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	APPL1	1.76578718364432	Minus_log10_pvalue	5.39231742277876	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CSRP1	1.75451430369771	Minus_log10_pvalue	1.05771549781386	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CDH13	1.73554503523573	Minus_log10_pvalue	3.0703893278914	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FBLIM1	1.73336369926961	Minus_log10_pvalue	3.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LIMS1	1.73053873055992	Minus_log10_pvalue	3.66296501310209	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LANCL1	1.70591431192837	Minus_log10_pvalue	1.61297687669654	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	AIP	1.69250195107266	Minus_log10_pvalue	1.89308479597251	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ZNF185	1.69250195107266	Minus_log10_pvalue	5.90689059560852	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DPYSL2	1.67296194892357	Minus_log10_pvalue	1.21197580564649	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARPC2	1.6698536232943	Minus_log10_pvalue	1.11783649032215	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CAST	1.66675415990243	Minus_log10_pvalue	1.11103131238874	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	UBE2L3	1.66534666000056	Minus_log10_pvalue	1.05658352836637	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HBA1	1.65110830125332	Minus_log10_pvalue	0.674013688558604	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ILK	1.64382842032506	Minus_log10_pvalue	5.4594316186373	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	B2M	1.634552432584	Minus_log10_pvalue	0.962525294790148	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CAPNS1	1.60890310420599	Minus_log10_pvalue	2.41503749918868	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NPHS1	1.6070067198955	Minus_log10_pvalue	4.27301849415768	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SERPINH1	1.60103758102324	Minus_log10_pvalue	1.93288580407276	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GSTO1	1.59594577166503	Minus_log10_pvalue	0.454258808910736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CYB5R3	1.59475540269046	Minus_log10_pvalue	1.14201900505276	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GPD1L	1.57659215623423	Minus_log10_pvalue	0.703018262469578	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SERPINB9	1.57659215623423	Minus_log10_pvalue	6	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	YBX3	1.55761210099015	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SKP1	1.55619974321586	Minus_log10_pvalue	1.16046467242104	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NT5C	1.54501481697305	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CACNA2D1	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PPM1F	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SYNPO2	1.54501481697305	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TNKS1BP1	1.54088336174381	Minus_log10_pvalue	5.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ACTR2	1.53490005264665	Minus_log10_pvalue	0.844721774243387	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SNCG	1.53092495005265	Minus_log10_pvalue	1.83007499873802	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CAPZB	1.52537819518121	Minus_log10_pvalue	0.757143476043724	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PAK2	1.51520883157064	Minus_log10_pvalue	2.12553088220408	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RTN3	1.50006818719333	Minus_log10_pvalue	2.28950661722777	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARHGAP1	1.4970595551648	Minus_log10_pvalue	1.40053792958373	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ELOB	1.47197862447465	Minus_log10_pvalue	2.37851162325373	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYL6	1.4716717303368	Minus_log10_pvalue	0.784732012906233	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ITGA8	1.47132951682303	Minus_log10_pvalue	5	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SH3BGRL2	1.47037701510161	Minus_log10_pvalue	1.55942740858826	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ATP2A2	1.47037701510161	Minus_log10_pvalue	1.79354912267129	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MAPRE1	1.46884353855592	Minus_log10_pvalue	1.91073266190291	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	COA6	1.452653611847	Minus_log10_pvalue	0.082462159630925	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PRMT5	1.452653611847	Minus_log10_pvalue	0.106915204019562	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RTCA	1.452653611847	Minus_log10_pvalue	1.09310940416606	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYO1C	1.44962455001546	Minus_log10_pvalue	5.16992500144231	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	AKAP12	1.4456914035064	Minus_log10_pvalue	1.56352532986881	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PGM2	1.44557692804802	Minus_log10_pvalue	1.14937762391997	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PLCG2	1.4380540076057	Minus_log10_pvalue	5.52356195605701	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ACTR3	1.42180975478538	Minus_log10_pvalue	1.35147237054037	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PON2	1.40517994082266	Minus_log10_pvalue	3.50250034010486	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GORASP2	1.39828188953052	Minus_log10_pvalue	0.347923303729456	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	GLUD2	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MMAB	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MUC16	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NUDT6	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	OSGEP	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SEPHS1	1.39828188953052	Minus_log10_pvalue	0.514573173262567	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NPLOC4	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SLTM	1.39828188953052	Minus_log10_pvalue	2	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	BST2	1.39828188953052	Minus_log10_pvalue	3.32192809488736	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ALDOC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	APOL2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CARS	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	COL4A5	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	EIF3H	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	FLNC	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MCTS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MPDZ	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NID2	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RBMS1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RERG	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	S100A16	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SLC29A1	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	UBA6	1.39828188953052	Minus_log10_pvalue	4	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SNX2	1.38732930762399	Minus_log10_pvalue	0.773229138076239	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PLIN3	1.38732930762399	Minus_log10_pvalue	1.7198920807815	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TGFB1I1	1.38676241553395	Minus_log10_pvalue	3.03952836414765	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARHGDIA	1.37751189830116	Minus_log10_pvalue	0.442782489792663	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MYO1B	1.36501918988401	Minus_log10_pvalue	5	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MACROD1	1.35571680939788	Minus_log10_pvalue	1.61005348170886	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	NSFL1C	1.35467793453645	Minus_log10_pvalue	0.904842767320334	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DCTN2	1.3540130336532	Minus_log10_pvalue	1.03316686400078	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	HBD	1.33700718417489	Minus_log10_pvalue	0.672835257153068	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PEA15	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	SYNGR2	1.33700718417489	Minus_log10_pvalue	2.58496250072116	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	F3	1.33700718417489	Minus_log10_pvalue	4.70043971814109	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TAX1BP3	1.33561833131704	Minus_log10_pvalue	1.55254102286484	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	TSC22D1	1.33561833131704	Minus_log10_pvalue	1.63742992056377	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ATL3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	COPS6	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	MACF1	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RBM3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	STAT3	1.33561833131704	Minus_log10_pvalue	2.87446911785056	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	ARL3	1.31308812163772	Minus_log10_pvalue	1.27563444286433	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	UBA2	1.31308812163772	Minus_log10_pvalue	2.67807190511264	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	CD2AP	1.30798581237215	Minus_log10_pvalue	1.41503749945918	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	RHOC	1.30333296153829	Minus_log10_pvalue	1.54748779526453	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	BROX	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	DCTN3	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	PPBP	1.30333296153829	Minus_log10_pvalue	1.77760757884389	Log2_fold_change
+Podocyte_glomerulus	NSC Proteomics	NSC Proteomics - Glom - POD	Blue	LMO7	1.30333296153829	Minus_log10_pvalue	3.20163386116965	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSDL2	4.36051351073141	Minus_log10_pvalue	0.961110987128231	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC25A10	4.19586056766465	Minus_log10_pvalue	1.16992500288501	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DECR1	4.15428198203334	Minus_log10_pvalue	1.19501598305056	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GGH	3.6278855488667	Minus_log10_pvalue	1.9870609457352	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PCCB	3.49026938484482	Minus_log10_pvalue	1.09515723422073	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SDC1	3.35032348790032	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TRAP1	3.32320217220516	Minus_log10_pvalue	1.0558532354169	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GGT1	3.24918084481923	Minus_log10_pvalue	2.27301849248282	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACAT1	3.24666288115259	Minus_log10_pvalue	0.569614537338067	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MCCC1	3.15990457475839	Minus_log10_pvalue	1.70895121771917	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ENO1	3.15198586809003	Minus_log10_pvalue	0.272607294216482	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CTSC	2.98470564520908	Minus_log10_pvalue	1.35755200624112	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TIMM13	2.93368600392061	Minus_log10_pvalue	0.857980994947235	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ANPEP	2.924940890182	Minus_log10_pvalue	1.6408157376377	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PRDX3	2.8668236872464	Minus_log10_pvalue	0.484268500599172	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACSS1	2.84005732245078	Minus_log10_pvalue	1.21299372339978	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ABHD10	2.79345340305584	Minus_log10_pvalue	0.807354923139625	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	EPB41L3	2.77121556836367	Minus_log10_pvalue	1.3339007361026	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ECI2	2.75741111991988	Minus_log10_pvalue	0.928916902632121	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DLST	2.71312650243991	Minus_log10_pvalue	0.712718046797433	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PDZK1	2.69674906505259	Minus_log10_pvalue	1.34281546263106	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SCPEP1	2.69319146142314	Minus_log10_pvalue	0.78427130966591	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HOGA1	2.68908460653706	Minus_log10_pvalue	0.903323981523406	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LETM1	2.65654138150436	Minus_log10_pvalue	1.02236781393014	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PCCA	2.6001401427705	Minus_log10_pvalue	1.26449981422251	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DCXR	2.59907692850327	Minus_log10_pvalue	0.85536029425658	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GLUD1	2.58302267069325	Minus_log10_pvalue	0.567432575985856	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ALDH2	2.55253806887297	Minus_log10_pvalue	0.599106682224136	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSPD1	2.55127513410735	Minus_log10_pvalue	0.609624554159456	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AKR1C3	2.51495040429909	Minus_log10_pvalue	0.626439137481781	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ECH1	2.49201588200784	Minus_log10_pvalue	0.787779382917834	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CHDH	2.49133052129513	Minus_log10_pvalue	1.29278175030987	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CTSA	2.41350046318485	Minus_log10_pvalue	0.669851397324014	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PPA2	2.40618080933215	Minus_log10_pvalue	0.372554168150548	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SHMT1	2.33666079184534	Minus_log10_pvalue	0.916979412520246	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AK2	2.33212416617819	Minus_log10_pvalue	0.623583794245198	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AMACR	2.32063716157626	Minus_log10_pvalue	1.4214637697264	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CRAT	2.29622634988643	Minus_log10_pvalue	1.28540221976393	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AHCY	2.2886735437612	Minus_log10_pvalue	0.742108896677881	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ATP6V1F	2.27768632318557	Minus_log10_pvalue	0.247927513714091	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GLB1	2.27768632318557	Minus_log10_pvalue	0.321928094887362	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MRPS36	2.27768632318557	Minus_log10_pvalue	0.321928094887362	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AOX1	2.24715640707339	Minus_log10_pvalue	1.55799545103699	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LRPPRC	2.21370567908671	Minus_log10_pvalue	1.1388981064356	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PPIF	2.2026589054717	Minus_log10_pvalue	0.536052901105827	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	STX3	2.2026589054717	Minus_log10_pvalue	0.925999419854649	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LRP2	2.20129874735154	Minus_log10_pvalue	1.60288440870038	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	COX5B	2.17138108630196	Minus_log10_pvalue	0.604862057227121	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACAA2	2.16991096103108	Minus_log10_pvalue	0.683175511762727	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PC	2.15916099340875	Minus_log10_pvalue	1.32192809488736	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MDH2	2.15441495473593	Minus_log10_pvalue	0.334575471823861	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	COX6B1	2.15132320704945	Minus_log10_pvalue	0.874469119118387	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ALDH1A1	2.1170588985587	Minus_log10_pvalue	0.500693584422117	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PIGR	2.11522003764081	Minus_log10_pvalue	0.115477217540161	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	C11ORF54	2.10224340930998	Minus_log10_pvalue	0.643856189774725	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	NAXE	2.07632169679708	Minus_log10_pvalue	0.887525269515297	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GLYATL1	2.05051245883967	Minus_log10_pvalue	0.949959317008577	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	FH	2.03457114191773	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TKFC	2.02865590372043	Minus_log10_pvalue	0.601310493883835	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PLS1	2.0252813413478	Minus_log10_pvalue	1.55799545103699	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC5A10	1.99917141874714	Minus_log10_pvalue	1.63226821622086	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSD17B4	1.99169895575311	Minus_log10_pvalue	0.925999419854649	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LONP1	1.98544006571521	Minus_log10_pvalue	0.818161677279946	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACY1	1.98349017568028	Minus_log10_pvalue	0.72656630478098	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CUBN	1.98338315666719	Minus_log10_pvalue	2.7414669891062	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACOX1	1.9774094070271	Minus_log10_pvalue	0.938599456538102	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC2A5	1.97497397607517	Minus_log10_pvalue	1.20163386015976	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MTHFD1	1.96770966253173	Minus_log10_pvalue	1.06228427956974	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LRPAP1	1.96410707466359	Minus_log10_pvalue	1.12928301739581	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ISOC2	1.93498112238134	Minus_log10_pvalue	0.560714953825266	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSPE1	1.92593288816989	Minus_log10_pvalue	0.662965013564002	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ALDH1L1	1.92316174803076	Minus_log10_pvalue	0.84398384422145	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HEXB	1.91631022954505	Minus_log10_pvalue	1.67242534287318	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DAB2	1.90514572225895	Minus_log10_pvalue	0.837569535692377	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SMS	1.90385936932933	Minus_log10_pvalue	0.201633861818863	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SCO1	1.90385936932933	Minus_log10_pvalue	0.378511623686538	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HMGCL	1.8945002724858	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ALDH7A1	1.8776147307525	Minus_log10_pvalue	0.646162656667377	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	COQ9	1.87454921731147	Minus_log10_pvalue	0.137503523894204	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HAO2	1.87454921731147	Minus_log10_pvalue	0.137503523894204	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LSM12	1.87454921731147	Minus_log10_pvalue	0.137503523894204	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PNPT1	1.87454921731147	Minus_log10_pvalue	0.137503523894204	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CRYM	1.8688219156963	Minus_log10_pvalue	0.825970600487259	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLIRP	1.85855207666661	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SUCLA2	1.8575177712282	Minus_log10_pvalue	0.594946588241813	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DIABLO	1.85372299584539	Minus_log10_pvalue	0.295455883198286	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	OCIAD2	1.85372299584539	Minus_log10_pvalue	0.502500340408959	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSD17B8	1.84110181648921	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DPP4	1.83230862406509	Minus_log10_pvalue	1.61738397808565	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SELENBP1	1.81585137896953	Minus_log10_pvalue	0.568842836151362	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GRPEL1	1.80876252422398	Minus_log10_pvalue	0.78659636171047	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC9A3R1	1.80852556668289	Minus_log10_pvalue	0.471803542497598	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LGALS2	1.80147773018026	Minus_log10_pvalue	0.914270125696675	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SFXN1	1.80074619575027	Minus_log10_pvalue	0.934904971990276	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	BBOX1	1.79794398561878	Minus_log10_pvalue	0.824716083831628	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GGCT	1.78340927778491	Minus_log10_pvalue	0.398549375834504	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CNDP2	1.78093547148946	Minus_log10_pvalue	0.446886365610158	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ECHDC1	1.76578718364432	Minus_log10_pvalue	0.682809823359988	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CPQ	1.7626017799116	Minus_log10_pvalue	1.4811266906383	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	RNASET2	1.73554503523573	Minus_log10_pvalue	0.640457613227995	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ECHS1	1.71161283739328	Minus_log10_pvalue	0.846349054167541	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HEXA	1.69250195107266	Minus_log10_pvalue	0.0874628406191603	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	UPB1	1.69250195107266	Minus_log10_pvalue	0.938599456538102	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ATP6V1H	1.68466788577561	Minus_log10_pvalue	0.880418383034152	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CTSB	1.68379081630325	Minus_log10_pvalue	0.420331799436327	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ALDH6A1	1.67895590232424	Minus_log10_pvalue	0.540372349737858	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ETFA	1.67703929465595	Minus_log10_pvalue	0.420038180898258	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SUCLG2	1.67697647520328	Minus_log10_pvalue	0.332734849382934	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ENTPD5	1.66683340467866	Minus_log10_pvalue	1.4713057177452	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSPA9	1.65168245885404	Minus_log10_pvalue	0.551741082124138	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ATP6V1B2	1.64964528241565	Minus_log10_pvalue	0.642968103413179	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CRYZ	1.64666071218232	Minus_log10_pvalue	0.419677886475653	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ATP6V1A	1.64613096920767	Minus_log10_pvalue	0.780513310862811	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MUT	1.6381253972497	Minus_log10_pvalue	0.700439719042777	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PPA1	1.63699726794986	Minus_log10_pvalue	0.127489734447613	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CLIC4	1.63034815538636	Minus_log10_pvalue	0.420180802273135	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACADVL	1.61538227184465	Minus_log10_pvalue	0.991386869626592	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	RENBP	1.60890310420599	Minus_log10_pvalue	1.11547721597724	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CDHR2	1.59810192565104	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TMEM256	1.59810192565104	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	AIFM1	1.58877612000406	Minus_log10_pvalue	1.22881868936878	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACADM	1.57614174391792	Minus_log10_pvalue	0.596787935672669	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	DDC	1.56652126490923	Minus_log10_pvalue	0.735325235440671	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC5A1	1.55761210099015	Minus_log10_pvalue	1.40209844501404	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MRPL12	1.55619974321586	Minus_log10_pvalue	0.157541277208433	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CTSH	1.55619974321586	Minus_log10_pvalue	0.247927513714091	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	LDHB	1.5552756745638	Minus_log10_pvalue	0.334016490799271	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TXN	1.53622292788941	Minus_log10_pvalue	0.154885601680014	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACADSB	1.52562668962662	Minus_log10_pvalue	0.417157551950939	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	VIL1	1.51373388984492	Minus_log10_pvalue	1.97061619277679	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	OGDH	1.50464285179756	Minus_log10_pvalue	1.46631800384288	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	C1QBP	1.50006818719333	Minus_log10_pvalue	0.557995453160962	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	NAXD	1.4970595551648	Minus_log10_pvalue	0.662965013564002	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GPX3	1.4952180657273	Minus_log10_pvalue	0.860596942499339	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	NIT2	1.49245056235843	Minus_log10_pvalue	0.434231063979732	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GRHPR	1.48267991686526	Minus_log10_pvalue	0.623583794245198	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CPT2	1.46616219252744	Minus_log10_pvalue	0.807354923139625	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SORD	1.45665690152474	Minus_log10_pvalue	0.655884286341426	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PCK1	1.44737577515907	Minus_log10_pvalue	1.01885902580862	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	COX5A	1.44449731298423	Minus_log10_pvalue	0.899473124656407	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ANXA4	1.43545393357104	Minus_log10_pvalue	0.629017681587541	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC25A5	1.41201113055864	Minus_log10_pvalue	1.18511140498219	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	UQCRB	1.40153173455325	Minus_log10_pvalue	0.914270125696675	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	COL3A1	1.39828188953052	Minus_log10_pvalue	0.201633861818863	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	IMPA2	1.39828188953052	Minus_log10_pvalue	0.201633861818863	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	RPS5	1.39828188953052	Minus_log10_pvalue	0.222392421576897	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	TJP2	1.39828188953052	Minus_log10_pvalue	0.378511623686538	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PAICS	1.39828188953052	Minus_log10_pvalue	0.536052901105827	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ACAA1	1.39563360172896	Minus_log10_pvalue	0.487445995386801	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	EPS8L2	1.3847360232843	Minus_log10_pvalue	0.947532578766219	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HSPA4L	1.38193284707343	Minus_log10_pvalue	0.938599456538102	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ANK3	1.37426460608688	Minus_log10_pvalue	0.887525269515297	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MTCH2	1.36475027227012	Minus_log10_pvalue	1.05062607214252	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	STOML2	1.36475027227012	Minus_log10_pvalue	1.05062607214252	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	BHMT	1.36394761941537	Minus_log10_pvalue	0.611702348820791	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PGM1	1.35735747529029	Minus_log10_pvalue	0.430239905494596	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PRDX5	1.3540130336532	Minus_log10_pvalue	0.189824558496801	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	VDAC1	1.34757673696412	Minus_log10_pvalue	0.767553915012951	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SCP2	1.34199702205598	Minus_log10_pvalue	0.481126690638301	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	METTL7A	1.34199702205598	Minus_log10_pvalue	0.74723392925936	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	BIN1	1.33700718417489	Minus_log10_pvalue	0.270089162816125	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	OCIAD1	1.33700718417489	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	NDUFV3	1.33700718417489	Minus_log10_pvalue	0.765534746651516	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PRKAR2A	1.33561833131704	Minus_log10_pvalue	0.0641303376164467	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	QARS	1.33561833131704	Minus_log10_pvalue	0.115477217540161	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	SLC13A3	1.33561833131704	Minus_log10_pvalue	0.115477217540161	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	EHHADH	1.32917895788484	Minus_log10_pvalue	1.21842351952192	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PDZK1IP1	1.32829678082557	Minus_log10_pvalue	0.795180209214739	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	MCCC2	1.32594183392878	Minus_log10_pvalue	1.27612440459797	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	UQCRC1	1.32093316305074	Minus_log10_pvalue	1.08376835706534	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	EPHX1	1.31969382738747	Minus_log10_pvalue	0.88264305030861	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	ATP5F1B	1.31564186873706	Minus_log10_pvalue	0.670403343909679	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	PMPCB	1.31308812163772	Minus_log10_pvalue	0.716207034411607	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	GSTT1	1.30984310573732	Minus_log10_pvalue	0.20309186485747	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	CLYBL	1.30798581237215	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
+Proximal_tubule	NSC Proteomics	NSC Proteomics - PT	Blue	HIBADH	1.30405231121415	Minus_log10_pvalue	0.584962499999809	Log2_fold_change
