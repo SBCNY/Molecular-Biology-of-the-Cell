@@ -11,8 +11,7 @@ Additional MBCO datasets:<br>
 Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022 Jun 10;8(23). PMID: 35675394. https://doi.org/10.1126/sciadv.abn4965<br>
 <br>
 MBC PathNet:<br>
-<br>
-<b>Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650. https://doi.org/10.1093/bioadv/vbaf197</b><br>
+Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650. https://doi.org/10.1093/bioadv/vbaf197<br>
 <br>
 ___________________________________________________________________________________________________________
 The Molecular Biology of the Cell Ontology (MBCO) datasets are made available under a Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) International license.<br>
