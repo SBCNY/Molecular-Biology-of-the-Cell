@@ -19,7 +19,7 @@ Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. A refer
 <br>
 <b><i><u>The last update of MBC PathNet was uploaded on November 27, 2026.</u></i></b><br>
 <br>
-To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBC PathNet" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
+To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBC_PathNet" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
 <br>
 <h2>Windows</h2>
 The windows application can be started by opening "MBC_PathNet.exe" (file type "Application").<br>
