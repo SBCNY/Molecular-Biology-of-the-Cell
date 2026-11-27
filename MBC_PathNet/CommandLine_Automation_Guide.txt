@@ -33,7 +33,7 @@ to be followed by space and the selection (case-insensitive):
 ontolgies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2' (e.g. '--ontology Mbco')
 organisms: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish', 'frog',
            'c_elegans' or 'fly' (e.g. '--organism fly')
-results directory: e.g. '--results-dir D:/MBCO_windows_application/Results/My_results/'
+results directory: e.g. '--results-dir D:/MBC_PathNet/Results/My_results/'
 
 To select preselected column names, just add '--' followed by the name of the selected
 button (spaces need to be replaced by underlines): '--MBCO-column-names', '--single-cell-column-names',
