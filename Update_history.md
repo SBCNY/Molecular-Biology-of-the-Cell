@@ -5,6 +5,9 @@ November 27, 2026
 - We added the new menu 'Enrich2Net' that allows upload of external enrichment results to generate SCP networks and figures.
 - The 'SCP networks' menu now offers options to draw nodes and pie charts without black borders and to label SCPs with abbreviations instead of full names.
 
+November 27, 2026
+- The Molecular-Biology-of-the-Cell repository, as of November 26, 2026, has been archived on Zenodo (https://DOI.org/10.5281/zenodo.24582877).
+
 October 1, 2026
 - An error occurring during the preparation of more recent Gene Ontology datasets was fixed.
   
