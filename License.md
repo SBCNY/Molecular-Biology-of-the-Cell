@@ -1,7 +1,13 @@
 Please acknowledge the MBC Ontology and MBC PathNet in your publications by citing the following references:<br/>
-<br/>
+<br>
+MBCOv2:<br>
+Functional cooperation, adaptation and synchronization of subcellular processes in cellular neighborhoods as inferred from spatial transcriptomics
+Jens Hansen, Ravi Iyengar. bioRxiv 2026.11.24.768887; doi: https://doi.org/10.64898/2026.11.24.768887<br>
+<br>
+MBCOv1:<br>
 Jens Hansen, David Meretzky, Simeneh Woldesenbet, Gustavo Stolovitzky, Ravi Iyengar: A flexible ontology for inference of emergent whole cell function from relationships between subcellular processes Sci Rep. 2017 Dec 18;7(1):17689. doi: 10.1038/s41598-017-16627-4.<br>
 <br>
+MBC PAthNet:<br>
 <b>Jens Hansen, Ravi Iyengar. MBC PathNet: integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650 </b>
 ___________________________________________________________________________________________________________
 The Molecular Biology of the Cell Ontology (MBCO) datasets are made available under a Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) International license.<br>
