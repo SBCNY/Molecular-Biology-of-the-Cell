@@ -17,6 +17,9 @@ Jens Hansen, Ravi Iyengar. MBC PathNet: Integration and visualization of network
 Additional MBCO datasets:<br>
 Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022 Jun 10;8(23). PMID: 35675394. https://doi.org/10.1126/sciadv.abn4965<br>
 <br>
+<b><i><u>MBCO v2 has been released as a beta version, since it has not been peer-reviewed yet.</u></i></b><br>
+<br>
+<br>
 <b><i><u>The last update of MBC PathNet was uploaded on November 27, 2026.</u></i></b><br>
 <br>
 To use the application, download the zip-folder by pressing the green 'Code'-button on the upper right side of this GitHub internet page. After unpacking of the downloaded folder, copy its subfolder "MBC_PathNet" to your hard drive. Avoid long directory names, as they can prevent the application from writing result files.<br>
