@@ -1,7 +1,7 @@
 Please acknowledge the MBC Ontology and MBC PathNet in your publications by citing the following references:<br/>
 <br>
 MBCO v2:<br>
-Functional cooperation, adaptation and synchronization of subcellular processes in cellular neighborhoods as inferred from spatial transcriptomics
+Functional cooperation, adaptation and synchronization of subcellular processes in cellular neighborhoods as inferred from spatial transcriptomics.
 Jens Hansen, Ravi Iyengar. bioRxiv 2026.11.24.768887; doi: https://doi.org/10.64898/2026.11.24.768887<br>
 <br>
 MBCO v1:<br>
