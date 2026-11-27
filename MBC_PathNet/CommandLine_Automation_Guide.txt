@@ -96,7 +96,7 @@ Available arguments:
 --minimum-column-names: Selects 'Minimum' default column names
 --optimum-column-names: Selects 'Optimum' default column names
 --ontology my_ontology: Selects and overwrites the next ontology specified in 'MBC_pathNet_parameter_settings.txt'
-                 available ontologies: 'MBCO','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2'
+                 available ontologies: 'Mbco2_beta','Mbco','GO_BP','GO_MF','GO_CC','Reactome', 'Custom_1','Custom_2'
                  (to replace my_ontology, case-insensitive)
 --species my_species: Selects and overwrites the next species ('next_organism') specified in 'MBC_pathNet_parameter_settings.txt'
                   available species: 'human', 'mouse', 'rat', 'chicken', 'dog', 'pig', 'cow', 'zebrafish',
