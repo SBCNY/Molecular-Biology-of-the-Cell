@@ -15,7 +15,7 @@ MBC PathNet:<br>
 MBC PathNet: Integration and visualization of networks connecting functionally related pathways predicted from transcriptomic and proteomic datasets. Jens Hansen, Ravi Iyengar. Bioinform Adv. 2025 Aug 18;5(1). PMID: 40917650. https://doi.org/10.1093/bioadv/vbaf197<br>
 <br>
 Additional MBCO datasets:<br>
-Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. A reference tissue atlas for the human kidney. Sci Adv. 2022 Jun 10;8(23). PMID: 35675394. https://doi.org/10.1126/sciadv.abn4965<br>
+A reference tissue atlas for the human kidney. Hansen, Sealfon, Menon et al. for the Kidney Precision Medicine Project. Sci Adv. 2022 Jun 10;8(23). PMID: 35675394. https://doi.org/10.1126/sciadv.abn4965<br>
 <br>
 <b><i><u>MBCO v2 has been released as a beta version, since it has not been peer-reviewed yet.</u></i></b><br>
 <br>
