@@ -1,5 +1,10 @@
-<b>Update history</b><br>
+<b>MBC PathNet Update history</b><br>
+November 27, 2026
 <br>
+- The beta version of MBCO v2 has been added to MBC PathNet. Please look at our referenced bioRxiv preprint for details.
+- We added the new menu 'Enrich2Net' that allows upload of external enrichment results to generate SCP networks and figures.
+- The 'SCP networks' menu now offers options to draw nodes and pie charts without black borders and to label SCPs with abbreviations instead of full names.
+
 October 1, 2026
 - An error occurring during the preparation of more recent Gene Ontology datasets was fixed.
   
